@@ -1,9 +1,12 @@
 {
-  "name": "John",
-  "age": 30,
-  "city": "New York",
-  "urls": {
-    "website": "https://example.com",
-    "github": "https://github.com/aliayoub1805"
-  }
+    "urls":
+    {
+        "package_1":
+        {
+            "training":
+            {
+                "reading_1":["a1","a2","a3"]
+            }
+        }
+    }
 }
