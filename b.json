@@ -1,0 +1,9 @@
+{
+  "name": "John",
+  "age": 30,
+  "city": "New York",
+  "urls": {
+    "website": "https://example.com",
+    "github": "https://github.com/aliayoub1805"
+  }
+}
