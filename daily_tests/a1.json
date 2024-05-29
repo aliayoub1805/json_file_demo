@@ -3,9 +3,36 @@
         "sen":{
             "q1":{
                 "content":"",
-                "opt":[],
+                "opts":[],
                 "answer":0
             }
+        },
+        "res":{
+            "q1":{
+                "content":"",
+                "opts":[],
+                "answer":0
+            }
+        },
+        "passages":{
+            "p1":{
+                "content":[],
+                "questions":{
+                    "q1":{
+                        "content":"",
+                        "opts":[],
+                        "answer":0
+                    }
+                }
+            }
         }
+    },
+    "dictionary":{
+        "words":[]
+    },
+    "vocabulary":{
+        "writing":[],
+        "oral":[],
+        "literurate":[]
     }
 }
