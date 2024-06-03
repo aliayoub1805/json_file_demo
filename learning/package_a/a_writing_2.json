@@ -1,0 +1,25 @@
+{
+    "0":"In recent years, there has been a growing debate over whether vaccinations should be mandatory for children attending public schools. Proponents argue that mandatory vaccinations protect public health by ensuring herd immunity and preventing outbreaks of infectious diseases. Opponents claim that mandatory vaccinations infringe on personal freedoms and parental rights.",
+    
+    "1":["Do you believe vaccinations should be mandatory for school attendance?",
+         "Provide reasons for your opinion."],
+    
+    "2":["1- تقديم الفكرة الأساسية",
+        "2- تقديم الأدلة والأمثلة",
+        "3- ربط الأدلة بالنقطة الأساسية"],
+    
+    "3":["تقديم الفكرة والأدلة",
+        "1- تقديم الفكرة الأساسية: ابدأ كل فقرة بجملة موضوعية تحدد النقطة التي ستناقشها",
+        "Firstly, mandatory vaccinations are essential for maintaining herd immunity",
+        "2- تقديم الأدلة والأمثلة: استخدم أدلة ملموسة، مثل الإحصاءات أو الدراسات العلمية، لدعم النقطة التي تطرحها. تأكد من أن الأدلة ذات صلة ومقنعة.",
+        "For example, communities with low vaccination rates have seen outbreaks of diseases like measles, which can be prevented by vaccines."],
+    
+    "4":["ربط الأدلة بالنقطة الأساسية",
+        "بعد تقديم الأدلة، وضح كيف تدعم النقطة الأساسية التي تقدمها في الفقرة.",
+        "This shows that high vaccination rates are crucial to prevent disease outbreaks and protect public health."],
+        
+    "5":["Firstly, mandatory vaccinations are essential for maintaining herd immunity ,",
+        "For example, communities with low vaccination rates have seen outbreaks of diseases like measles, which can be prevented by vaccines.",
+        "This shows that high vaccination rates are crucial to prevent disease outbreaks and protect public health."]
+
+}
