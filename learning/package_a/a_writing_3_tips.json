@@ -1,0 +1,25 @@
+{
+    "0":["فقرة الرأي المعارض","Counterargument"],
+    
+    "1":["كيفية كتابة فقرة الرأي المعارض بطريقة مثلى",
+         "In recent years, there has been a growing debate over whether vaccinations should be mandatory for children attending public schools. Proponents argue that mandatory vaccinations protect public health by ensuring herd immunity and preventing outbreaks of infectious diseases. Opponents claim that mandatory vaccinations infringe on personal freedoms and parental rights.",
+         "Do you believe vaccinations should be mandatory for school attendance?",
+         "Provide reasons for your opinion."],
+
+    "2":["عرض وجهة النظر المعارضة بحيادية",
+        "ابدأ الفقرة بجملة توضح وجهة النظر المعارضة بشكل محايد وموضوعي.",
+        "Opponents argue that mandatory vaccinations infringe on parental rights and personal freedoms."],
+    
+    "3":["تقديم الحجج والأدلة",
+        "اشرح الحجج التي يقدمها المعارضون بشكل واضح ومختصر. حاول تقديم الحجج القوية التي يمكن أن يستخدمها المعارضون.",
+        "They believe that parents should have the right to make medical decisions for their children without government intervention."],
+
+    "4":["تمهيد لفكرة الدحض",
+        "انهي الفقرة بجملة تهيئ القارئ لفكرة الدحض في الفقرة التالية.",
+        "While these concerns are understandable, they overlook crucial aspects of public health."],
+
+    "5":["مثال على فقرة الرأي المخالف",
+        "Opponents argue that mandatory vaccinations infringe on parental rights and personal freedoms.",
+        "They believe that parents should have the right to make medical decisions for their children without government intervention.",
+        "While these concerns are understandable, they overlook crucial aspects of public health."]
+}

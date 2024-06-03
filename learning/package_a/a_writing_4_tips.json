@@ -1,0 +1,25 @@
+{
+    "0":["فقرة دحض الرأي المخالف او المعارض","Rebuttal"],
+    
+    "1":["كيفية كتابة فقرة دحض الرأي المخالف او المعارض بطريقة مثلى",
+         "In recent years, there has been a growing debate over whether vaccinations should be mandatory for children attending public schools. Proponents argue that mandatory vaccinations protect public health by ensuring herd immunity and preventing outbreaks of infectious diseases. Opponents claim that mandatory vaccinations infringe on personal freedoms and parental rights.",
+         "Do you believe vaccinations should be mandatory for school attendance?",
+         "Provide reasons for your opinion."],
+    
+    "2":["دحض الحجج المعارضة",
+        "ابدأ الفقرة بجملة ترد مباشرة على الحجج التي قدمتها في فقرة Counterargument. استخدم أدلة جديدة إذا لزم الأمر.",
+        "However, vaccines undergo rigorous testing and the benefits far outweigh the minimal risks."],
+
+    "3":["توضيح الفوائد العامة",
+        "اشرح كيف أن الفوائد العامة تتفوق على المخاوف الشخصية. استخدم أمثلة أو إحصاءات لدعم موقفك.",
+        "The risk of side effects from vaccines is extremely low compared to the risk posed by the diseases they prevent."],
+    
+    "4":["ربط الدحض بالنقطة الأساسية",
+        "اربط الدحض بالنقطة الأساسية لموقفك لتعزيز قوة حجتك.",
+        "Therefore, mandatory vaccinations are a necessary measure to protect the health and safety of the community."],
+    
+    "5":["مثال على كتابة فقرة دحض الرأي المخالف",
+        "However, vaccines undergo rigorous testing and the benefits far outweigh the minimal risks.",
+        "The risk of side effects from vaccines is extremely low compared to the risk posed by the diseases they prevent.",
+        "Therefore, mandatory vaccinations are a necessary measure to protect the health and safety of the community."]
+}

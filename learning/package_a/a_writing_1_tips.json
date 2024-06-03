@@ -1,18 +1,21 @@
 {
-    "0":["كيفية كتابة المقدمة بطريقة مثلى",
+     "0":["المقدمة","Introduction"],
+     "1":["كيفية كتابة المقدمة بطريقة مثلى",
          "In recent years, there has been a growing debate over whether vaccinations should be mandatory for children attending public schools. Proponents argue that mandatory vaccinations protect public health by ensuring herd immunity and preventing outbreaks of infectious diseases. Opponents claim that mandatory vaccinations infringe on personal freedoms and parental rights.",
          "Do you believe vaccinations should be mandatory for school attendance?",
          "Provide reasons for your opinion."],
-    "1":["تقديم الموضوع","بدأ بجملة تمهيدية تعرف القارئ بالموضوع بشكل عام. استخدم معلومات أو حقائق رئيسية لتقديم خلفية عن الموضوع.",
+   
+     "2":["تقديم الموضوع","بدأ بجملة تمهيدية تعرف القارئ بالموضوع بشكل عام. استخدم معلومات أو حقائق رئيسية لتقديم خلفية عن الموضوع.",
          "The debate over mandatory vaccinations for school attendance has intensified in recent years."],
-    "2":["عرض الرأيين المختلفين",
+    "3":["عرض الرأيين المختلفين",
          "قدم بإيجاز وجهتي النظر المختلفتين حول الموضوع. استخدم جمل مختصرة لتوضيح الحجج الرئيسية لكل جانب.",
          "Proponents argue that mandatory vaccinations protect public health by ensuring herd immunity, while opponents claim it infringes on personal freedoms and parental rights."],
-    "3":["بيان الرأي الشخصي",
+    "4":["بيان الرأي الشخصي",
          "انتهِ بعبارة توضح موقفك الشخصي بوضوح. هذا يساعد على توجيه المقال ويحدد النقاط التي ستناقشها لاحقًا.",
          "I believe vaccinations should be mandatory for children attending public schools to ensure public health and safety."],
-    "4":["المقدمة",
+    "5":["مثال على المقدمة",
          "The debate over mandatory vaccinations for school attendance has intensified in recent years.",
          "Proponents argue that mandatory vaccinations protect public health by ensuring herd immunity, while opponents claim it infringes on personal freedoms and parental rights.",
          "I believe vaccinations should be mandatory for children attending public schools to ensure public health and safety."]
+     
 }
