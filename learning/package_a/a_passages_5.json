@@ -1,0 +1,24 @@
+{
+    "0":"The discovery of water on Mars has sparked excitement among scientists and space enthusiasts alike. This finding suggests that the Red Planet may have once harbored life or could potentially support future human colonization. The presence of water is crucial for sustaining life, and its existence on Mars opens up new avenues for research and exploration. Future missions are being planned to further investigate this groundbreaking discovery.",
+
+    "1":["What is the main idea of the paragraph?",
+        "(1) The history of water on Mars.",
+        "(2) The potential for human colonization of Mars.",
+        "(3) The discovery of water on Mars and its implications.",
+        "(4) Future missions to Mars."],
+
+    "2":["1- قراءة الفقرة بعناية وتحديد الفكرة المركزية",
+        "2- البحث عن الدليل في النص",
+        "3- استبعاد الخيارات غير الصحيحة"],
+    
+    "3":["البحث عن الدليل في النص",
+        "discovery of water on Mars, research and exploration, implications"],
+    
+    "4":["إستبعاد الخيارات الغير صحيحة",
+        "(1) تاريخ الماء على كوكب المريخ.",
+        "(2) إمكانية الاستعمار البشري للمريخ.",
+        "(4) البعثات المستقبلية إلى المريخ."],
+        
+    "5":["(3) The discovery of water on Mars and its implications.",
+        "(3) اكتشاف الماء على المريخ وانعكاساته."]    
+}
