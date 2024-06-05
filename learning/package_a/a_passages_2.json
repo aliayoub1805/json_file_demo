@@ -1,0 +1,22 @@
+{
+    "0":"In a groundbreaking scientific achievement, researchers have successfully developed a new form of renewable energy. This innovative technology harnesses the power of ocean waves to generate electricity. By capturing the kinetic energy from waves, scientists can now provide a sustainable and eco-friendly energy source. This advancement has the potential to reduce our reliance on fossil fuels and decrease greenhouse gas emissions significantly.",
+    "1":["What is the main idea of the paragraph?",
+        "(1) The development of a new form of renewable energy.",
+        "(2) The importance of fossil fuels.",
+        "(3) The increase in greenhouse gas emissions.",
+        "(4) The challenges of harnessing ocean waves."],
+        
+    "2":["1- قراءة الفقرة بعناية وتحديد الفكرة المركزية",
+        "2- البحث عن الدليل في النص",
+        "3- استبعاد الخيارات غير الصحيحة"],
+    
+    "3":["البحث عن الدليل في النص",
+        "new form of renewable energy , harnesses the power of ocean waves, sustainable and eco-friendly energy source."],
+    
+    "4":["استبعاد الخيارات غير الصحيحة",
+        "(2) لانه يتطرق الى أهمية الوقود الأحفوري",
+        "(3) يتطرق الى زيادة انبعاثات الغازات الدفيئة",
+        "(4) يتحدث عن تحديات تسخير أمواج المحيط"],
+    "5":["(1) The development of a new form of renewable energy.",
+        "(1) تطوير شكل جديد من الطاقة المتجددة"]
+}
