@@ -1,26 +1,27 @@
 {
-    
-    "_1":"is question",
-    "1":[
-        "She hadn’t eaten all day, and by the time she got home she was______.", 
+    "0":["She hadn’t eaten all day, and by the time she got home she was______.", 
         "(1) blighted" ,"(2) confutative" ,"(3) ravenous" ,"(4) ostentatious"], 
-    "_2":"solution's steps",
-    "2":["1- فهم سياق الجملة ومعناها","2- معرفة معاني الكلمات","3- تطبيق الخيارات واختيار الجواب الصحيح"],
+
+    "1":["طرق الحل المثلى","1- فهم سياق الجملة ومعناها","2- معرفة معاني الكلمات","3- تطبيق الخيارات واختيار الجواب الصحيح"],
     
-    "_3":"meaning or how to solve",
+    "2":["فهم سياق الجملة ومعناها",
+        "She hadn’t eaten all day, and by the time she got home she was______.",
+        "لم تأكل طوال اليوم، وعندما عادت إلى المنزل كانت ______."],
+    
     "3":["معاني الكلمات",
         "blighted: مدمَّر أو تالف",
         "confutative: متناقض أو يدحض (وهي كلمة غير شائعة جدًا)",
         "ravenous: جائع جدًا",
         "ostentatious: متباهٍ أو متفاخر"],
-    
-    "_4":"execution",
-    "4":["اختبار الكلمات في السياق",
+
+    "4":["اختبار الكلمات في السياق والبحث عن كلمة التي تدل عن الجوع",
         "blighted: غير مناسبة لأن الشخص لا يصبح مدمراً بسبب الجوع.",
         "confutative: غير مناسبة لأنها لا تتعلق بالجوع.",
         "ravenous: مناسبة لأنها تصف حالة الجوع الشديد.",
         "ostentatious: غير مناسبة لأنها تعني التباهي ولا تتعلق بالجوع."],
-    "_5":"finaly answer",
-    "5":["She hadn’t eaten all day, and by the time she got home she was ravenous.",
+    
+    "5":["الحل",
+        "She hadn’t eaten all day, and by the time she got home she was ravenous.",
         "لم تأكل طوال اليوم، وعندما وصلت إلى المنزل كانت جائعة جداً."]
+    
 }
