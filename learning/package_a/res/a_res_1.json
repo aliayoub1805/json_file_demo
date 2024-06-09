@@ -1,0 +1,28 @@
+{
+    "1":["The latest John and Maria could get away would be the 13th.",
+        "(1) It is not possible for John and Maria to depart after the 13th.",
+        "(2) John and Maria shouldn't depart any earlier than the 13th.",
+        "(3) John and Maria must have left before the 13th.",
+        "(4) John and Maria are going to try to get away on the 13th."],
+    
+    "2":["1- فهم النص الأصلي بشكل كامل لتحديد النقطة الأساسية.",
+        "2- مقارنة كل خيار مع محتوى الجملة الأصلية لمعرفة ما إذا كان يعبر بدقة عن نفس المعنى.",
+        "3- التأكد من أن الخيار النهائي يعبر بشكل دقيق عن محتوى الجملة الأصلية."],
+    
+    "3":["فهم النص الأصلي بشكل كامل.",
+        "أقصى موعد يمكن لجون وماريا المغادرة فيه هو يوم 13."],
+
+    "4":["مقارنة كل خيار مع الجملة الاصلية",
+        "1- It is not possible for John and Maria to depart after the 13th.",
+        "هذا الخيار يقول أنه ليس من الممكن لجون وماريا المغادرة بعد يوم 13، وهو يتوافق مع الجملة المعطاة.",
+        "2- John and Maria shouldn't depart any earlier than the 13th.",
+        "هذا الخيار يقول أنه لا يجب على جون وماريا المغادرة قبل يوم 13، وهذا مختلف عن الجملة المعطاة.",
+        "3- John and Maria must have left before the 13th.",
+        "هذا الخيار يقول أن جون وماريا يجب أن يكونوا قد غادروا قبل يوم 13، وهو يناقض الجملة المعطاة.",
+        "4- John and Maria are going to try to get away on the 13th.",
+        "هذا الخيار يقول أن جون وماريا سيحاولان المغادرة في يوم 13، وهو لا يعكس المعنى الكامل للجملة المعطاة."],
+    
+    "5":["1- It is not possible for John and Maria to depart after the 13th.",
+        "ليس من الممكن لجون وماريا المغادرة بعد يوم 13."]
+
+}
