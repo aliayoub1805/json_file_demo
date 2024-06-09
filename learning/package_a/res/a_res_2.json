@@ -1,0 +1,28 @@
+{
+    "1":["No matter how much effort James puts in, I doubt he'll meet the deadline.",
+        "(1) It seems James won't meet the deadline, regardless of his effort.",
+        "(2) James will fail to meet the deadline even if he works very hard.",
+        "(3) James should not bother trying as he won't meet the deadline.",
+        "(4) Despite his efforts, James might not meet the deadline."],
+    
+    "2":["1- فهم النص الأصلي بشكل كامل لتحديد النقطة الأساسية.",
+        "2- مقارنة كل خيار مع محتوى الجملة الأصلية لمعرفة ما إذا كان يعبر بدقة عن نفس المعنى.",
+        "3- التأكد من أن الخيار النهائي يعبر بشكل دقيق عن محتوى الجملة الأصلية."],
+    
+    "3":["فهم النص الأصلي بشكل كامل.",
+        "بغض النظر عن مقدار الجهد الذي يبذله جيمس، أشك في أنه سيلتزم بالموعد النهائي."],
+
+    "4":["مقارنة كل خيار مع الجملة الاصلية",
+        "1- It seems James won't meet the deadline, regardless of his effort.",
+        "نه يبدو أن جيمس لن يلتزم بالموعد النهائي بغض النظر عن جهده، وهو يتطابق مع المعنى.",
+        "2- James will fail to meet the deadline even if he works very hard.",
+        "هذا الخيار يتحدث عن الفشل حتى مع الجهد الكبير، ولكن لا يعبر عن الشك.",
+        "3- James should not bother trying as he won't meet the deadline.",
+        "هذا الخيار يشير إلى عدم محاولة جيمس وهذا ليس المذكور.",
+        "4- Despite his efforts, James might not meet the deadline.",
+        "هذا الخيار يتحدث عن احتمال عدم الالتزام بدلاً من الشك."],
+
+    "5":["1- It seems James won't meet the deadline, regardless of his effort.",
+        "يبدو أن جيمس لن يفي بالموعد النهائي، بغض النظر عن جهوده."]
+
+}
