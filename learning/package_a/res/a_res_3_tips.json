@@ -1,0 +1,32 @@
+{
+    "0":["Even if Emily studies hard, she might not pass the exam.",
+        "(1) Regardless of how much Emily studies, she could fail the exam.",
+        "(2) Emily might not pass the exam, but she should still study hard.",
+        "(3) Studying hard won't necessarily help Emily pass the exam.",
+        "(4) Emily should give up studying as it won't ensure she passes."],
+
+    "1":["1- فهم النص الأصلي بشكل كامل لتحديد النقطة الأساسية.",
+        "2- مقارنة كل خيار مع محتوى الجملة الأصلية لمعرفة ما إذا كان يعبر بدقة عن نفس المعنى.",
+        "3- التأكد من أن الخيار النهائي يعبر بشكل دقيق عن محتوى الجملة الأصلية."],
+    
+    "2":["فهم النص الأصلي بشكل كامل.",
+        "حتى لو درست إيميلي بجد، فإنها قد لا تنجح في الامتحان."], 
+        
+    "3":["مقارنة كل خيار مع الجملة الاصلية",
+        "(1) It seems James won't meet the deadline, regardless of his effort.",
+        "هذا الخيار قول إنه بغض النظر عن مقدار ما تدرسه إميلي، قد تفشل في الامتحان، وهو يتطابق مع المعنى.",
+        "(2) James will fail to meet the deadline even if he works very hard.",
+        "هذا الخيار يتحدث عن الدراسة مع الشك، لكن لا يعبر عن نفس المعنى بشكل دقيق.",
+        "(3) James should not bother trying as he won't meet the deadline.",
+        "هذا الخيار يشير إلى عدم فعالية الدراسة، ولكنه ليس بنفس القوة.",
+        "(4) Despite his efforts, James might not meet the deadline.",
+        "هذا الخيار يقترح التخلي عن الدراسة، وهو ليس المعنى المقصود."
+        ],
+
+    "4":["إيجاد الدليل",
+        "كلمات ",
+        "Regardless ,  she could fail"],
+    
+    "5":["(1) Regardless of how much Emily studies, she could fail the exam.",
+        "(1) بغض النظر عن مدى دراسة إيميلي، فإنها يمكن أن تفشل في الامتحان."]
+}

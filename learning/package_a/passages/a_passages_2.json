@@ -14,9 +14,13 @@
         "new form of renewable energy , harnesses the power of ocean waves, sustainable and eco-friendly energy source."],
     
     "4":["استبعاد الخيارات غير الصحيحة",
-        "(2) لانه يتطرق الى أهمية الوقود الأحفوري",
-        "(3) يتطرق الى زيادة انبعاثات الغازات الدفيئة",
-        "(4) يتحدث عن تحديات تسخير أمواج المحيط"],
+        "(2) The importance of fossil fuels.",
+        "لانه يتطرق الى أهمية الوقود الأحفوري",
+        "(3) The increase in greenhouse gas emissions.",
+        "يتطرق الى زيادة انبعاثات الغازات الدفيئة",
+        "(4) The challenges of harnessing ocean waves.",
+        "يتحدث عن تحديات تسخير أمواج المحيط"],
+        
     "5":["(1) The development of a new form of renewable energy.",
         "(1) تطوير شكل جديد من الطاقة المتجددة"]
 }

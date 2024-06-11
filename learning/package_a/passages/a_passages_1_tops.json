@@ -1,27 +1,29 @@
 {
    "0":"Recycling is essential for protecting the environment. By reusing materials, we reduce waste, conserve natural resources, and save energy. It helps decrease pollution and minimizes the need for new raw materials. Everyone can contribute by sorting their waste and using recycling bins.",
+   
    "1":["What is one of the main benefits of recycling mentioned in the paragraph?",
         "(1) Increasing pollution",
         "(2) Conserving natural resources",
         "(3) Using more raw materials",
         "(4) Reducing energy consumption"],
-    "2":["1- قراءة الفقرة بعناية وتحديد الفكرة المركزية",
+
+    "2":["طرق الحل المثلى",
+        "1- قراءة الفقرة بعناية وتحديد الفكرة المركزية",
         "2- البحث عن الدليل في النص",
         "3- استبعاد الخيارات غير الصحيحة"],
+
     "3":["البحث عن الدليل في النص",
         "تحديد العبارات التي تشير إلى الفوائد الرئيسية مثل",
         "conserve natural resources ,  save energy, decrease pollution, reduce waste."],
-    "_3":["البحث عن الدليل في النص",
-        "الفقرة تذكر",
-        "conserve natural resources",
-        "(الحفاظ على الموارد الطبيعية) كفائدة رئيسية."],
+
     "4":["استبعاد الخيارات غير الصحيحة",
         "(1) Increasing pollution",
-        "زيادة التلوث",
+        "زيادة التلوث: هذا الخيار غير صحيح لان الفقرة تشير الى تقليل التلوث.",
         "(3) Using more raw materials",
-        "إستخدام مواد الخام",
+        "إستخدام مواد الخام: هذا الخيار غير صحيح الفقرة توضح أن إعادة التدوير تقلل الحاجة إلى المواد الخام الجديدة.",
         "(4) Reducing energy consumption",
-        "تقليل استهلاك الطاقة"],
-    "5":["(2) Conserving natural resources.",
+        "تقليل إستهلاك الطاقة : هذا الخيار غير صحيح على الرغم من أن هذا الخيار صحيح من الناحية النظرية، حيث أن إعادة التدوير تساعد في تقليل استهلاك الطاقة."],
+    "5":["الجواب الصحيح",
+        "(2) Conserving natural resources.",
         "الحفاظ على الموارد الطبيعية."]
 }
