@@ -1,0 +1,31 @@
+{
+    "0":"Virtual reality (VR) technology has revolutionized the gaming industry, providing players with immersive experiences that were once unimaginable. By creating realistic 3D environments, VR allows users to feel as if they are truly part of the game world. This technology is not only transforming entertainment but also has applications in fields such as education and healthcare. With continuous advancements, VR is expected to become even more integrated into our daily lives.",
+
+    "1":["What is the main idea of the paragraph?",
+        "(1) The history of virtual reality technology.",
+        "(2) The impact of VR on the gaming industry.",
+        "(3) The applications of VR beyond gaming.",
+        "(4) The future of virtual reality technology."],
+
+    "2":["1- قراءة الفقرة بعناية وتحديد الفكرة المركزية",
+        "2- البحث عن الدليل في النص",
+        "3- استبعاد الخيارات غير الصحيحة"],
+
+    "3":["1- قراءة الفقرة بعناية وتحديد الفكرة المركزية",
+        "الفقرة تتحدث عن تأثير تقنية الواقع الافتراضي على صناعة الألعاب."],
+    "4":["2- البحث عن الدليل في النص",
+        "Virtual reality (VR) technology, immersive experiences, revolutionized the gaming industry"],
+
+    "5":["3- استبعاد الخيارات غير الصحيحة",
+        "(1) The history of virtual reality technology.",   
+        "تاريخ تكنولوجيا الواقع الافتراضي.",
+        "(3) The applications of VR beyond gaming.",
+        "تطبيقات الواقع الافتراضي خارج نطاق الألعاب.",
+        "(4) The future of virtual reality technology.",
+        "مستقبل تكنولوجيا الواقع الافتراضي."],
+
+    "6":["الجواب النهائي",
+        "(2) The impact of VR on the gaming industry.",
+        "(2) تأثير الواقع الافتراضي على صناعة الألعاب."]
+
+}

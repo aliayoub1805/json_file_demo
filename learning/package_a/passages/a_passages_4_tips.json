@@ -1,0 +1,31 @@
+{
+    "0":"In recent years, scientists have made significant strides in the field of artificial intelligence. These advancements have led to the creation of sophisticated algorithms that can perform tasks previously thought to be the exclusive domain of humans. From diagnosing diseases to driving autonomous vehicles, AI is transforming industries and improving efficiency. As technology continues to evolve, the potential applications of AI seem limitless.",
+
+    "1":["What is the main idea of the paragraph?",
+        "(1) The limitations of artificial intelligence.",
+        "(2) The impact of AI on various industries.",
+        "(3) The process of creating AI algorithms.",
+        "(4) The future of autonomous vehicles"],
+
+    "2":["1- قراءة الفقرة بعناية وتحديد الفكرة المركزية",
+        "2- البحث عن الدليل في النص",
+        "3- استبعاد الخيارات غير الصحيحة"],
+    
+    "3":["1- قراءة الفقرة بعناية وتحديد الفكرة المركزية",
+        "الفقرة تتحدث عن التقدم الكبير الذي تم إحرازه في مجال الذكاء الاصطناعي وكيف يؤثر هذا التقدم على مختلف الصناعات ويحسن الكفاءة."],
+    
+    "4":["2- البحث عن الدليل في النص",
+        "transforming industries, significant strides in the field of artificial intelligence, improving efficiency"],
+    
+    "5":["3- استبعاد الخيارات غير الصحيحة",
+        "(1) The limitations of artificial intelligence.",
+        "حدود وقدرات مجالات الذكاء الاصطناعي.",
+        "(3) The process of creating AI algorithms.",
+        "يتطرق الى عملية إنشاء خوارزميات للذكاء الاصطناعي.",
+        "(4) The future of autonomous vehicles",
+        "(4) يتطرق فقط الى مستقبل مركبات ذاتية القيادة."],
+
+    "6":["الجواب النهائي",
+        "(2) The impact of AI on various industries.",
+        "(2) تأثير الذكاء الاصطناعي على الصناعات المختلفة."]
+}
