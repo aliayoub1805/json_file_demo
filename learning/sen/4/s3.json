@@ -1,0 +1,28 @@
+{
+    "1":[
+        "A mammal is an animal that is characterized by the presence of hair or fur and typically gives birth to live young and produces milk to feed its offspring. A common example of a mammal is a ____.",
+        "(1) fish","(2) bird","(3) cat","(4) reptile"
+    ],
+
+    "2":["1- معرفة معاني الكلمات","2- فهم سياق الجملة ومعناها","3- تطبيق الخيارات واختيار الجواب الصحيح"],
+
+    "3":["معاني الكلمات",
+        "(1) fish: سمكة",
+        "(2) bird: طائر",
+        "(3) cat: قطة",
+        "(4) reptile: زواحف"
+    ],
+
+    "4":["اختبار الكلمات في السياق",
+        "الجملة تشرح خصائص الثدييات.",
+        "(1) fish: غير منطقي، لأن الأسماك ليست ثدييات.",
+        "(2) bird: غير منطقي، الطيور ليست ثدييات.",
+        "(3) cat: منطقي، القطة هي مثال شائع للثدييات.",
+        "(4) reptile: غير منطقي، الزواحف ليست ثدييات."
+    ],
+
+    "5":[
+        "A mammal is an animal that is characterized by the presence of hair or fur and typically gives birth to live young and produces milk to feed its offspring. A common example of a mammal is a cat.",
+        "الثدييات هي حيوانات تتميز بوجود الشعر أو الفراء وعادة ما تلد صغارها وتنتج الحليب لإطعام صغارها. ومن الأمثلة الشائعة على الثدييات القطط."
+    ]
+}

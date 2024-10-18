@@ -1,0 +1,28 @@
+{
+    "1":[
+        "A tsunami is a series of large ocean waves caused by underwater disturbances such as earthquakes or volcanic eruptions. These waves can lead to catastrophic ____ when they reach coastal areas.",
+        "(1) floods","(2) droughts","(3) blizzards","(4) earthquakes"
+    ],
+
+    "2":["1- معرفة معاني الكلمات","2- فهم سياق الجملة ومعناها","3- تطبيق الخيارات واختيار الجواب الصحيح"],
+
+    "3":["معاني الكلمات",
+        "(1) floods: فيضانات",
+        "(2) droughts: جفاف",
+        "(3) blizzards: عواصف ثلجية",
+        "(4) earthquakes: زلازل"
+    ],
+
+    "4":["اختبار الكلمات في السياق",
+        "الجملة توضح آثار تسونامي.",
+        "(1) floods: منطقي، لأن تسونامي يمكن أن يتسبب في فيضانات كبيرة.",
+        "(2) droughts: غير منطقي، الجفاف لا يتناسب مع سياق تسونامي.",
+        "(3) blizzards: غير منطقي، العواصف الثلجية ليست مرتبطة بالتسونامي.",
+        "(4) earthquakes: غير منطقي، الزلازل يمكن أن تسبب التسونامي، لكن لا تعني آثارها."
+    ],
+
+    "5":[
+        "A tsunami is a series of large ocean waves caused by underwater disturbances such as earthquakes or volcanic eruptions. These waves can lead to catastrophic floods when they reach coastal areas.",
+        "التسونامي عبارة عن سلسلة من الأمواج الضخمة في المحيطات ناجمة عن اضطرابات تحت الماء مثل الزلازل أو الانفجارات البركانية. ويمكن أن تؤدي هذه الأمواج إلى فيضانات كارثية عندما تصل إلى المناطق الساحلية."
+    ]
+}

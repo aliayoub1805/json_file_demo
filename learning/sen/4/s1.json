@@ -1,0 +1,28 @@
+{
+    "1":[
+        "A photosynthesis is the process by which green plants use sunlight to convert ____ into energy.",
+        "(1) oxygen","(2) carbon dioxide","(3) nitrogen","(4) hydrogen"
+    ],
+
+    "2":["1- معرفة معاني الكلمات","2- فهم سياق الجملة ومعناها","3- تطبيق الخيارات واختيار الجواب الصحيح"],
+
+    "3":["معاني الكلمات",
+        "(1) oxygen: الأكسجين",
+        "(2) carbon dioxide: ثاني أكسيد الكربون",
+        "(3) nitrogen: النيتروجين",
+        "(4) hydrogen: الهيدروجين"
+    ],
+
+    "4":["اختبار الكلمات في السياق",
+        "الجملة تتحدث عن عملية طبيعية تتعلق بالنباتات.",
+        "(1) oxygen: غير منطقي، لا يتم تحويل الأكسجين إلى طاقة.",
+        "(2) carbon dioxide: منطقي، النباتات تستخدم ثاني أكسيد الكربون في عملية التمثيل الضوئي.",
+        "(3) nitrogen: غير منطقي، ليس له علاقة بالعملية.",
+        "(4) hydrogen: غير منطقي، لا يتناسب مع السياق."
+    ],
+
+    "5":[
+        "A photosynthesis is the process by which green plants use sunlight to convert carbon dioxide into energy.",
+        "التمثيل الضوئي هو العملية التي تستخدم بها النباتات الخضراء ضوء الشمس لتحويل ثاني أكسيد الكربون إلى طاقة."
+    ]
+}

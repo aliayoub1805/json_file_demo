@@ -1,0 +1,26 @@
+{
+    "1":["The scientist conducted an experiment to test the ____ of the new drug.",
+        "(1) effectiveness",
+        "(2) visibility",
+        "(3) temperature",
+        "(4) location"],
+    
+    "2":["1- معرفة معاني الكلمات","2- فهم سياق الجملة ومعناها","3- تطبيق الخيارات واختيار الجواب الصحيح"],
+
+    "3":["معاني الكلمات",
+        "(1) effectiveness: الفعالية",
+        "(2) visibility: الرؤية",
+        "(3) temperature: درجة الحرارة",
+        "(4) location: الموقع"],
+
+    "4":["اختبار الكلمات في السياق",
+        "الجملة تتحدث عن تجربة علمية تهدف إلى اختبار شيء يتعلق بالعقار الجديد.",
+        "(1) effectiveness: منطقي، يتعلق بكيفية عمل الدواء.",
+        "(2) visibility: غير منطقي، لا يتناسب مع السياق.",
+        "(3) temperature: غير منطقي، ليس له علاقة بالدواء.",
+        "(4) location: غير منطقي، لا يتناسب مع الموضوع."],
+    
+    "5":["The scientist conducted an experiment to test the effectiveness of the new drug.",
+        "أجرى العالم تجربة لاختبار فعالية العقار الجديد."]
+
+}

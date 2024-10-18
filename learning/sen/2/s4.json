@@ -1,0 +1,29 @@
+{
+    "1":[
+        "The book provides a comprehensive overview of the ____ of climate change.",
+        "(1) impacts",
+        "(2) definitions",
+        "(3) illustrations",
+        "(4) colors"
+    ],
+
+    "2":["1- معرفة معاني الكلمات","2- فهم سياق الجملة ومعناها","3- تطبيق الخيارات واختيار الجواب الصحيح"],
+
+    "3":["معاني الكلمات",
+        "(1) impacts: التأثيرات",
+        "(2) definitions: التعريفات",
+        "(3) illustrations: الرسوم التوضيحية",
+        "(4) colors: الألوان"
+    ],
+    
+    "4":["اختبار الكلمات في السياق",
+        "الجملة تتحدث عن كتاب يتناول موضوع تغير المناخ.",
+        "(1) impacts: منطقي، يتعلق بتأثيرات تغير المناخ.",
+        "(2) definitions: غير منطقي، لا يتناسب مع السياق.",
+        "(3) illustrations: غير منطقي، ليس له علاقة بالموضوع.",
+        "(4) colors: غير منطقي، لا يتناسب مع السياق."
+    ],
+    
+    "5":["The book provides a comprehensive overview of the impacts of climate change.",
+        "يوفر الكتاب نظرة شاملة على تأثيرات تغير المناخ."]
+}

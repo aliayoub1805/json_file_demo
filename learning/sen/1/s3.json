@@ -1,0 +1,22 @@
+{
+    "1":["The children were so excited to visit the amusement park that they could hardly contain their ____.",
+        "(1) happiness", "(2) energy","(3) disappointment", "(4) fear"],
+
+    "2":["1- معرفة معاني الكلمات","2- فهم سياق الجملة ومعناها","3- تطبيق الخيارات واختيار الجواب الصحيح"],
+
+    "3":["معاني الكلمات",
+        "(1) happiness: سعادة",
+        "(2) energy: طاقة",
+        "(3) disappointment: خيبة أمل",
+        "(4) fear: خوف"],
+    
+    "4":["اختبار الكلمات في السياق",
+        "الجملة تتحدث عن حماس الأطفال لزيارة مدينة الملاهي.",
+        "(1) happiness: منطقي، لكن ليس الأكثر ملاءمة هنا.",
+        "(2) energy: منطقي، الأطفال عادةً ما يكون لديهم طاقة كبيرة، لكنهم لا يحتاجون إلى احتوائها.",
+        "(3) disappointment: غير منطقي، لا يتناسب مع السياق الإيجابي.",
+        "(4) fear: غير منطقي، حيث الأطفال متحمسون، وليسوا خائفين."],    
+    "5":["The children were so excited to visit the amusement park that they could hardly contain their happiness.",
+        "كان الأطفال متحمسين جدًا لزيارة مدينة الملاهي لدرجة أنهم بالكاد يستطيعون احتواء سعادتهم."
+    ]
+}
