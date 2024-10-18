@@ -1,0 +1,21 @@
+{
+    "1":["The movie was very interesting and kept me engaged.",
+        "(1) The film was boring and dull.",
+        "(2) The movie was interesting but too long.",
+        "(3) The film was very disappointing.",
+        "(4) The movie was entertaining and held my attention."],
+
+    "2":["1- اقرأ الجملة الأصلية ولفهم المعنى الكامل.",
+        "2- حدد الكلمات الرئيسية التي تحتاج إلى التركيز عليها.",
+        "3- إعادة صياغة الجملة."],
+
+    "3":["فهم المعنى الكامل للجملة.","تشير الجملة إلى أن الفيلم كان مثيرًا وجذب الانتباه.","تحديد الكلمات الرئيسية : interesting, kept me engaged"],
+    "4":["إعادة صياغة الجملة",
+        "(1) غير منطقي، يعبر عن عكس المعنى.",
+        "(2) غير منطقي، يتحدث عن تفاصيل إضافية.",
+        "(3) غير منطقي، يعبر عن معنى سلبي.",
+        "(4) منطقي، يعبر عن نفس المعنى."],
+    "5":[
+        "The movie was entertaining and held my attention.",
+        "كان الفيلم مسليًا ولفت انتباهي."]
+}

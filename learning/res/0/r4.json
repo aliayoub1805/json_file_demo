@@ -1,0 +1,21 @@
+{
+    "1":["He completed the project ahead of schedule.",
+        "(1) He finished the project on time.",
+        "(2) He completed the project after the deadline.",
+        "(3) He submitted the project earlier than planned.",
+        "(4) He started the project late."],
+
+    "2":["1- اقرأ الجملة الأصلية ولفهم المعنى الكامل.",
+        "2- حدد الكلمات الرئيسية التي تحتاج إلى التركيز عليها.",
+        "3- إعادة صياغة الجملة."],
+
+    "3":["فهم المعنى الكامل للجملة.","تتحدث الجملة عن إنهاء المشروع قبل الموعد المحدد.","تحديد الكلمات الرئيسية : completed, ahead of schedule"],
+    "4":["إعادة صياغة الجملة",
+        "(1) غير منطقي، يشير إلى إنهاء المشروع في الوقت المحدد.",
+        "(2) غير منطقي، يعبر عن عكس المعنى.",
+        "(3) منطقي، يعبر عن نفس المعنى.",
+        "(4) غير منطقي، يتحدث عن تأخير في البداية."],
+    "5":[
+        "He submitted the project earlier than planned.",
+        "قدم المشروع قبل الموعد المخطط له."]
+}

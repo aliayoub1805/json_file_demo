@@ -1,0 +1,21 @@
+{
+    "1":["She enjoys reading books in her free time.",
+        "(1) She dislikes reading books.",
+        "(2) She loves reading books during her spare time.",
+        "(3) She only reads books at work.",
+        "(4) She enjoys watching movies in her free time."],
+
+    "2":["1- اقرأ الجملة الأصلية ولفهم المعنى الكامل.",
+        "2- حدد الكلمات الرئيسية التي تحتاج إلى التركيز عليها.",
+        "3- إعادة صياغة الجملة."],
+
+    "3":["فهم المعنى الكامل للجملة.","تشير الجملة إلى استمتاعها بقراءة الكتب خلال وقت فراغها.","تحديد الكلمات الرئيسية : enjoys ,reading books, free time."],
+    "4":["إعادة صياغة الجملة",
+        "(1) غير منطقي، يعبر عن عكس المعنى.",
+        "(2) منطقي، يعبر عن نفس المعنى.",
+        "(3) غير منطقي، يتحدث عن سياق مختلف.",
+        "(4) غير منطقي، يعبر عن نشاط آخر."],
+    "5":[
+        "She loves reading books during her spare time.",
+        "إنها تحب قراءة الكتب في وقت فراغها."]
+}
