@@ -1,0 +1,23 @@
+{
+    "1":["She was surprised by the unexpected news she received yesterday.",
+        "(1) She was not shocked by the news.",
+        "(2) The news she got yesterday was anticipated.",
+        "(3) She was taken aback by the surprising news she got yesterday.",
+        "(4) She expected the news she received yesterday."],
+
+    "2":["1- اقرأ الجملة الأصلية ولفهم المعنى الكامل.",
+        "2- حدد الكلمات الرئيسية التي تحتاج إلى التركيز عليها.",
+        "3- إعادة صياغة الجملة."],
+
+    "3":["فهم المعنى الكامل للجملة.",
+        "الجملة تشير إلى أنها تفاجأت من الأخبار غير المتوقعة التي تلقتها.",
+        "تحديد الكلمات الرئيسية : surprised, unexpected news"],
+    "4":["إعادة صياغة الجملة",
+        "(1) غير منطقي، يعبر عن عكس المعنى.",
+        "(2) غير منطقي، يعبر عن عكس المعنى.",
+        "(3) منطقي، يعبر عن نفس المعنى.",
+        "(4) غير منطقي، يعبر عن عكس المعنى."],
+    "5":[
+        "She was taken aback by the surprising news she got yesterday.",
+        "لقد تفاجأت بالخبر المفاجئ الذي تلقته بالأمس."]
+}

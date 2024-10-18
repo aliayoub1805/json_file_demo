@@ -1,0 +1,23 @@
+{
+    "1":["The team worked hard to meet the deadline, and they successfully submitted the project on time.",
+        "(1) The team did not finish the project by the deadline.",
+        "(2) They worked diligently to ensure they completed the project late.",
+        "(3) The team put in a lot of effort to meet the deadline and managed to submit the project punctually.",
+        "(4) The team was lazy and missed the deadline."],
+
+    "2":["1- اقرأ الجملة الأصلية ولفهم المعنى الكامل.",
+        "2- حدد الكلمات الرئيسية التي تحتاج إلى التركيز عليها.",
+        "3- إعادة صياغة الجملة."],
+
+    "3":["فهم المعنى الكامل للجملة.",
+        "تتحدث الجملة عن جهد الفريق للالتزام بالموعد النهائي.",
+        "تحديد الكلمات الرئيسية : worked hard, meet the deadline, submitted the project on time"],
+    "4":["إعادة صياغة الجملة",
+        "(1) غير منطقي، يعبر عن عكس المعنى.",
+        "(2) غير منطقي، يعبر عن عكس المعنى.",
+        "(3) منطقي، يعبر عن نفس المعنى.",
+        "(4) غير منطقي، يعبر عن عكس المعنى."],
+    "5":[
+        "The team put in a lot of effort to meet the deadline and managed to submit the project punctually.",
+        "لقد بذل الفريق الكثير من الجهد لتلبية الموعد النهائي وتمكن من تقديم المشروع في الموعد المحدد."]
+}

@@ -1,0 +1,23 @@
+{
+    "1":["Although it was raining heavily, we decided to go for a walk.",
+        "(1) We chose to stay indoors because it was raining.",
+        "(2) We decided to walk despite the heavy rain.",
+        "(3) The rain stopped, so we went for a walk.",
+        "(4) We didn't go for a walk due to the heavy rain."],
+
+    "2":["1- اقرأ الجملة الأصلية ولفهم المعنى الكامل.",
+        "2- حدد الكلمات الرئيسية التي تحتاج إلى التركيز عليها.",
+        "3- إعادة صياغة الجملة."],
+
+    "3":["فهم المعنى الكامل للجملة.",
+        "الجملة تشير إلى قرار الخروج للمشي رغم الأمطار الغزيرة.",
+        "تحديد الكلمات الرئيسية : raining heavily , decided to go for a walk"],
+    "4":["إعادة صياغة الجملة",
+        "(1) غير منطقي، يعبر عن عكس المعنى.",
+        "(2) منطقي، يعبر عن نفس المعنى.",
+        "(3) غير منطقي، يعبر عن حدوث مختلف.",
+        "(4) غير منطقي، يعبر عن عكس المعنى."],
+    "5":[
+        "We decided to walk despite the heavy rain.",
+        "قررنا المشي رغم الأمطار الغزيرة."]
+}
