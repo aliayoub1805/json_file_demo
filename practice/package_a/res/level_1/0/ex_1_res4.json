@@ -1,21 +1,21 @@
 {
     "1":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4) "],
+        "The company's decision to implement a remote work policy was met with mixed reactions from employees.",
+        "(1) All employees were in complete agreement with the company's remote work policy.",
+        "(2) The company's remote work policy was welcomed by all employees.",
+        "(3) Employees had diverse opinions regarding the implementation of remote work.",
+        "(4) The decision to implement remote work faced no criticism from the staff."],
 
     "2":["فهم السياق ومعنى الجملة",
-        "",
+        "تشير الجملة إلى أن قرار الشركة بتطبيق سياسة العمل عن بُعد قوبل بردود فعل متباينة من الموظفين.",
         "معاني الكلمات",
-        "",
-        ""],
+        "mixed reactions: ردود فعل متباينة.",
+        "remote work policy: سياسة العمل عن بُعد."],
 
     "3":["تطبيق الخيارات:",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4) "],
-    "4":2  
+        "(1) غير صحيح، يتحدث عن الاتفاق الكامل.",
+        "(2) غير صحيح، يعبر عن الترحيب الكلي.",
+        "(3) صحيح، يعكس الفكرة بدقة.",
+        "(4) غير صحيح، يتحدث عن غياب النقد."],
+    "4":3  
 }

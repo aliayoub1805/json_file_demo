@@ -1,21 +1,22 @@
 {
     "1":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4) "],
+        "The scientist's groundbreaking research has opened new avenues in the field of renewable energy.",
+        "(1) The scientist's work has limited possibilities in renewable energy research.",
+        "(2) The scientist's innovative study has restricted advancements in energy sources.",
+        "(3) The scientist's traditional research has not influenced the renewable energy sector.",
+        "(4) The scientist's pioneering research has created new opportunities in renewable energy."],
 
     "2":["فهم السياق ومعنى الجملة",
-        "",
+        "تشير الجملة إلى أن البحث الرائد للعالم فتح مجالات جديدة في مجال الطاقة المتجددة.",
         "معاني الكلمات",
-        "",
-        ""],
+        "groundbreaking: رائد.",
+        "opened new avenues: فتح مجالات جديدة.",
+        "renewable energy: الطاقة المتجددة."],
 
     "3":["تطبيق الخيارات:",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4) "],
-    "4":2  
+        "(1) غير صحيح، يعبر عن عكس المعنى.",
+        "(2) غير صحيح، يتحدث عن القيود.",
+        "(3) غير صحيح، يتعارض مع الفكرة الأساسية.",
+        "(4) صحيح، يعكس نفس الفكرة."],
+    "4":4  
 }

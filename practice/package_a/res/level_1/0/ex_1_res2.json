@@ -1,21 +1,22 @@
 {
     "1":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4) "],
+        "Despite facing numerous challenges, the team managed to achieve their goal.",
+        "(1) The team encountered many obstacles but ultimately failed to reach their objective.",
+        "(2) The team faced several difficulties and successfully accomplished their aim.",
+        "(3) The team overcame some minor issues but did not succeed in their endeavor.",
+        "(4) The team encountered challenges but decided to abandon their efforts."],
 
     "2":["فهم السياق ومعنى الجملة",
-        "",
+        "الجملة تشير إلى أن الفريق واجه تحديات عديدة لكنه نجح في تحقيق هدفه.",
         "معاني الكلمات",
-        "",
-        ""],
+        "despite: بالرغم من.",
+        "numerous challenges: العديد من التحديات.",
+        "achieve: تحقيق."],
 
     "3":["تطبيق الخيارات:",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4) "],
+        "(1) غير صحيح، يتحدث عن الفشل.",
+        "(2) صحيح، يعكس المعنى بدقة.",
+        "(3) غير صحيح، يتحدث عن قضايا صغيرة.",
+        "(4) غير صحيح، يتعارض مع الفكرة الأصلية."],
     "4":2  
 }
