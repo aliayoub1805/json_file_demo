@@ -1,0 +1,20 @@
+{
+    "1":["She enjoys playing tennis on weekends.",
+        "(1) She dislikes playing tennis on weekends.",
+        "(2) She loves to play tennis during the weekends.",
+        "(3) She plays tennis only on weekdays.",
+        "(4) She is a professional tennis player."],
+
+    "2":["فهم السياق ومعنى الجملة",
+        "الجملة تشير إلى أنها تحب لعب التنس في عطلة نهاية الأسبوع.",
+        "معاني الكلمات",
+        "enjoys: تستمتع.",
+        "playing tennis: لعب التنس."],
+
+    "3":["تطبيق الخيارات:",
+        "(1) غير صحيح، يعبر عن عكس المعنى.",
+        "(2) صحيح، يعبر عن نفس الفكرة.",
+        "(3) غير صحيح، لا يتماشى مع المعنى.",
+        "(4) غير صحيح، لا يقدم معلومة ذات صلة."],
+    "4":2  
+}

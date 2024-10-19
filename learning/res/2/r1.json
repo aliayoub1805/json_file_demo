@@ -1,0 +1,23 @@
+{
+    "1":["The children played in the park until it got dark.",
+        "(1) The children were playing in the park when it became dark.",
+        "(2) The park was dark when the children played.",
+        "(3) The children played in the park before it got dark.",
+        "(4) The children will play in the park until it is dark."],
+
+    "2":["1- اقرأ الجملة الأصلية ولفهم المعنى الكامل.",
+        "2- حدد الكلمات الرئيسية التي تحتاج إلى التركيز عليها.",
+        "3- إعادة صياغة الجملة."],
+
+    "3":["فهم المعنى الكامل للجملة.",
+        "تتحدث الجملة عن لعب الأطفال في الحديقة حتى حلول الظلام.",
+        "تحديد الكلمات الرئيسية :played, until,go dark"],
+    "4":["إعادة صياغة الجملة",
+        "(1) منطقي، يعبر عن نفس المعنى باستخدام تغيير في الزمن.",
+        "(2) غير منطقي، يعبر عن معنى مختلف.",
+        "(3) منطقي ولكن يتحدث عن حدث سابق.",
+        "(4) غير منطقي، يتحدث عن المستقبل."],
+    "5":[
+        "The children were playing in the park when it became dark.",
+        "وكان الأطفال يلعبون في الحديقة عندما حل الظلام."]
+}

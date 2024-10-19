@@ -1,0 +1,20 @@
+{
+    "1":["He is reading a book in the library.",
+        "(1) He is studying at home.",
+        "(2) He is reading a magazine in the park.",
+        "(3) He is looking at a book in the library.",
+        "(4) He is reading a book inside the library."],
+    
+    "2":["فهم السياق ومعنى الجملة",
+        "الجملة تشير إلى أنه يقرأ كتابًا في المكتبة.",
+        "معاني الكلمات",
+        "reading: يقرأ.",
+        "library: مكتبة."],
+
+    "3":["تطبيق الخيارات:",
+        "(1) غير صحيح، يتحدث عن مكان آخر.",
+        "(2) غير صحيح، يتحدث عن شيء آخر ومكان آخر.",
+        "(3) غير صحيح، يعبر عن فعل مختلف.",
+        "(4) صحيح، يعبر عن نفس الفكرة."],
+    "4":4 
+}

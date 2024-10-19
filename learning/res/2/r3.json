@@ -1,0 +1,23 @@
+{
+    "1":["Despite the rain, they went for a picnic.",
+        "(1) They canceled the picnic because of the rain.",
+        "(2) They enjoyed a picnic even though it was raining.",
+        "(3) The rain stopped them from going on a picnic.",
+        "(4) They will go for a picnic if it rains."],
+
+    "2":["1- اقرأ الجملة الأصلية ولفهم المعنى الكامل.",
+        "2- حدد الكلمات الرئيسية التي تحتاج إلى التركيز عليها.",
+        "3- إعادة صياغة الجملة."],
+
+    "3":["فهم المعنى الكامل للجملة.",
+        "تشير الجملة إلى أنهم ذهبوا في نزهة رغم المطر.",
+        "تحديد الكلمات الرئيسية : despite,rain,went for a picnic"],
+    "4":["إعادة صياغة الجملة",
+        "(1) غير منطقي، يعبر عن عكس المعنى.",
+        "(2) منطقي، يعبر عن نفس المعنى باستخدام تغيير في الصيغة.",
+        "(3) غير منطقي، يعبر عن عكس المعنى.",
+        "(4) غير منطقي، يتحدث عن احتمال."],
+    "5":[
+        "They enjoyed a picnic even though it was raining.",
+        "لقد استمتعوا بالنزهة على الرغم من هطول المطر."]
+}

@@ -1,0 +1,23 @@
+{
+    "1":["He decided to study harder to improve his grades.",
+        "(1) He did not want to study harder for better grades.",
+        "(2) Studying harder will not help him improve his grades.",
+        "(3) He made the decision to study harder so that he could get better grades.",
+        "(4) He studied harder last semester to improve his grades."],
+
+    "2":["1- اقرأ الجملة الأصلية ولفهم المعنى الكامل.",
+        "2- حدد الكلمات الرئيسية التي تحتاج إلى التركيز عليها.",
+        "3- إعادة صياغة الجملة."],
+
+    "3":["فهم المعنى الكامل للجملة.",
+        "تشير الجملة إلى قراره بالدراسة بجد لتحسين درجاته.",
+        "تحديد الكلمات الرئيسية : decided,study harder,improve grades"],
+    "4":["إعادة صياغة الجملة",
+        "(1) غير منطقي، يعبر عن عكس المعنى.",
+        "(2) غير منطقي، يتحدث عن فكرة مختلفة.",
+        "(3) منطقي، يعبر عن نفس المعنى باستخدام صياغة مختلفة.",
+        "(4) غير منطقي، يتحدث عن فترة زمنية مختلفة."],
+    "5":[
+        "He made the decision to study harder so that he could get better grades.",
+        "لقد اتخذ قرارًا بالدراسة بجدية أكبر حتى يتمكن من الحصول على درجات أفضل."]
+}

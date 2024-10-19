@@ -1,0 +1,24 @@
+{
+    "1":["He was very tired after the long journey.",
+        "(1) He was energized after the short journey.",
+        "(2) He was tired before the long journey.",
+        "(3) He was very enthusiastic after the long trip.",
+        "(4) He felt exhausted after the lengthy trip."],
+        
+
+    "2":["1- اقرأ الجملة الأصلية ولفهم المعنى الكامل.",
+        "2- حدد الكلمات الرئيسية التي تحتاج إلى التركيز عليها.",
+        "3- إعادة صياغة الجملة."],
+
+    "3":["فهم المعنى الكامل للجملة.",
+        "تتحدث الجملة عن شعور التعب بعد رحلة طويلة.",
+        "تحديد الكلمات الرئيسية : tired ,long journey"],
+    "4":["إعادة صياغة الجملة",
+        "(1) غير منطقي، يعبر عن عكس المعنى.",
+        "(2) غير منطقي، يتحدث عن فترة زمنية مختلفة.",
+        "(3) غير منطقي، يعبر عن شعور مختلف.",
+        "(4) منطقي، يعبر عن نفس المعنى باستخدام مرادفات."],
+    "5":[
+        "He felt exhausted after the lengthy trip.",
+        "لقد شعر بالإرهاق بعد الرحلة الطويلة."]
+}

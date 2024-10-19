@@ -1,0 +1,23 @@
+{
+    "1":["The teacher explained the lesson clearly.",
+        "(1) The teacher made the lesson confusing.",
+        "(2) The teacher described the lesson in a simple way.",
+        "(3) The lesson was difficult to understand.",
+        "(4) The teacher ignored the students’ questions."],
+
+    "2":["1- اقرأ الجملة الأصلية ولفهم المعنى الكامل.",
+        "2- حدد الكلمات الرئيسية التي تحتاج إلى التركيز عليها.",
+        "3- إعادة صياغة الجملة."],
+
+    "3":["فهم المعنى الكامل للجملة.",
+        "تشير الجملة إلى وضوح شرح المعلم للدرس.",
+        "تحديد الكلمات الرئيسية : explained, clearly"],
+    "4":["إعادة صياغة الجملة",
+        "(1) غير منطقي، يعبر عن عكس المعنى.",
+        "(2) منطقي، يعبر عن نفس المعنى باستخدام مرادف.",
+        "(3) غير منطقي، يعبر عن عكس المعنى.",
+        "(4) غير منطقي، يتحدث عن شيء مختلف."],
+    "5":[
+        "The teacher described the lesson in a simple way.",
+        "وصف المعلم الدرس بطريقة بسيطة."]
+}

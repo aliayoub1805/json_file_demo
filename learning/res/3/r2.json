@@ -1,0 +1,23 @@
+{
+    "1":["The results of the experiment were surprising.",
+        "(1) The outcomes of the experiment were predictable.",
+        "(2) The findings of the experiment were astonishing.",
+        "(3) The experiment yielded no results.",
+        "(4) The results of the experiment were expected."],
+
+    "2":["1- اقرأ الجملة الأصلية ولفهم المعنى الكامل.",
+        "2- حدد الكلمات الرئيسية التي تحتاج إلى التركيز عليها.",
+        "3- إعادة صياغة الجملة."],
+
+    "3":["فهم المعنى الكامل للجملة.",
+        "تشير الجملة إلى أن نتائج التجربة كانت مفاجئة.",
+        "تحديد الكلمات الرئيسية : results, surprising"],
+    "4":["إعادة صياغة الجملة",
+        "(1) غير منطقي، يعبر عن عكس المعنى.",
+        "(2) منطقي، يعبر عن نفس المعنى باستخدام مرادف.",
+        "(3) غير منطقي، يتحدث عن عدم وجود نتائج.",
+        "(4) غير منطقي، يعبر عن عكس المعنى."],
+    "5":[
+        "The findings of the experiment were astonishing.",
+        "وكانت نتائج التجربة مذهلة."]
+}
