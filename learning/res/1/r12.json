@@ -1,0 +1,23 @@
+{
+    "1":["The artist's new exhibit showcases a blend of traditional and contemporary styles.",
+        "(1) The exhibit features only traditional art forms.",
+        "(2) The artist’s latest work combines both old and new techniques.",
+        "(3) The new exhibit does not represent the artist's style.",
+        "(4) The exhibit focuses solely on contemporary styles."],
+
+    "2":["1- اقرأ الجملة الأصلية ولفهم المعنى الكامل.",
+        "2- حدد الكلمات الرئيسية التي تحتاج إلى التركيز عليها.",
+        "3- إعادة صياغة الجملة."],
+
+    "3":["فهم المعنى الكامل للجملة.",
+        "تتناول الجملة عرض المعرض الجديد الذي يجمع بين الأساليب التقليدية والمعاصرة.",
+        "تحديد الكلمات الرئيسية : exhibit, blend, traditional, contemporary."],
+    "4":["إعادة صياغة الجملة",
+        "(1) غير منطقي، يشير إلى عدم تضمين الأساليب المعاصرة.",
+        "(2) منطقي، يعبر عن نفس المعنى.",
+        "(3) غير منطقي، يتحدث عن عدم تمثيل الأسلوب.",
+        "(4) غير منطقي، يتحدث عن التركيز على الأساليب المعاصرة فقط."],
+    "5":[
+        "(2) The artist’s latest work combines both old and new techniques.",
+        "(2) يجمع أحدث عمل للفنان بين التقنيات القديمة والجديدة."]
+}

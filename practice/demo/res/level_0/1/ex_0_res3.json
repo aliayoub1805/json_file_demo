@@ -1,0 +1,20 @@
+{
+    "1":["Despite having limited resources, the organization managed to deliver essential services to the community effectively.",
+        "(1) The organization failed to provide services to the community because of insufficient resources.",
+        "(2) The organization chose not to assist the community due to a lack of resources.",
+        "(3) The organization had an abundance of resources and could not deliver services to the community.",
+        "(4) Even with few resources, the organization was able to offer vital services to the community successfully."],
+    "2":["فهم السياق ومعنى الجملة",
+        "تشير الجملة إلى أن المنظمة تمكنت من تقديم خدمات أساسية على الرغم من الموارد المحدودة.",
+        "معاني الكلمات",
+        "limited resources: موارد محدودة.",
+        "deliver: تقديم.",
+        "essential services: خدمات أساسية."],
+
+    "3":["تطبيق الخيارات:",
+        "(1) غير صحيح، يتحدث عن الفشل.",
+        "(2) غير صحيح، يتحدث عن عدم المساعدة.",
+        "(3) غير صحيح، يتحدث عن وجود وفرة من الموارد.",
+        "(4) صحيح، يعكس نفس الفكرة."],
+    "4":4  
+}

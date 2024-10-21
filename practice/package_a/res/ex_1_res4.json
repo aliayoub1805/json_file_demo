@@ -1,0 +1,37 @@
+{
+    "1":["The rise of renewable energy sources has sparked a significant debate about the future of fossil fuels and their role in the global economy.",
+        "(1) The increased use of renewable energy is causing discussions about the future of fossil fuels in the economy.",
+        "(2) Renewable energy sources are irrelevant to the global economy's future.",
+        "(3) The debate over fossil fuels has ended with the rise of renewable energy sources.",
+        "(4) Fossil fuels will always remain the primary energy source regardless of renewable energy."],
+    "answer_1":1,
+    "des_1":"الخيار (1) هو الأنسب، لأنه يعكس كيف أثرت الطاقة المتجددة على النقاش حول الوقود الأحفوري.",
+
+    "2":["The integration of artificial intelligence in various industries has not only enhanced efficiency but also raised ethical questions about job displacement.",
+        "(1) Artificial intelligence improves efficiency but does not affect jobs.",
+        "(2) The use of AI in industries raises concerns about job loss while also improving efficiency.",
+        "(3) AI has no significant impact on efficiency or ethics in the workplace.",
+        "(4) The integration of AI will eliminate the need for ethical considerations in business."],
+    "answer_2":2,
+    "des_2":"الخيار (2) هو الأنسب، لأنه يشير إلى تحسين الكفاءة ويبرز القضايا الأخلاقية المتعلقة بفقدان الوظائف.",
+
+    "3":["Urbanization has transformed social structures, leading to increased diversity but also to challenges in community cohesion.",
+        "(1) Urbanization simplifies social structures and fosters unity among communities.",
+        "(2) The growth of cities has resulted in more diverse populations, but it has also created difficulties in maintaining community bonds.",
+        "(3) Urban areas are less diverse than rural areas, resulting in stronger communities.",
+        "(4) Urbanization has no impact on social structures or community cohesion."],
+    "answer_3":2,
+    "des_3":"الخيار (2) هو الأنسب، لأنه يوضح كيف أدت التحولات الناتجة عن التحضر إلى التنوع والتحديات.",
+
+    "4":["The increasing reliance on technology in education has revolutionized learning methods, yet it raises concerns about the quality of interpersonal interactions among students.",
+        "(1) Technology has no impact on how students learn or interact with one another.",
+        "(2) While technology in education enhances learning, it may negatively affect student interactions.",
+        "(3) Students are now more socially connected due to technology in education.",
+        "(4) The use of technology in education eliminates all concerns about student interactions."],
+    "answer_4":2,
+    "des_4":"الخيار (2) هو الأنسب، لأنه يعكس كيف حسنت التكنولوجيا التعلم ولكنها تثير مخاوف بشأن التفاعلات الاجتماعية.",
+
+    "time":"4 دقائق",
+    "timeSec":240000
+
+}

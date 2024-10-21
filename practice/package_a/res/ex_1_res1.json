@@ -1,0 +1,37 @@
+{
+    "1":[
+        "The committee decided to postpone the meeting due to unforeseen circumstances.",
+        "(1) The meeting was rescheduled by the committee because of unexpected issues.",
+        "(2) The committee scheduled the meeting earlier because of predictable events.",
+        "(3) The meeting will not take place as planned because the committee is busy.",
+        "(4) Due to expected circumstances, the committee will hold the meeting as usual."],
+    "answer_1":1,
+    "des_1":"الخيار A يعيد صياغة المعنى الأصلي بدقة، حيث يشير إلى أن الاجتماع تم تأجيله بسبب ظروف غير متوقعة.",
+
+    "2":["Despite the heavy rain that began falling just before the event, the match continued as scheduled, much to the surprise of both players and spectators alike.",
+        "(1) The players and fans were shocked when the match was canceled due to the rain.",
+        "(2) Even though it rained heavily right before the match, it went on without any delays, surprising everyone present.",
+        "(3) The unexpected downpour led to the postponement of the match, much to the players' dismay.",
+        "(4) The event was rescheduled due to the rain, disappointing the spectators who had gathered."],
+    "answer_2":2,
+    "des_2":"الخيار B يعيد صياغة المعنى الأصلي بشكل دقيق، حيث يشير إلى استمرار المباراة رغم الأمطار، مع التركيز على دهشة الحاضرين. الخيارات الأخرى تتعارض مع الفكرة الأصلية.",
+
+    "3":["The introduction of the new policy has sparked considerable debate among employees, many of whom feel it may negatively impact their job security and overall morale.",
+        "(1) The new policy has been widely accepted by employees who believe it will enhance job stability and morale.",
+        "(2) Many employees are engaged in discussions about the new policy, expressing concerns that it could undermine their job security and diminish their morale.",
+        "(3) The introduction of the policy was met with unanimous approval, as employees view it as a step toward greater job security.",
+        "(4) There is little interest among employees regarding the new policy, as most believe it will have a positive effect on their job satisfaction."],
+    "answer_3":2,
+    "des_3":"الخيار B يعيد صياغة المعنى الأصلي بدقة، حيث يبرز القلق الذي يشعر به الموظفون حول السياسة الجديدة وتأثيرها المحتمل على أمنهم الوظيفي ومعنوياتهم. الخيارات الأخرى تعكس آراء إيجابية أو لا تعكس الموقف الأصلي.",
+
+    "4":["In light of recent studies indicating the effectiveness of collaborative learning, many educators are advocating for group study sessions as a means to enhance student engagement and understanding of complex subjects.",
+        "(1) Recent studies show that individual study is more effective than collaborative learning, leading many educators to recommend it instead.",
+        "(2) Educators are increasingly promoting group study sessions based on recent findings that highlight their potential to boost student engagement and comprehension of difficult topics.",
+        "(3) There is a growing skepticism among educators regarding collaborative learning, as recent studies suggest it does not improve student engagement.",
+        "(4) Many educators believe that group study sessions hinder student understanding of complex subjects according to new research findings."],
+    "answer_4":2,
+    "des_4":"الخيار B يعيد صياغة المعنى الأصلي بشكل دقيق، حيث يعكس دعم المعلمين للدراسة الجماعية بناءً على الدراسات الحديثة. الخيارات الأخرى تعكس وجهات نظر سلبية أو خاطئة.",
+
+    "time":"5 دقائق",
+    "timeSec":300000
+}

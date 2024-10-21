@@ -1,0 +1,37 @@
+{
+    "1":[
+        "The researchers concluded that climate change is significantly impacting biodiversity across the globe",
+        "(1) The impact of climate change on biodiversity is a minor concern for researchers.",
+        "(2) Researchers believe that biodiversity is being severely affected by climate change worldwide.",
+        "(3) Climate change has no significant effect on global biodiversity according to researchers.",
+        "(4) The relationship between climate change and biodiversity is not well understood by researchers."],
+    "answer_1":2,
+    "des_1":"الخيار (2) هو الأنسب، لأنه يعكس الاستنتاج الذي توصل إليه الباحثون.",
+
+    "2":["The decline in bee populations has raised alarms about the future of food production, as bees play a crucial role in pollination.",
+        "(1) The decrease in bee populations will have no effect on food production.",
+        "(2) Concerns about food production have grown due to the important role bees play in pollination.",
+        "(3) The decline in bees is irrelevant to the process of pollination in agriculture.",
+        "(4) Food production will improve as bee populations decline."],
+    "answer_2":3,
+    "des_2":"الخيار (2) هو الأنسب، لأنه يوضح العلاقة بين انخفاض أعداد النحل والمخاوف المتعلقة بإنتاج الغذاء.",
+
+    "3":["The introduction of electric vehicles is expected to reduce greenhouse gas emissions, contributing to the fight against climate change.",
+        "(1) Electric vehicles are unrelated to climate change initiatives.",
+        "(2) The use of electric vehicles will not affect greenhouse gas emissions significantly.",
+        "(3) Electric vehicles could help lower greenhouse gas emissions, aiding efforts to combat climate change.",
+        "(4) Climate change will continue to worsen despite the rise of electric vehicles."],
+    "answer_3":3,
+    "des_3":"الخيار (3) هو الأنسب، لأنه يوضح كيف يمكن أن تساهم السيارات الكهربائية في تقليل الانبعاثات.",
+
+    "4":["The author's unique perspective on human relationships has garnered critical acclaim, setting her work apart from that of her contemporaries.",
+        "(1) The author has received praise for having a conventional view of human relationships.",
+        "(2) The author's insights into human relationships are similar to those of her contemporaries.",
+        "(3) The unique way the author views human relationships has led to significant recognition of her work.",
+        "(4) Critical acclaim for the author's work is based solely on her popularity among readers."],
+    "answer_4":3,
+    "des_4":"الخيار (3) هو الأنسب، لأنه يبرز كيفية تميز رؤية المؤلف في مجال العلاقات الإنسانية.",
+
+    "time":"4 دقائق و 40 ثانية",
+    "timeSec":280000
+}

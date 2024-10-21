@@ -1,0 +1,37 @@
+{
+    "1":[
+        "Exercise is beneficial for physical health and mental well-being.",
+        "(1) Exercise has no positive effects on health.",
+        "(2) Only physical health benefits from exercise.",
+        "(3) Physical activity improves both physical and mental health.",
+        "(4) Mental well-being is not influenced by exercise."],
+    "answer_1":3,
+    "des_1":"الخيار (3) هو الأنسب، لأنه يعكس الفوائد الصحية الشاملة للتمرين.",
+
+    "2":["The rise of automation in manufacturing has led to increased efficiency, but it has also raised concerns about job displacement.",
+        "(1) Automation only improves efficiency without any job-related issues.",
+        "(2) While automation enhances manufacturing efficiency, it may cause job losses.",
+        "(3) Job displacement is not a concern with increased automation.",
+        "(4) Manufacturing jobs are secure despite the rise of automation."],
+    "answer_2":2,
+    "des_2":"الخيار (2) هو الأنسب، لأنه يوضح التوازن بين الفوائد والمخاوف.",
+
+    "3":["The phenomenon of climate migration has emerged as a pressing issue, as individuals are forced to leave their homes due to environmental changes.",
+        "(1) Climate migration is a minor concern compared to other global issues.",
+        "(2) People are migrating for reasons unrelated to climate change.",
+        "(3) The issue of climate migration has been resolved by recent policies.",
+        "(4) Environmental changes are causing more people to relocate, highlighting the seriousness of climate migration."],
+    "answer_3":4,
+    "des_3":"الخيار (4) هو الأنسب، لأنه يعكس أهمية القضية وتأثير التغيرات البيئية.",
+
+    "4":["The interplay between social media and public opinion has transformed the landscape of political discourse, necessitating new approaches to understanding voter behavior.",
+        "(1) The relationship between social media and public opinion has changed political discussions, requiring fresh insights into voter actions.",
+        "(2) Social media has no effect on how people form political opinions.",
+        "(3) Voter behavior is unchanged by social media influence.",
+        "(4) Political discourse remains the same despite the rise of social media."],
+    "answer_4":1,
+    "des_4":"الخيار (1) هو الأنسب، لأنه يوضح كيف غيرت وسائل التواصل الاجتماعي المشهد السياسي.",
+
+    "time":"4 دقائق و 20 ثانية",
+    "timeSec":260000
+}

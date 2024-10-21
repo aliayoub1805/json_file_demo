@@ -1,0 +1,37 @@
+{
+    "1":[
+        "Studying a second language can improve cognitive abilities and enhance career opportunities.",
+        "(1) Learning a second language is not useful for career advancement.",
+        "(2) Cognitive abilities are unrelated to language learning.",
+        "(3) Career opportunities are only based on technical skills.",
+        "(4) Acquiring a second language helps with thinking skills and job prospects."],
+    "answer_1":4,
+    "des_1":"الخيار (4) هو الأنسب، لأنه يعكس فوائد تعلم لغة ثانية.",
+
+    "2":["The debate over renewable energy sources versus fossil fuels continues to intensify as the need for sustainable solutions grows.",
+        "(1) The discussion about energy sources has ended due to a lack of interest.",
+        "(2) As the demand for sustainable solutions increases, the argument between renewable energy and fossil fuels becomes more heated.",
+        "(3) Renewable energy is not a viable option compared to fossil fuels.",
+        "(4) The need for sustainable solutions has diminished the debate over energy sources."],
+    "answer_2":2,
+    "des_2":"الخيار (2) هو الأنسب، لأنه يوضح كيف تؤثر الحاجة إلى الحلول المستدامة على النقاش.",
+
+    "3":["The influence of climate change on agriculture is profound, affecting crop yields and threatening food security worldwide.",
+        "(1) Climate change has little effect on agricultural practices.",
+        "(2) The impact of climate change on farming is significant, reducing crop production and endangering global food security.",
+        "(3) Food security is not influenced by agricultural changes.",
+        "(4) Agricultural yields are expected to improve despite climate change."],
+    "answer_3":2,
+    "des_3":"الخيار (2) هو الأنسب، لأنه يعكس التأثير الكبير لتغير المناخ على الزراعة.",
+
+    "4":["The relationship between economic growth and environmental sustainability is complex, as rapid development can lead to ecological degradation without proper management.",
+        "(1) Economic growth is always beneficial for the environment.",
+        "(2) Environmental sustainability is irrelevant to economic growth.",
+        "(3) Economic growth guarantees ecological preservation.",
+        "(4) The connection between economic advancement and environmental health is intricate, requiring careful oversight to prevent harm."],
+    "answer_4":4,
+    "des_4":"الخيار (4) هو الأنسب، لأنه يوضح التعقيد في العلاقة بين النمو الاقتصادي والاستدامة البيئية.",
+
+    "time":"4 دقائق",
+    "timeSec":240000
+}

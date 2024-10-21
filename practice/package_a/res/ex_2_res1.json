@@ -1,0 +1,37 @@
+{
+    "1":[
+        "The rise of e-commerce has transformed consumer behavior, enabling greater convenience but also raising concerns about the impact on local businesses.",
+        "(1) E-commerce has had no effect on how consumers shop or on local businesses.",
+        "(2) Consumers prefer shopping locally rather than using e-commerce platforms.",
+        "(3) Local businesses are thriving due to the rise of e-commerce.",
+        "(4) While e-commerce offers more convenience to consumers, it also poses challenges for local businesses."],
+    "answer_1":4,
+    "des_1":"الخيار (4) هو الأنسب، لأنه يعكس تأثير التجارة الإلكترونية على سلوك المستهلكين والقلق بشأن الشركات المحلية.",
+
+    "2":["The increase in telecommuting has reshaped traditional work environments, offering employees greater flexibility but also blurring the lines between work and personal life.",
+        "(1) Telecommuting has made work environments more rigid and less flexible.",
+        "(2) The rise of telecommuting allows for more employee flexibility, but it can also complicate the separation between work and personal time.",
+        "(3) Employees prefer working in traditional office settings over telecommuting.",
+        "(4) Telecommuting eliminates any issues related to work-life balance."],
+    "answer_2":2,
+    "des_2":"الخيار (2) هو الأنسب، لأنه يعكس فوائد وعيوب العمل عن بُعد.",
+
+    "3":["The recent advancements in artificial intelligence have the potential to revolutionize industries, yet they also pose significant ethical challenges that must be addressed.",
+        "(1) While AI can transform industries, it brings forth important ethical issues that need attention.",
+        "(2) AI advancements only benefit industries without any ethical concerns.",
+        "(3) Ethical challenges are irrelevant to the development of artificial intelligence.",
+        "(4) Industries are fully prepared to handle the ethical implications of AI."],
+    "answer_3":1,
+    "des_3":"الخيار (1) هو الأنسب، لأنه يوضح كيف يمكن أن تكون التكنولوجيا مفيدة ولكنها تتطلب معالجة القضايا الأخلاقية.",
+
+    "4":["The decline in fossil fuel reserves has accelerated the push for alternative energy sources, prompting innovations in solar and wind technologies.",
+        "(1) The availability of fossil fuels is increasing, leading to fewer innovations in alternative energy.",
+        "(2) Innovations in solar and wind technologies have nothing to do with fossil fuel reserves.",
+        "(3) As fossil fuel reserves diminish, there is a greater focus on developing alternative energy technologies like solar and wind.",
+        "(4) The transition to alternative energy sources is unnecessary given the current fossil fuel supply."],
+    "answer_4":3,
+    "des_4":"الخيار (3) هو الأنسب، لأنه يعكس العلاقة بين تراجع احتياطيات الوقود الأحفوري وزيادة الابتكار في مصادر الطاقة البديلة.",
+
+    "time":"5 دقائق",
+    "timeSec":300000
+}

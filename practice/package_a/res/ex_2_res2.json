@@ -1,0 +1,37 @@
+{
+    "1":[
+        "Reading regularly can improve vocabulary and comprehension skills.",
+        "(1) Reading has little effect on vocabulary.",
+        "(2) Vocabulary improvement is not linked to reading habits.",
+        "(3) Regular reading can enhance both vocabulary and understanding.",
+        "(4) Comprehension skills only improve through practice."],
+    "answer_1":3,
+    "des_1":"الخيار (3) هو الأنسب، لأنه يعكس الفوائد المرتبطة بالقراءة.",
+
+    "2":["The implementation of renewable energy sources is crucial for reducing carbon emissions and combating climate change.",
+        "(1) Renewable energy has no role in addressing climate change.",
+        "(2) Carbon emissions will not decrease with the use of renewable energy.",
+        "(3) Climate change can be managed without renewable energy sources.",
+        "(4) Using renewable energy is essential for lowering carbon emissions and fighting climate change."],
+    "answer_2":4,
+    "des_2":"الخيار (4) هو الأنسب، لأنه يوضح أهمية الطاقة المتجددة في مكافحة تغير المناخ.",
+
+    "3":["The cultural significance of traditional art forms is often overlooked in favor of contemporary styles, despite their historical value.",
+        "(1) Traditional art is more valued than contemporary art in today’s society.",
+        "(2) The historical importance of traditional art forms is frequently ignored while contemporary styles are celebrated.",
+        "(3) Contemporary styles have no connection to traditional art forms.",
+        "(4) Traditional art has been completely forgotten in modern culture."],
+    "answer_3":2,
+    "des_3":"الخيار (2) هو الأنسب، لأنه يعكس التوتر بين تقدير الفن التقليدي والأساليب المعاصرة.",
+
+    "4":["The convergence of technological advancements and globalization has resulted in unprecedented changes in labor markets, necessitating a reevaluation of skills and employment strategies.",
+        "(1) The changes in labor markets due to technology and globalization require new strategies and skills assessments.",
+        "(2) Technology and globalization have no effect on labor markets.",
+        "(3) Labor markets remain unchanged despite technological and global influences.",
+        "(4) Employment strategies are only relevant in local markets, not global ones."],
+    "answer_4":1,
+    "des_4":"الخيار (1) هو الأنسب، لأنه يوضح التأثير المتبادل للتكنولوجيا والعولمة على أسواق العمل.",
+
+    "time":"4 دقائق و 40 ثانية",
+    "timeSec":280000
+}

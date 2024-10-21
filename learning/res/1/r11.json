@@ -1,0 +1,23 @@
+{
+    "1":["The committee decided to postpone the meeting due to unforeseen circumstances.",
+        "(1) The meeting was canceled by the committee.",
+        "(2) The committee will hold the meeting as scheduled.",
+        "(3) The meeting has been delayed because of unexpected issues.",
+        "(4) The committee is ignoring the unforeseen circumstances."],
+
+    "2":["1- اقرأ الجملة الأصلية ولفهم المعنى الكامل.",
+        "2- حدد الكلمات الرئيسية التي تحتاج إلى التركيز عليها.",
+        "3- إعادة صياغة الجملة."],
+
+    "3":["فهم المعنى الكامل للجملة.",
+        "تتحدث الجملة عن قرار اللجنة بتأجيل الاجتماع بسبب ظروف غير متوقعة.",
+        "تحديد الكلمات الرئيسية : committee, postpone, unforeseen circumstances."],
+    "4":["إعادة صياغة الجملة",
+        "(1) غير منطقي، يشير إلى إلغاء الاجتماع.",
+        "(2) غير منطقي، يتحدث عن عقد الاجتماع كما هو مقرر.",
+        "(3) منطقي، يعبر عن نفس المعنى.",
+        "(4) غير منطقي، يتحدث عن تجاهل الظروف."],
+    "5":[
+        "(3) The meeting has been delayed because of unexpected issues.",
+        "(3) تم تأجيل الاجتماع بسبب مشاكل غير متوقعة."]
+}

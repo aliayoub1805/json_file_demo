@@ -1,0 +1,20 @@
+{
+    "1":["Although the weather was unfavorable, the team decided to proceed with their outdoor event as planned.",
+        "(1) The team canceled the outdoor event because the weather was poor.",
+        "(2) Despite the bad weather, the team went ahead with their outdoor event as scheduled.",
+        "(3) The outdoor event was postponed due to the unfavorable weather conditions.",
+        "(4) The team chose to change their plans because of the bad weather."],
+    "2":["فهم السياق ومعنى الجملة",
+        "الجملة تشير إلى أن الفريق قرر الاستمرار في الحدث الخارجي على الرغم من سوء الأحوال الجوية.",
+        "معاني الكلمات",
+        "unfavorable: غير ملائم.",
+        "proceed: الاستمرار.",
+        "outdoor event: حدث خارجي."],
+
+    "3":["تطبيق الخيارات:",
+        "(1) غير صحيح، يتحدث عن الإلغاء.",
+        "(2) صحيح، يعكس نفس الفكرة.",
+        "(3) غير صحيح، يتحدث عن التأجيل.",
+        "(4) غير صحيح، يتحدث عن تغيير الخطط."],
+    "4":2  
+}

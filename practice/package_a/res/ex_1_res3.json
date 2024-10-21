@@ -1,0 +1,38 @@
+{
+    "1":["The implementation of stricter environmental regulations has prompted companies to adopt more sustainable practices, though some argue it may hinder economic growth.",
+        "(1) Stricter environmental regulations are beneficial for economic growth.",
+        "(2) Companies are adopting sustainable practices due to new regulations, but some believe this could slow down the economy.",
+        "(3) Environmental regulations have no impact on corporate practices or the economy.",
+        "(4) Economic growth is the only concern when implementing environmental regulations."],
+    "answer_1":2,
+    "des_1":"الخيار (2) هو الأنسب، لأنه يوضح كيف تشمل القوائم الجديدة للشركات التي تهدف إلى العمل مع التخصصات الاقتصادية.",
+
+    "2":["The discovery of ancient artifacts has provided invaluable insights into the cultural practices of early civilizations, while also sparking debates among historians about their significance.",
+        "(1) Ancient artifacts have little to offer regarding early civilizations.",
+        "(2) The finding of artifacts has helped historians understand early cultures, but it has also raised questions about their importance.",
+        "(3) Historians unanimously agree on the significance of ancient artifacts.",
+        "(4) The discovery of artifacts has no impact on our understanding of early civilizations."],
+    "answer_2":2,
+    "des_2":"الخيار (2) هو الأنسب، لأنه يعكس الفائدة والاكتشافات مع ذكر النقاشات التاريخية.",
+
+    "3":["Advancements in biotechnology are revolutionizing healthcare by providing innovative treatments, but they also raise ethical dilemmas regarding genetic manipulation.",
+        "(1) Biotechnology advancements have no effect on healthcare practices.",
+        "(2) While biotechnology is improving healthcare with new treatments, it also presents ethical challenges related to genetics.",
+        "(3) Innovative treatments are available without any ethical considerations in biotechnology.",
+        "(4)  Healthcare has not changed with the advent of biotechnology."],
+    "answer_3":2,
+    "des_3":"الخيار (2) هو الأنسب، لأنه يوضح كيفية التعامل مع التكنولوجيا الخاصة بالرعاية الصحية المتعلقة بالأمور الحيوانية.",
+
+    "4":["The digital age has transformed communication, allowing for instantaneous interactions, yet it raises concerns about the depth of relationships in an increasingly virtual world.",
+        "(1) Instant communication in the digital age has no effect on personal relationships.",
+        "(2) Although communication is faster now, it may undermine the quality of relationships.",
+        "(3) The digital age has improved the depth of personal interactions.",
+        "(4) Virtual communication has eliminated all concerns about personal relationships."],
+    "answer_4":2,
+    "des_4":"الخيار (2) هو المناسب، وبالتالي يعكس التواصل مع التركيز على عمق العلاقات.",
+
+
+    "time":"4 دقائق و 20 ثانية",
+    "timeSec":260000
+
+}
