@@ -22,7 +22,8 @@
             "(3) The people are left wondering whether it is possible to pay their credit debts especially since the dollar has risen dramatically.",
             "(4) It is very dramatic for people who have credit debts that they wonder whether they will be able to pay when the dollar is increasing so much."],
     
-        "answers":[3,1,1]
+        "answers":[3,1,1],
+        "time":6
     },
 
     "section_5_content":{
@@ -44,7 +45,8 @@
             "(3) The Amazon Rainforest is notable to many with its large collection of plants and animal species that cannot be found anywhere else.",
             "(4) In addition to an abundant number of animal species, the Amazon Rainforest is known for its stunning variety of plants."
         ],
-        "answers":[3,2,4]
+        "answers":[3,2,4],
+        "time":6
 
     }
 }

@@ -17,7 +17,9 @@
             "(2) For many years, scientists have carried out much research into different types of cancer and are now able to discuss them fully.",
             "(3) It has taken a long time for scientists to find out about various kinds of cancer and suggest different methods of treatment.",
             "(4) Those who are involved in cancer research have, over time, come to know much about the ways and causes of the disease’s development."],
-        "answers":[2,4,4]
+        "answers":[2,4,4],
+        
+        "time":6
         
     },
 
@@ -41,7 +43,8 @@
             "(2) The functions expected of a drug are various even if it is used for a specific disease.",
             "(3) However effective a drug may be, its functions have to be several.",
             "(4) "],
-        "answers":[4,2,4]
+        "answers":[4,2,4],
+        "time":6
         
     }
 }

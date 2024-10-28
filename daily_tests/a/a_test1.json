@@ -18,7 +18,8 @@
             "(2) Nadia Comaneci was the first Romanian gymnast who received five gold medals in the Olympic Games.",
             "(3) Nadia Comaneci is a Romanian gymnast who won five gold medals during a single Olympic year.",
             "(4) Since Nadia Comaneci was the first woman who was awarded a perfect score of ten in the Olympic Games, she is still well known by many people."],
-        "answers":[1,2,1]
+        "answers":[1,2,1],
+        "time":6
     },
 
     "section5_content":{
@@ -40,6 +41,7 @@
             "(2) Once the law has been passed, it will be easy enough to put it into effect.",
             "(3) The law has been passed and will soon be enforced.",
             "(4) The passing of a law and the implementing of it are two very different things."],
-        "answers":[2,3,4]
+        "answers":[2,3,4],
+        "time":6
     }
 }

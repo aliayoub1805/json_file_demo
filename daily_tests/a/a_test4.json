@@ -23,7 +23,8 @@
             "(4) Recent neuroscience research indicates that creative pursuits improve brain activity and support emotional health, thereby aiding in everyday problem-solving."
         ],
         
-        "answers":[2,2,4]
+        "answers":[2,2,4],
+        "time":6
     },"section5_content":{
         "1":[
             "Many environmentalists argue that transitioning to renewable energy sources is not only beneficial for reducing carbon emissions but also crucial for creating sustainable economic growth that can support future generations.",
@@ -48,6 +49,7 @@
             "(4) Traditional teaching methods are superior to modern technology in enhancing student engagement."
         ],
         
-        "answers":[3,4,1]
+        "answers":[3,4,1],
+        "time":6
     }
 }

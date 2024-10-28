@@ -27,7 +27,9 @@
         "(3) Baroque music reached its final stage of development in the eighteenth century, which also produced Bach and Handel, regarded as the greatest composers ever.",
         "(4) The development of Baroque music reached its climax in the eighteenth century when, as the greatest Baroque composers, Bach and Handel created the best of their music."],
         
-        "answers":[4,2,3]
+        "answers":[4,2,3],
+        
+        "time":6
     },
 
     "section5_content":{
@@ -49,6 +51,7 @@
             "(3) Both the business community and local residents were willing to donate food to the soup kichen they were organizing.",
             "(4) The soup kitchen couldn't feed as many people as they had hoped to because they didn't receive enough support from businesses or local residents."], 
 
-        "answers":[3,4,2]
+        "answers":[3,4,2],
+        "time":6
     }
 }

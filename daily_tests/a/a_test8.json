@@ -1,0 +1,56 @@
+{
+    "section4_content":{
+        "1":[
+            "Environmental studies indicate that meat consumption poses a significant burden on the environment, as it leads to deforestation, consumes large amounts of water and energy, and releases greenhouse gases, threatening the sustainability of the planet.",
+            "(1) There is no doubt that meat consumption poses a significant threat to the environment, as it leads to deforestation, consumes large amounts of water and energy, impacting the planet's ability to bear the burden.",
+            "(2) Meat consumption is considered one of the activities that negatively impact the environment, as it leads to deforestation, consumes large amounts of water and energy, threatening the future of the planet.",
+            "(3) Studies indicate that meat consumption significantly impacts the environment, as it leads to deforestation, and the release of greenhouse gases, threatening the sustainability of the planet.",
+            "(4) Meat consumption negatively impacts the environment, as it leads to deforestation, consumes large amounts of water and energy, and releases greenhouse gases, threatening the future of the planet."
+        ],
+
+        "2":["Studies show that social interaction is essential for mental health, as it helps reduce feelings of loneliness, enhance a sense of belonging, and contributes to reducing levels of stress and anxiety.",
+            "(1) Social interaction contributes to reducing feelings of loneliness, enhancing a sense of belonging, positively impacting mental health.",
+            "(2) Studies indicate that social interaction contributes to reducing feelings of loneliness, enhancing a sense of belonging, positively impacting mental health.",
+            "(3) Social interaction is essential for mental health, as it helps reduce feelings of loneliness, enhance a sense of belonging, and contributes to reducing levels of stress and anxiety.",
+            "(4) There is no doubt that social interaction contributes to reducing feelings of loneliness, enhancing a sense of belonging, improving mental health."],
+        
+        "3":[
+            "Studies indicate that poverty significantly impacts children's health, as it leads to malnutrition, lack of access to healthcare, resulting in an increased risk of disease and developmental delays.",
+            "(1) Poverty negatively impacts children's health, as it leads to malnutrition, lack of access to healthcare, and an increased risk of disease and developmental delays.",
+            "(2) Poverty significantly impacts children's health, as it leads to malnutrition, lack of access to healthcare, resulting in an increased risk of disease and developmental delays.",
+            "(3) There is no doubt that poverty threatens children's health, negatively impacting their development, leading to health issues and developmental delays.",
+            "(4) Poverty negatively impacts children's health, leading to difficulties in access to healthcare and nutrition, increasing the risk of disease and developmental delays, emphasizing the need for awareness and prevention."
+        ],
+        
+        "answers":[4,3,2],
+        
+        "time":6
+    },"section5_content":{
+        "1":[
+            "The rapid advancement of artificial intelligence (AI) raises significant ethical concerns, particularly regarding its potential impact on privacy, job security, and the potential for algorithmic bias.",
+            "(1) AI's rapid advancement is undoubtedly causing ethical concerns, particularly regarding privacy, job security, and the potential for algorithmic bias.",
+            "(2) The rapid advancement of AI poses significant ethical concerns, particularly regarding its potential impact on privacy, job security, and the potential for algorithmic bias.",
+            "(3) While AI's advancement brings potential benefits, it also raises significant ethical concerns, particularly regarding privacy, job security, and the potential for algorithmic bias.",
+            "(4) The potential for AI to impact privacy, job security, and create algorithmic bias raises significant ethical concerns."
+        ],
+
+        "2":[
+            "While globalization has fostered economic growth and cultural exchange, it has also led to increased inequality, environmental degradation, and the spread of global pandemics.",
+            "(1) Globalization has contributed to economic growth and cultural exchange, but it has also brought about increased inequality, environmental degradation, and the spread of global pandemics.",
+            "(2) While globalization has fostered economic growth and cultural exchange, it has also led to increased inequality, environmental degradation, and the spread of global pandemics, raising concerns about its long-term sustainability.",
+            "(3) Despite its potential benefits, globalization has led to increased inequality, environmental degradation, and the spread of global pandemics, posing challenges to the global community.",
+            "(4) The negative consequences of globalization, including increased inequality, environmental degradation, and the spread of global pandemics, outweigh its positive contributions to economic growth and cultural exchange."],
+        
+        "3":[
+            "The human brain, with its intricate network of neurons and synapses, remains a complex and fascinating enigma, with ongoing research seeking to unravel its mysteries and unlock its full potential.",
+            "(1) The human brain, with its intricate network of neurons and synapses, remains a complex and fascinating enigma, and ongoing research seeks to unravel its mysteries and unlock its full potential.",
+            "(2) The human brain, with its intricate network of neurons and synapses, remains a complex and fascinating enigma, and ongoing research is seeking to unravel its mysteries and unlock its full potential.",
+            "(3) The human brain, with its intricate network of neurons and synapses, remains a complex and fascinating enigma, and ongoing research aims to unravel its mysteries and unlock its full potential.",
+            "(4) Despite advancements in neuroscience, the human brain, with its intricate network of neurons and synapses, remains a complex and fascinating enigma, and ongoing research is seeking to unravel its mysteries and unlock its full potential."
+        ],
+        
+        "answers":[2,2,1],
+        
+        "time":6
+    }
+}

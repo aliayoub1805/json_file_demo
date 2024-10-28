@@ -22,7 +22,8 @@
             "(4) Domestic violence negatively impacts children, leading to difficulties in learning and behavior, and increases the likelihood of them being exposed to violence in the future, emphasizing the need for awareness and prevention."
         ],
         
-        "answers":[2,1,2]
+        "answers":[2,1,2],
+        "time":6
     },"section5_content":{
         "1":[
             "In a fast-paced world, effective communication skills are of paramount importance for success, both in work and personal life, as they contribute to building strong relationships, resolving conflicts, and effectively conveying ideas.",
@@ -46,6 +47,7 @@
             "(4) Continuous learning contributes to improving skills, keeping up with changes, which helps to achieve success in a changing world."
         ],
 
-        "answers":[2,1,1]
+        "answers":[2,1,1],
+        "time":6
     }
 }

@@ -1,0 +1,56 @@
+{
+    "section4_content":{
+        "1":[
+            "The concept of 'liquid modernity' characterized by constant flux and uncertainty, has profoundly reshaped our understanding of identity, community, and the nature of work in the contemporary world.",
+            "(1) The concept of 'liquid modernity' has fundamentally altered our understanding of identity, community, and the nature of work, highlighting the fluidity and uncertainty that define our times.",
+            "(2) The concept of 'liquid modernity' has brought into focus the dynamic and ever-changing nature of our contemporary world, impacting our understanding of identity, community, and work.",
+            "(3) As the world has become increasingly fluid and uncertain, the concept of 'liquid modernity' has provided a framework for understanding the shifts in identity, community, and work.",
+            "(4) The concept of 'liquid modernity' emphasizes the fluidity and uncertainty that characterize contemporary society, impacting our understanding of identity, community, and work, and requiring us to adapt to these ongoing changes."
+        ],
+
+        "2":[
+            "The phenomenon of 'post-truth politics' marked by the erosion of trust in traditional sources of information and the rise of misinformation, poses a serious threat to democratic societies.",
+            "(1) The rise of 'post-truth politics' characterized by the erosion of trust in traditional sources of information and the spread of misinformation, poses a serious threat to democratic societies.",
+            "(2) The increasing prevalence of 'post-truth politics' where facts are less important than emotion and belief, poses a significant challenge to democratic societies",
+            "(3) The erosion of trust in traditional sources of information and the rise of misinformation, often referred to as 'post-truth politics' poses a serious threat to democratic societies.",
+            "(4) The emergence of 'post-truth politics' marked by the widespread dissemination of misinformation and the disregard for facts, has eroded trust in institutions and threatens the foundation of democratic societies."],
+        
+        "3":[
+            "While globalization has undoubtedly facilitated economic growth and cultural exchange, it has also intensified global inequalities, exacerbated environmental degradation, and created new vulnerabilities to economic shocks and pandemics.",
+            "(1) Globalization has been a driving force behind economic growth and cultural exchange, but it has also intensified global inequalities, exacerbated environmental degradation, and created new vulnerabilities to economic shocks and pandemics.",
+            "(2) Despite its potential benefits, globalization has intensified global inequalities, exacerbated environmental degradation, and created new vulnerabilities to economic shocks and pandemics, challenging its sustainability.",
+            "(3) The intensification of global inequalities, exacerbated environmental degradation, and the creation of new vulnerabilities to economic shocks and pandemics are some of the negative consequences of globalization.",
+            "(4) Globalization, while facilitating economic growth and cultural exchange, has also exacerbated global inequalities, environmental degradation, and created new vulnerabilities to economic shocks and pandemics, raising concerns about its long-term impact."
+        ],
+        
+        "answers":[1,4,4],
+        
+        "time":6
+    },"section5_content":{
+        "1":[
+            "The burgeoning field of synthetic biology, with its ability to engineer living organisms for specific purposes, presents both unparalleled opportunities and profound ethical dilemmas.",
+            "(1) The potential of synthetic biology to engineer living organisms for specific purposes raises both unparalleled opportunities and profound ethical dilemmas, challenging us to navigate the implications of this emerging field.",
+            "(2) Synthetic biology, with its ability to engineer living organisms, presents a paradigm shift in our relationship with the natural world, raising both opportunities and ethical concerns that require careful consideration.",
+            "(3)The burgeoning field of synthetic biology holds immense promise for innovation and progress, but its ethical implications, particularly concerning the potential for unintended consequences, must be carefully evaluated.",
+            "(4) The ethical implications of synthetic biology, with its ability to engineer living organisms, raise complex questions about the boundaries of scientific advancement and the responsibility of scientists to consider the potential consequences of their work."
+        ],
+
+        "2":["The increasing interconnectedness of the world, facilitated by technological advancements and globalization, has created new challenges for governance, requiring innovative approaches to address complex transboundary issues.",
+            "(1) The increasing interconnectedness of the world, driven by technological advancements and globalization, requires innovative approaches to governance to address complex transboundary issues.",
+            "(2) Technological advancements and globalization have led to an increasingly interconnected world, posing new challenges for governance and demanding innovative approaches to address complex transboundary issues.",
+            "(3) The interconnectedness of the world, facilitated by technological advancements and globalization, presents challenges to governance and requires innovative approaches to address complex transboundary issues.",
+            "(4) The challenges of governing an increasingly interconnected world, driven by technological advancements and globalization, require innovative approaches to address complex transboundary issues."],
+        
+        "3":[
+            "The concept of 'epistemic injustice' which refers to the systematic disadvantaging of certain groups in the pursuit of knowledge and truth, has significant implications for understanding and addressing issues of social inequality.",
+            "(1) The concept of 'epistemic injustice' which refers to the systematic disadvantaging of certain groups in the pursuit of knowledge and truth, has significant implications for understanding and addressing issues of social inequality.",
+            "(2) The systematic disadvantaging of certain groups in the pursuit of knowledge and truth, often referred to as 'epistemic injustice' has significant implications for understanding and addressing social inequality.",
+            "(3) The concept of 'epistemic injustice' which refers to the systematic disadvantaging of certain groups in the pursuit of knowledge and truth, highlights the importance of addressing social inequality.",
+            "(4) The concept of 'epistemic injustice' recognizes the systematic disadvantaging of certain groups in the pursuit of knowledge and truth, and its implications for understanding and addressing issues of social inequality."
+        ],
+        
+        "answers":[2,2,1],
+        
+        "time":6
+    }
+}

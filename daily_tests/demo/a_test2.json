@@ -17,7 +17,9 @@
             "(2) In spite of the money given by Mr. Miller the construction of the conference hall cannot be completed before the conference.",
             "(3) The hall has finally been built for the conference with the help of the money Mr. Miller gave generously.",
             "(4) The construction of the conference hall must be completed with Mr. Miller's donation, or else there won't be a place for a conference."],
-        "answers":[4,2,1]
+        "answers":[4,2,1],
+        
+        "time":6
         
     },
 
@@ -39,7 +41,9 @@
             "(2) The Germans did not cherish a keen interest in colonialism, but they were immensely interested in the imperial policies pursued by other European powers.",
             "(3) Since colonialism did not appeal to the Germans, their interest in the imperial policies of other European powers was rather superficial.",
             "(4) The Germans, for whom colonialism did not matter much, were fully aware of the imperial policies that other European powers were pursuing."],
-        "answers":[4,3,2]
+        "answers":[4,3,2],
+        
+        "time":6
         
     }
 }

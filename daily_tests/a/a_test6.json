@@ -22,7 +22,8 @@
             "(4) The complex interplay of economic growth and environmental sustainability calls for creative solutions that integrate ecological principles into developmental practices."
         ],
         
-        "answers":[1,2,4]
+        "answers":[1,2,4],
+        "time":6
     },
     "section5_content":{
         "1":[
@@ -47,6 +48,7 @@
             "(4) Technology contributes to providing opportunities for rapid communication, but traditional human interaction remains important."
         ],
         
-        "answers":[2,4,1]
+        "answers":[2,4,1],
+        "time":6
     }
 }

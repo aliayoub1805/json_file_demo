@@ -19,7 +19,8 @@
             "(3) The tourism sector is successful due to not only the improvements in transportation but also globalization.",
             "(4) Successful developments in transportation as well as globalization made the tourism sector better."
         ],
-        "asnwers":[2,4,3]
+        "asnwers":[2,4,3],
+        "time":6
     },
 
     "section5_content":{
@@ -45,7 +46,8 @@
                 "(4) Had Nikola Tesla, whose father was originally Serbian, experimented on wireless electricity transmission, we could have used many inventions we use today much earlier."
             ],
 
-            "answers":[2,2,3]
+            "answers":[2,2,3],
+            "time":6
     }
         
 }

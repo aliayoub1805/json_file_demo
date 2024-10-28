@@ -22,7 +22,8 @@
             "(4) The analysis indicates that economic policies can have lasting impacts on social inequality, often favoring those who are already privileged."
         ],
         
-        "answers":[3,1,4]
+        "answers":[3,1,4],
+        "time":6
     },
     
     "section5_content":{
@@ -49,6 +50,7 @@
             "(4) The challenges of climate change are simplistic and do not require a complex interdisciplinary approach."
         ],
         
-        "answers":[4,2,1]
+        "answers":[4,2,1],
+        "time":6
     }
 }
