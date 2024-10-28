@@ -1,0 +1,35 @@
+{
+    "9":[
+        "The latest report indicates that air quality in urban areas has improved due to stricter emissions regulations.",
+        "(1) Urban air quality has worsened because of relaxed emissions regulations.",
+        "(2) The report shows that stricter emissions regulations have led to better air quality in cities.",
+        "(3) Air quality in rural areas has also improved significantly.",
+        "(4) The report suggests that emissions regulations are unnecessary."
+    ],
+    
+    "10":[
+        "The government has announced plans to increase funding for public education in response to calls for improved school resources.",
+        "(1) The government is cutting funding for public education.",
+        "(2) Plans to enhance school resources include more funding for public education, as announced by the government.",
+        "(3) Public education does not need any additional funding.",
+        "(4) The government has ignored the need for better school resources."
+    ],
+    
+    "11":[
+        "Many experts believe that regular exercise is essential for maintaining good mental health.",
+        "(1) Regular exercise has no effect on mental health.",
+        "(2) Experts agree that exercise is not necessary for mental well-being.",
+        "(3) Maintaining good mental health requires regular physical activity, according to many experts.",
+        "(4) Mental health can be improved by avoiding exercise."
+    ],
+    
+    "12":[
+        "A recent study by environmental scientists suggests that reducing plastic use can significantly decrease ocean pollution.",
+        "(1) Environmental scientists have proven that plastic use has no impact on ocean pollution.",
+        "(2) Cutting down on plastic use may lead to a substantial reduction in pollution in the oceans, according to a recent study.",
+        "(3) Ocean pollution has nothing to do with plastic use.",
+        "(4) The study suggests increasing plastic use will help the environment."
+    ],
+    
+    "9-12":[2,2,3,2]
+}

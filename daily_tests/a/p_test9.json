@@ -1,0 +1,35 @@
+{
+    "9":[
+        "If I’d known how hot and crowded it was going to be here, I wouldn’t have come.",
+        "(1) As it’s so hot and crowded here, I’m beginning to wish I hadn’t come.",
+        "(2) I didn’t realize it would be so hot and crowded here, and if I had, I wouldn’t have come.",
+        "(3) I came here knowing very well it would be both hot and crowded.",
+        "(4) I wouldn’t go as I was sure it would be terribly hot and crowded."
+    ],
+    
+    "10":[
+        "It is entirely a matter of opinion to find television beneficial or harmful.",
+        "(1) Whether television is useful or not depends completely on people's points of view.",
+        "(2) Many people totally disagree with those who believe that television is useful.",
+        "(3) It has always been a matter of discussion whether television is useful or harmful.",
+        "(4) Considering its vast benefit, it is impossible to say that television is harmful."
+    ],
+    
+    "11":[
+        "“Do you ever feel like you’re going to die?” asked the psychiatrist to the patient.",
+        "(1) The psychiatrist asked the patient whether he had ever felt like he wanted to die.",
+        "(2) The psychiatrist told the patient to feel like dying.",
+        "(3) The psychiatrist insisted that the patient never felt like he was going to die.",
+        "(4) The psychiatrist wanted to know if the patient ever felt like he was going to die."
+    ],
+    
+    "12":[
+        "Many students struggle with time management, leading to stress and poor academic performance.",
+        "(1) Time management is essential for academic success.",
+        "(2) Students do not care about their grades.",
+        "(3) Academic performance is never affected by stress.",
+        "(4) Time management issues lead to stress in students."
+    ],
+    
+    "9-12":[2,1,4,4]
+}

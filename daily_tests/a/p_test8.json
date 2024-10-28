@@ -1,0 +1,35 @@
+{
+    "9":[
+        "There is no other language you can learn that is as universal as English.",
+        "(1) Unlike other languages, English is the easiest to learn.",
+        "(2) There are not many languages which are as universal as English is.",
+        "(3) Since English is a universal language, it is wise to learn it.",
+        "(4) Among all languages, English is the most widespread in the world."
+    ],
+    
+    "10":[
+        "Crime can only be reduced by the elimination of social injustices.",
+        "(1) There cannot be a decrease in the crime rate as long as social injustices remain.",
+        "(2) It is a social injustice-that there has been no reduction in crime.",
+        "(3) The lower the crime rate falls, the closer we get to destroying social injustices.",
+        "(4) If there were fewer social injustices, then there would be less crime."
+    ],
+    
+    "11":[
+        "I won't allow you to have a dog unless we have a garden to put it in.",
+        "(1) I can only agree to your keeping a dog if we have a garden for it to live in.",
+        "(2) The garden is the most suitable place in which to keep a dog.",
+        "(3) You have my permission to get a dog as long as it's kept in the garden.",
+        "(4) Without a garden for it to go in, it's impossible to look after a dog."
+    ],
+    
+    "12":[
+        "She wishes she could have got out of bed on time this morning.",
+        "(1) She could have got of bed earlier this morning, but she just didn't want to.",
+        "(2) As usual, she had trouble getting up on time this morning.",
+        "(3) She regrets that this morning she was unable to get up on time.",
+        "(4) She always wishes that she could get up on time, but never does so."
+    ],
+    
+    "9-12":[4,1,1,3]
+}

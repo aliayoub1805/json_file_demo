@@ -1,0 +1,35 @@
+{
+    "9":[
+        "He might have forgotten the place you had arranged to meet at.",
+        "(1) You planned to meet him at a place that he’d forgotten about.",
+        "(2) He must have forgotten where it was that you met previously.",
+        "(3) Perhaps he didn’t remember where you were going to meet.",
+        "(4) He couldn’t remember where the meeting place was."
+    ],
+    
+    "10":[
+        "Although home-cooking is traditionally done by women, most of the chefs are men.",
+        "(1) Cooking in homes is considered women's duty, but the majority of professional cooks are male.",
+        "(2) Men are more original in their cooking, while women are better at preparing traditional dishes.",
+        "(3) Since chefs are too busy cooking for others, at home, their wives have to cook for them.",
+        "(4) Women must hate cooking due to their traditional role at home as it is not common to see a famous female chef."
+    ],
+    
+    "11":[
+        "Neither of my two older brothers has the sense to invest money wisely.",
+        "(1) My two older brothers don't have enough money to invest in their business.",
+        "(2) My two older brothers are becoming more active in investing their money.",
+        "(3) Both of my older brothers are incompetent when it comes to making wise investments.",
+        "(4) My two older brothers have the capacity to make wise investment."
+    ],
+    
+    "12":[
+        "The country with the fewest people per square kilometer must be Australia.",
+        "(1) With its sparse population, Australia is one of the smallest countries.",
+        "(2) Most probably, Australia has the lowest population per square kilometre.",
+        "(3) Australia is considered as one of the smallest countries in the world.",
+        "(4) Although Australia has a low overall population density, it is certainly not a small country."
+    ],
+    
+    "9-12":[3,1,3,2]
+}
