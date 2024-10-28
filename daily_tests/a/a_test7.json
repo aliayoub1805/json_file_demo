@@ -1,0 +1,51 @@
+{
+    "section4_content":{
+        "1":[
+            "For decades, urban areas have been immersed in rapid urban expansion, leading to radical changes in the ecosystem, the spread of phenomena such as rising temperatures, air quality degradation, and a lack of green spaces.",
+            "(1) There is no doubt that rapid urban expansion in urban areas is a major source of environmental change, significantly impacting the ecosystem and leading to rising temperatures and air pollution.",
+            "(2) The rapid expansion of urban areas leads to radical changes in the environment, including rising temperatures, air quality degradation, and a lack of green spaces, threatening the sustainability of the planet.",
+            "(3) The changes occurring in the environment, such as rising temperatures, air pollution, and a lack of green spaces, negatively impact life in urban areas, emphasizing the need to adopt sustainable strategies.",
+            "(4) The environmental changes resulting from rapid urban expansion in urban areas, such as rising temperatures, air pollution, and a lack of green spaces, lead to a set of challenges that threaten human well-being."
+        ],
+
+        "2":["Studies indicate that despite the tremendous technological advancements in recent years, the gap between developed and developing countries in areas such as healthcare, education, and access to technology remains wide, threatening the sustainability of global development.",
+            "(1) Despite the tremendous technological advancements, the gap between developed and developing countries remains wide in healthcare, education, and access to technology, putting the future of global development at risk.",
+            "(2) Technological advancements help narrow the gap between developed and developing countries, but reality shows that the gap remains wide in areas such as healthcare and education, threatening sustainable development.",
+            "(3) There is no doubt that technological advancements help achieve sustainable development, but they cannot reduce the gap between developed and developing countries in healthcare and education.",
+            "(4) Technological advancements contribute to narrowing the gap between developed and developing countries, but they cannot eliminate it entirely, especially in healthcare and education."],
+        
+        "3":[
+            "Psychological studies indicate that exposure of children to domestic violence has a significant impact on their emotional and cognitive development, leading to problems in learning and behavior, and can increase the risk of them being exposed to violence later in life.",
+            "(1) Exposure of children to domestic violence is a major source of psychological and behavioral problems, negatively impacting their ability to learn and increasing the risk of them being exposed to violence later on.",
+            "(2) Domestic violence significantly impacts children's emotional and cognitive development, leading to learning and behavioral problems and increasing the likelihood of them being exposed to violence in the future.",
+            "(3) There is no doubt that domestic violence threatens children's mental health and negatively impacts their development, leading to behavioral and educational problems.",
+            "(4) Domestic violence negatively impacts children, leading to difficulties in learning and behavior, and increases the likelihood of them being exposed to violence in the future, emphasizing the need for awareness and prevention."
+        ],
+        
+        "answers":[2,1,2]
+    },"section5_content":{
+        "1":[
+            "In a fast-paced world, effective communication skills are of paramount importance for success, both in work and personal life, as they contribute to building strong relationships, resolving conflicts, and effectively conveying ideas.",
+            "(1) Effective communication skills contribute to building strong relationships and resolving conflicts, and are essential for success in various aspects of life, especially in a fast-paced world.",
+            "(2) In a rapidly changing world, effective communication skills become even more important, as they help build strong relationships and facilitate the transmission of ideas and the resolution of conflicts.",
+            "(3) There is no doubt that effective communication helps build strong relationships and resolve conflicts, increasing the chances of success in various fields.",
+            "(4) Effective communication is one of the essential communication skills that contribute to resolving conflicts and help build strong relationships, especially in a rapidly changing world."
+        ],
+
+        "2":["Economic experts emphasize that innovation is a key driver of economic growth, as it contributes to the creation of new products and services, the creation of job opportunities, and improving living standards.",
+            "(1) Innovation is one of the key factors that contribute to economic growth, as it leads to the creation of new products and services, the creation of job opportunities, which contributes to improving living standards.",
+            "(2) There is no doubt that innovation contributes to improving living standards, creating job opportunities, and is a key driver of economic growth.",
+            "(3) Innovation is a key driver of economic growth, as it contributes to finding innovative solutions to problems and helps improve living standards.",
+            "(4) Economic experts emphasize that innovation contributes to improving living standards, creating job opportunities, and is a key driver of economic growth."],
+        
+        "3":[
+            "Studies indicate that continuous learning is essential for success in a rapidly changing world, as it allows one to keep up with developments, improve skills, and remain resilient in the face of change.",
+            "(1) In a rapidly changing world, continuous learning is one of the most important factors that contribute to success, as it allows one to keep up with developments, improve skills, and remain resilient in the face of change.",
+            "(2) Continuous learning helps to keep pace with changes in a rapidly evolving world, improves skills, which contributes to success.",
+            "(3) There is no doubt that continuous learning is essential for success in a changing world, as it allows one to improve skills and keep up with developments.",
+            "(4) Continuous learning contributes to improving skills, keeping up with changes, which helps to achieve success in a changing world."
+        ],
+
+        "answers":[2,1,1]
+    }
+}

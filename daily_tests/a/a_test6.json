@@ -1,0 +1,52 @@
+{
+    "section4_content":{
+        "1":[
+            "The discovery of penicillin marked a revolutionary turning point in medical science, fundamentally altering the treatment of bacterial infections and saving countless lives since its introduction.",
+            "(1) Penicillin's discovery significantly changed the landscape of medicine by providing an effective means of treating bacterial infections and has been instrumental in saving numerous lives.",
+            "(2) Since penicillin was discovered, the way we treat bacterial infections has improved immensely, saving many lives and advancing medical practices significantly.",
+            "(3) The introduction of penicillin as an antibiotic was a pivotal moment in healthcare history, leading to breakthroughs in how bacterial diseases are addressed.",
+            "(4) The revolutionary impact of penicillin has redefined medical treatments for bacterial infections, ensuring a notable increase in survival rates across various demographics."
+        ],
+
+        "2":["The advent of the internet has fundamentally transformed the landscape of communication, enabling instantaneous connectivity and facilitating the exchange of information on a global scale.",
+            "(1) Communication has become much easier since the internet was introduced, allowing people to connect and share information more quickly than ever before.",
+            "(2) The internet has reshaped how individuals communicate, allowing for real-time connections and promoting the rapid dissemination of information worldwide.",
+            "(3) Instant communication is now possible because of the internet, making it easier for people to stay in touch with one another globally.",
+            "(4) The way we communicate has evolved drastically due to the internet, which supports immediate contact and the widespread sharing of knowledge."],
+        
+        "3":[
+            "The intricate relationship between environmental sustainability and economic growth necessitates innovative approaches that harmonize ecological considerations with developmental strategies.",
+            "(1) Finding a balance between environmental sustainability and economic development requires new methods that consider both ecological and growth-related factors.",
+            "(2) Sustainable development cannot occur without considering both environmental health and economic growth, requiring a multifaceted approach.",
+            "(3) Economic strategies must adapt to include environmental sustainability as a vital component for future growth and stability.",
+            "(4) The complex interplay of economic growth and environmental sustainability calls for creative solutions that integrate ecological principles into developmental practices."
+        ],
+        
+        "answers":[1,2,4]
+    },
+    "section5_content":{
+        "1":[
+            "Nature plays a vital role in preserving biodiversity, but the destruction of green spaces leads to the extinction of many species.",
+            "(1) The destruction of green spaces leads to the loss of biodiversity, which threatens the survival of many species.",
+            "(2) Despite the importance of nature in preserving biodiversity, the destruction of green spaces threatens the survival of many species.",
+            "(3) The destruction of green spaces has a negative impact on biodiversity, putting many species at risk.",
+            "(4) Nature preserves biodiversity, but the destruction of green spaces leads to the extinction of many species, which poses a threat to the balance of the ecosystem."
+        ],
+
+        "2":["Education is the foundation for success in life, but inequality in access to education hinders the progress of many societies.",
+            "(1) Many societies suffer from inequality in access to education, which hinders their progress despite the importance of education.",
+            "(2) Education is the key to success, but inequality in access to it prevents many societies from reaching a better standard of living.",
+            "(3) Education is important, but inequality in access to it threatens the chances of societies' progress, especially poor societies.",
+            "(4)  Inequality in education hinders the progress of societies, and deprives many individuals of opportunities for success and prosperity."],
+        
+        "3":[
+            "Technology is rapidly changing the world, but the importance of human interaction remains.",
+            "(1) Despite the rapid changes brought about by technology, human interaction remains important.",
+            "(2) Despite technology's impact on daily life, human interaction is still necessary to maintain human relationships.",
+            "(3) Technology can contribute to facilitating communication, but the importance of human interaction cannot be denied.",
+            "(4) Technology contributes to providing opportunities for rapid communication, but traditional human interaction remains important."
+        ],
+        
+        "answers":[2,4,1]
+    }
+}
