@@ -1,0 +1,35 @@
+{
+    "9":[
+        "Recent studies indicate that individuals who engage in regular physical activity not only improve their physical health but also experience enhanced mental well-being and emotional resilience.",
+        "(1) Engaging in physical activity has no effect on mental health.",
+        "(2) Regular physical activity can lead to better physical and mental health, as well as emotional strength.",
+        "(3) Only physical health benefits from regular exercise.",
+        "(4) Mental well-being is independent of physical activity levels."
+    ],
+    
+    "10":[
+        "The implementation of renewable energy sources has the potential to significantly reduce greenhouse gas emissions, thereby contributing to the global effort against climate change.",
+        "(1) Renewable energy sources are ineffective in addressing climate change.",
+        "(2) Climate change is unrelated to greenhouse gas emissions.",
+        "(3) By using renewable energy, greenhouse gas emissions can be greatly diminished, aiding the fight against climate change.",
+        "(4) The global effort against climate change does not include renewable energy sources."
+    ],
+    
+    "11":[
+        "In light of recent advancements in technology, many educators believe that integrating digital tools into the classroom can significantly enhance student engagement and learning outcomes.",
+        "(1) Technology has little impact on student engagement in the classroom.",
+        "(2) Recent technology advancements have no relevance to education.",
+        "(3) Integrating technology into classrooms has been proven to be ineffective.",
+        "(4) Many teachers argue that using digital tools can make learning more engaging and effective for students."
+    ],
+    
+    "12":[
+        "The findings from the latest research highlight the crucial role of early childhood education in shaping cognitive and social development, underscoring the need for accessible quality programs for all children.",
+        "(1) Early childhood education is not important for children's development.",
+        "(2) Access to early childhood education is irrelevant to children's cognitive and social skills.",
+        "(3) The research emphasizes that early education is vital for cognitive and social growth, calling for quality programs to be available for every child.",
+        "(4) Quality early childhood education only benefits a small number of children."
+    ],
+    
+    "9-12":[2,3,4,3]
+}

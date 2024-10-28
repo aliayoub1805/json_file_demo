@@ -1,0 +1,36 @@
+{
+    
+    "9":[
+        "The research shows that spending time in nature can significantly reduce stress levels.",
+        "(1) Nature has no effect on stress.",
+        "(2) Spending time outdoors can help lower stress levels, according to research.",
+        "(3) Stress is only caused by indoor activities.",
+        "(4) The research indicates that stress cannot be managed by spending time in nature."
+    ],
+    
+    "10":[
+        "The new policy aims to enhance employee productivity by offering flexible work hours.",
+        "(1) The new policy is focused on increasing employee productivity through rigid work schedules.",
+        "(2) Flexible work hours are designed to improve productivity among employees under the new policy.",
+        "(3) Employee productivity is not considered in the new policy.",
+        "(4) The new policy will have no effect on employee productivity."
+    ],
+    
+    "11":[
+        "Climate change is causing extreme weather patterns, leading to more frequent natural disasters.",
+        "(1) Climate change has no impact on natural disasters.",
+        "(2) Extreme weather patterns, resulting from climate change, are increasing the occurrence of natural disasters.",
+        "(3) Natural disasters are a result of human activities only.",
+        "(4) Weather patterns are becoming less extreme due to climate change."
+    ],
+    
+    "12":[
+        "The documentary reveals the struggles faced by wildlife due to habitat loss.",
+        "(1) The documentary highlights the benefits of habitat loss for wildlife.",
+        "(2) Habitat loss has no effect on wildlife, according to the documentary.",
+        "(3) The struggles of wildlife resulting from habitat loss are depicted in the documentary.",
+        "(4) The documentary does not address issues related to wildlife."
+    ],
+    
+    "9-12":[2,2,2,3]
+}

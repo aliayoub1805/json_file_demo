@@ -1,7 +1,53 @@
 {
     "section4_content":{
+        "1":[
+            "The recent report published by the World Health Organization emphasizes the urgent need for countries to invest in healthcare infrastructure to address the increasing burden of chronic diseases among their populations.",
+            "(1) The World Health Organization's report suggests that healthcare infrastructure is not important for managing chronic diseases.",
+            "(2) A recent report by the World Health Organization highlights the necessity for nations to enhance their healthcare systems to effectively combat rising chronic disease rates.",
+            "(3) Countries should ignore the recommendations of the World Health Organization regarding healthcare investments.",
+            "(4) The burden of chronic diseases is insignificant according to the World Health Organization."
+        ],
+
+        "2":[
+            "As climate change continues to accelerate, it is becoming increasingly evident that immediate action is required to mitigate its effects, including more frequent natural disasters, rising sea levels, and severe weather patterns.",
+            "(1) Climate change is a minor issue that does not require any immediate attention or action.",
+            "(2) The acceleration of climate change necessitates urgent measures to address its impacts, such as more frequent natural disasters and severe weather events.",
+            "(3) Immediate action is unnecessary in response to climate change effects, according to current studies.",
+            "(4) Natural disasters are unrelated to climate change and do not require any action."],
         
+        "3":[
+            "The latest findings in neuroscience reveal that engaging in creative activities not only stimulates brain function but also fosters emotional well-being and enhances cognitive flexibility, which are essential for problem-solving in daily life.",
+            "(1) Engaging in creative activities has no impact on brain function or emotional health.",
+            "(2) Creativity is not linked to improved brain function or problem-solving abilities.",
+            "(3) Cognitive flexibility is irrelevant to emotional well-being according to neuroscience studies.",
+            "(4) Recent neuroscience research indicates that creative pursuits improve brain activity and support emotional health, thereby aiding in everyday problem-solving."
+        ],
+        
+        "answers":[2,2,4]
     },"section5_content":{
+        "1":[
+            "Many environmentalists argue that transitioning to renewable energy sources is not only beneficial for reducing carbon emissions but also crucial for creating sustainable economic growth that can support future generations.",
+            "(1) Environmentalists believe that renewable energy has no economic benefits.",
+            "(2) Sustainable economic growth is unrelated to the adoption of renewable energy sources.",
+            "(3) A significant number of environmental advocates assert that shifting to renewable energy is essential for lowering carbon emissions and promoting long-term economic sustainability.",
+            "(4) Transitioning to renewable energy is seen as detrimental to economic progress according to many experts."
+        ],
+
+        "2":[
+            "The extensive research conducted on the impacts of social media on interpersonal relationships has revealed that while these platforms can facilitate communication, they may also lead to increased feelings of isolation and decreased face-to-face interactions.",
+            "(1) Social media has no effect on how people communicate or relate to one another.",
+            "(2) Face-to-face interactions are more common in the age of social media, according to the research.",
+            "(3) Increased communication through social media guarantees stronger interpersonal relationships.",
+            "(4) Research indicates that social media can enhance communication but may simultaneously contribute to feelings of isolation and a decline in direct interactions among individuals."],
         
+        "3":[
+            "The integration of advanced technologies in modern education systems is increasingly recognized as a pivotal factor in enhancing student engagement, improving learning outcomes, and preparing learners for the complexities of the digital age.",
+            "(1) The use of modern technology in education is becoming essential for boosting student involvement and ensuring effective learning in today’s digital environment.",
+            "(2) Advanced technologies have little impact on student engagement or educational outcomes.",
+            "(3) Preparing students for the future does not require any technological integration in education.",
+            "(4) Traditional teaching methods are superior to modern technology in enhancing student engagement."
+        ],
+        
+        "answers":[3,4,1]
     }
 }

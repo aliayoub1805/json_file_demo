@@ -1,9 +1,54 @@
 {
     "section4_content":{
+        "1":[
+            "The recent advancements in artificial intelligence technology have sparked significant debates regarding ethical considerations, particularly concerning privacy and the potential for bias in algorithmic decision-making processes.",
+            "(1) The rapid development of artificial intelligence has raised concerns about privacy and bias in decision-making algorithms.",
+            "(2) Many people are unconcerned about the ethical implications of artificial intelligence technologies, including privacy issues and algorithmic biases.",
+            "(3) There is an ongoing discussion about the ethical ramifications of artificial intelligence, especially regarding privacy rights and bias in automated decision-making systems.",
+            "(4) Ethical concerns about artificial intelligence revolve primarily around its benefits rather than its drawbacks."
+        ],
+
+        "2":["In the context of rapidly evolving technological landscapes, businesses are increasingly compelled to adopt innovative strategies that not only enhance operational efficiency but also foster sustainable practices that benefit both the environment and society.",
+            "(1) Companies are now more than ever required to implement forward-thinking strategies that improve efficiency and promote sustainability for societal and environmental gains.",
+            "(2) Businesses must choose between enhancing operational efficiency and adopting sustainable practices in the current technological environment.",
+            "(3) The technological advancements are forcing companies to improve their operations while disregarding sustainability and environmental impact.",
+            "(4) The evolution of technology has minimal impact on how businesses strategize for efficiency and sustainability."],
         
+        "3":[
+            "The comprehensive analysis of historical data has illuminated the intricate relationship between economic policies and their long-term effects on social inequality, revealing that certain measures disproportionately benefit privileged groups.",
+            "(1) Historical data shows no connection between economic policies and social inequality.",
+            "(2) Social inequality is largely unaffected by historical economic policies, according to recent analyses.",
+            "(3) Comprehensive data analysis has proven that all economic policies benefit society equally without regard to privilege.",
+            "(4) The analysis indicates that economic policies can have lasting impacts on social inequality, often favoring those who are already privileged."
+        ],
+        
+        "answers":[3,1,4]
     },
     
     "section5_content":{
+        "1":[
+            "Scholars have posited that the interplay between cultural narratives and individual identity formation is crucial, as these narratives shape perceptions and influence personal values across generations.",
+            "(1) Individual identity is formed independently of cultural narratives and does not influence personal values.",
+            "(2) Personal values are solely determined by individual experiences rather than cultural influences.",
+            "(3) The relationship between culture and individual identity is insignificant and does not affect values.",
+            "(4) Cultural narratives play a significant role in shaping individual identities and values, impacting generations in profound ways."
+        ],
+
+        "2":[
+            "The escalating crisis of biodiversity loss has necessitated a collective response from global communities, urging policymakers to implement comprehensive strategies that prioritize conservation and sustainable resource management.",
+            "(1) Biodiversity loss is a trivial issue that does not require global attention or policy changes.",
+            "(2) The urgent decline in biodiversity has prompted worldwide communities to call for comprehensive conservation strategies and sustainable resource practices.",
+            "(3) Policymakers are largely ignoring the crisis of biodiversity loss and do not require a collective response.",
+            "(4) Strategies for resource management should focus on economic growth rather than biodiversity conservation."],
         
+        "3":[
+            "The multifaceted nature of climate change demands an interdisciplinary approach, integrating scientific research with social, political, and economic frameworks to effectively address its pervasive challenges.",
+            "(1) Addressing climate change requires collaboration across various disciplines, merging scientific insights with social and economic perspectives to tackle its widespread effects.",
+            "(2) Climate change can be understood through a single discipline without the need for interdisciplinary collaboration.",
+            "(3) Scientific research alone is sufficient to solve the challenges posed by climate change without considering social or political factors.",
+            "(4) The challenges of climate change are simplistic and do not require a complex interdisciplinary approach."
+        ],
+        
+        "answers":[4,2,1]
     }
 }
