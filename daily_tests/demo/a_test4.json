@@ -1,0 +1,50 @@
+{
+    "section_4_content":{
+        "1":[
+        "According to the last information, we are to take precautions where and when necessary.",
+        "(1) The recent information expects from us to take precautions in the urgent time and place.",
+        "(2) When and where it is essential, we were wanted to take precautions depending on the information.",
+        "(3) Wherever and whenever it is necessary, we have to take precautions for the last information.",
+        "(4) This recent information urges us that we should take precautions in the essential time."
+        ], 
+        
+        "2":[
+            "No sooner had the plane departed for London than its engines all stopped working.",
+            "(1) Immediately after the plane had left for London, all its engines failed.",
+            "(2) One of the plane’s engines failed soon after it had taken off from London.",
+            "(3) The moment the plane left London, one of its engines ceased to work.",
+            "(4) The plane’s engines suddenly stopped just before it set out to London."
+        ],
+        "3":[
+            "The dramatic rise of the dollar left many people wondering how they will be able to cover their credit debts.",
+            "(1) The dollar has risen sharply, and that`s why most people are worried about whether they can pay their credit debts or not.",
+            "(2) If the dollar didn`t increase so sharply, most people would still be wondering how to pay their credit debts.",
+            "(3) The people are left wondering whether it is possible to pay their credit debts especially since the dollar has risen dramatically.",
+            "(4) It is very dramatic for people who have credit debts that they wonder whether they will be able to pay when the dollar is increasing so much."],
+    
+        "answers":[3,1,1]
+    },
+
+    "section_5_content":{
+        "1":[
+            "She couldn’t have finished her thesis before the winter break because she was still looking for a good topic when I saw her in the library in December.",
+            "(1) She wasn’t able to finish her thesis before the winter break since she didn’t find a good subject until December when I met her at the library.",
+            "(2) She didn’t finish her thesis before the winter break, as she didn’t know what to write until we ran into each other in the library in December.",
+            "(3) She still hadn’t found a good topic when I saw her in the library in December, so it is impossible that she finished her thesis prior to the winter break.",
+            "(4) She had to find a good topic for her thesis because she still didn’t know what to write about when I saw her in the library in December."],
+        "2":["No matter how unnecessary they may seem to most of the students, the security measures must be taken to make the campus a safer place.",
+            "(1) I think most of the students would agree that making the campus a safer place doesn’t seem a very necessary matter since some security measures have already been taken.",
+            "(2) Measures must be taken to improve the campus in terms of safety despite the fact that the majority of the students don’t consider them necessary.",
+            "(3) However unnecessary they may look, the security measures have to be taken by the majority of the students to create a safer campus.",
+            "(4) Most of the students may not be aware of the security problem on the campus; however, the precautions had to be taken to make it safer."],
+        "3":[
+            "The Amazon Rainforest is famous for its breathtaking diversity of plants along with its considerable number of animal species.",
+            "(1) The Amazon Rainforest is widely known for the existence of wonderful plants rather than the incredible animal species found there.",
+            "(2) It is well known that the Amazon Rainforest contains a high quantity of plants together with an increasing number of animal species.",
+            "(3) The Amazon Rainforest is notable to many with its large collection of plants and animal species that cannot be found anywhere else.",
+            "(4) In addition to an abundant number of animal species, the Amazon Rainforest is known for its stunning variety of plants."
+        ],
+        "answers":[3,2,4]
+
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "section4_content":{
+        "1":["After the first partial face transplant in France, a team of surgeons in Antalya managed to perform a full face transplant on January 21, 2012.",
+            "(1) A team of surgeons from Antalya managed to transplant a full face after the first face transplant in France on January 21, 2012.",
+            "(2) Following the first partial face transplant in France, a group of Turkish surgeons succeeded in transplanting a full face on January 21, 2012.",
+            "(3) After a group of surgeons performed the first face-transplant, Turkish surgeons performed a partial face transplant successfully in 2012.",
+            "(4) A team of doctors transplanted a partial face to another patient successfully when the first full face transplant was performed in France in 2012."],
+
+        "2":["By all accounts, the operation was a success, but the period of recuperation looks like being a long one.",
+            "(1) Even if the operation is successful, it will be a long time before he gets back to normal.",
+            "(2) Since the operation was only a partial success, we mustn’t expect a speedy recovery.",
+            "(3) The operation was a huge success, so he is expected to be back to normal almost at once.",
+            "(4) The operation apparently went off well, but quite some time may be required for him to recover fully."],
+        
+        "3":["Over the years, researchers have learned a lot about how and why cancer forms.",
+            "(1) Through their research into cancer, scientists have finally discovered the causes of the disease and suggested various forms of treatment.",
+            "(2) For many years, scientists have carried out much research into different types of cancer and are now able to discuss them fully.",
+            "(3) It has taken a long time for scientists to find out about various kinds of cancer and suggest different methods of treatment.",
+            "(4) Those who are involved in cancer research have, over time, come to know much about the ways and causes of the disease’s development."],
+        "answers":[2,4,4]
+        
+    },
+
+
+
+    "section5_content":{
+        "1":["Of all the problems faced at the university today, none seems to be as urgent as the security issue.",
+            "(1) It is a widespread belief that there seems to be many problems at the university as urgent as the security problem.",
+            "(2) Few problems at the university seem more urgent than that of security.",
+            "(3) It seems that almost all of the problems faced at the university are as vital as the security issue.",
+            "(4) When compared to all the problems, security is probably the most crucial issue at the university."],
+
+        "2":["A college is different from a university in that while the former offers only undergraduate courses, the latter offers graduate courses, too.",
+            "(1) To tell the difference between a college and a university, one should look at whether they offer graduate courses or not.",
+            "(2) What differentiates a university from a college is that it is possible to take graduate courses at a university while it is not at a college.",
+            "(3) One of the differences between a college and a university is that the former doesn’t offer graduate courses while the latter does.",
+            "(4) Although a university offers graduate courses and a college doesn’t, this is just one of the many differences between them."],
+
+        "3":["A drug may affect several functions, even though it’s targeted at only one.",
+            "(1) Despite various other uses, a drug usually has a function for a special effect.",
+            "(2) The functions expected of a drug are various even if it is used for a specific disease.",
+            "(3) However effective a drug may be, its functions have to be several.",
+            "(4) "],
+        "answers":[4,2,4]
+        
+    }
+}

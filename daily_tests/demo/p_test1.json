@@ -1,0 +1,29 @@
+{
+    "9":[
+        "A great majority of countries depend on international trade for their food supply due partly to the limitations of their own agricultural products.",
+        "(1) Most of the countries rely on international trade for their food supply, and part of the reason for this is that their own agricultural products are limited.",
+        "(2) The reason why most of the countries rely on international trade to have enough food in their country is that the agricultural products in each country are limited.",
+        "(3) If every country could produce their own food supply without a limit, they wouldn`t be depending on international trade for agricultural products.",
+        "(4) The fact that the majority of the countries can`t grow agricultural products limitlessly, they depend on international trade for their food supply."],
+    "10":[
+        "Much to our surprise, everyone arrived at the meeting place on time, so this was a good start for the trip.",
+        "(1) Surprisingly enough, the trip turned out to be a great success even though there were many late-comers.",
+        "(2) The trip began well as we were surprised to find that everyone had come to the meeting place at the appointed time.",
+        "(3) Everyone made a really big effort to get to the meeting place on time, so the trip had a good start.",
+        "(4) The trip started well, with everyone at the meeting place on time, but then came some unpleasant surprises."
+    ],
+    "11":[
+        "My parents don't understand how I managed to afford to live on my own all these years while I was abroad.",
+        "(1) It is so difficult to pay for your own expenses when you are abroad for a long time that my parents didn`t expect me to manage to get by with my own earnings.",
+        "(2) Living abroad and not depending on your parents for money is not something that my parents could understand.",
+        "(3) Now that my parents don`t understand me, I will have to afford to live on my own while I am living abroad all these years.",
+        "(4) It is beyond my parents` imagination that I succeeded in spending just my own money for a living throughout these years while I was abroad."],
+    "12":[
+        "You knew I needed your help this weekend, so you shouldn’t have promised to go out with your friends.",
+        "(1) You’d promised to help me this weekend, so I don’t see how you can agree to go off with your friends like that.",
+        "(2) suppose you’ve arranged to go off with your friends this weekend because you didn’t want to help me though you had promised to.",
+        "(3) It was not right for you to promise your friends that you’d go out with them this weekend since you knew I had to have some help from you.",
+        "(4) When you agreed to go out with your friends this weekend, had you forgotten you’d promised to help me?"],
+    
+    "9-12":[1,2,4,3]
+}

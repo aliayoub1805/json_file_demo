@@ -1,0 +1,54 @@
+{
+    "total_time":39,
+    "section1_time":4,
+    "section2_time":4,
+    "section3_time":15,
+    "section4_time":6,
+    "section5_time":6,
+    "section6_time":4,
+
+    "section4_content":{
+        "1":["Melbourne's incredible year-round calendar of events means that no matter when you visit there's always something special to see.",
+        "(1) When you visit Melbourne and you want to see something special, you should know when the events take place.",
+        "(2) Melbourne is one of the best places to visit if you want to see something special in some parts of the year.",
+        "(3) Unlike other holiday destinations, Melbourne is famous for its tremendous year-round calendar events.",
+        "(4) Since Melbourne is full of tremendous events throughout the year, there is always something special to see whenever you visit it."],
+    
+        "2":["The same amount of alcohol has a greater effect on a lighter person than on a heavier person, because the blood alcohol concentration is higher in the lighter person.",
+        "(1) Since heavier people have a higher blood alcohol concentration than lighter people, they are more affected by alcohol.",
+        "(2) Due to their higher blood alcohol concentration, alcohol affects lighter people more than heavier people.",
+        "(3) People with higher blood alcohol concentration are more affected by alcohol, no matter how much they weigh.",
+        "(4) Smaller and lighter people are not as susceptible to the effects of alcohol as larger and heavier people."],
+    
+
+        "3":["The eighteenth century witnessed the last phase of Baroque music and had two of the greatest composers of all time: Bach and Handel.",
+        "(1) The eighteenth century was noted for its interest in Baroque music, and at the time both Bach and Handel were the most notable representatives of this music.",
+        "(2) It was in the eighteenth century that Baroque music became most popular and that Bach and Handel were recognized as the most famous composers of the time.",
+        "(3) Baroque music reached its final stage of development in the eighteenth century, which also produced Bach and Handel, regarded as the greatest composers ever.",
+        "(4) The development of Baroque music reached its climax in the eighteenth century when, as the greatest Baroque composers, Bach and Handel created the best of their music."],
+        
+        "answers":[4,2,3]
+    },
+
+    "section5_content":{
+        "1":["The meeting lasted for longer than we had expected as, for some reason or another, there were continual interruptions.",
+        "(1) The interruptions that made the meeting last for so much longer than we anticipated were all of them quite unnecessary.",
+        "(2) It was on account of there being so many interruptions that the meeting went on for so much longer than we had expected.",
+        "(3) We were interrupted time and again, on various accounts, so the meeting went on longer than we had anticipated.",
+        "(4) In spite of a succession of quite unnecessary interruptions, the meeting didn't actually last much longer than the time scheduled for it."],
+
+        "2":["Had Jim taken my advice, he wouldn't have to put up with all this nonsense.",
+            "(1) Even though Jim took my advice, he had to put up with all this nonsense.",
+            "(2) Jim was able to put up with all this nonsense as he had taken my advice.",
+            "(3) Jim needn't have taken my advice to put up with all this nonsense.",
+            "(4) The reason why Jim has to put up with all this nonsense is his not taking my advice."], 
+
+        "3":["They couldn't have fed so many people at the soup kitchen without the food donations from both individual citizens and local businesses.",
+            "(1) The soup kitchen could have served many more people if they had received some donations from a private business or some local individuals.",
+            "(2) The food donated by local businesses and residents was what allowed them to feed such a large number of people at the soup kitchen.",
+            "(3) Both the business community and local residents were willing to donate food to the soup kichen they were organizing.",
+            "(4) The soup kitchen couldn't feed as many people as they had hoped to because they didn't receive enough support from businesses or local residents."], 
+
+        "answers":[3,4,2]
+    }
+}

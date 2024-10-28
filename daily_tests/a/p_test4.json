@@ -1,0 +1,35 @@
+{
+    "9":[
+        "The criminals were caught by the police while attempting to smuggle drugs into U.S.A.",
+        "(1) Attempting to smuggle drugs into U.S.A, the police caught the criminals.",
+        "(2) Smuggling drugs into U.S.A, the police attempted to catch the criminals.",
+        "(3) The police attempted to catch the criminals while they were smuggling drugs into U.S.A.",
+        "(4) The police caught the criminals who were attempting to smuggle drugs into U.S.A."
+    ],
+    
+    "10":[
+        "I am going to Latin dance classes and learning Tango this year; it’s quite a challenge.",
+        "(1) This year, I am going to learn Latin at Tango classes; it’s quite a challenge.",
+        "(2) I’m going to Tango dance classes to learn Latin this year, and it is not easy.",
+        "(3) It’s a challenge! I am going to go to Latin dance classes and learn Tango this year.",
+        "(4) This year I am learning Tango at Latin dance classes; it’s not at all easy."
+    ],
+    
+    "11":[
+        "After she overcame the stress she had at work, she started to make some friends.",
+        "(1) As her stress gradually decreased, more people wanted to be friends with her at work.",
+        "(2) Until she overcame it, her work stress had prevented her from making friends with anyone.",
+        "(3) Her ability to make friends helped her to deal with stress at work.",
+        "(4) Before becoming less stressed, nobody had wanted to be friends with her."
+    ],
+    
+    "12":[
+        "When the elderly remember things they used to do in their youth, they often feel a little sadness.",
+        "(1) The elderly frequently feel sad when they remember things they did in their youth.",
+        "(2) The elderly sometimes forget to do things they have to do, which makes them feel sad.",
+        "(3) As old people try to do things they did when they were young, they struggle because they aren’t able to do them anymore as easily as they used to.",
+        "(4) As the elderly remember that in the future they won’t do many things they do now, they feel a little sadness."
+    ],
+    
+    "9-12":[4,4,2,1]
+}

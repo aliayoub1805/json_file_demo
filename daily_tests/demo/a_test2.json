@@ -1,0 +1,45 @@
+{
+    "section4_content":{
+        "1":["People have usually assumed that this mountain village was abandoned because easier living conditions were available elsewhere.",
+            "(1) The prospect of better living conditions in another place must have tempted the inhabitants to desert this mountain village.",
+            "(2) It must have been hard to make a livelihood in this mountain village, so people opted out and went in search of an easier way of life.",
+            "(3) The mountain village was presumably abandoned when people realized that easier conditions were on offer elsewhere.",
+            "(4) It has generally been presumed that people deserted this mountain village because there was the prospect of a pleasanter way of life in another place."],
+  
+        "2":["Those running the conference check that all the guest speakers have arrived before they are due to give their lecture.",
+            "(1) Prior to the start of the conference, the people responsible for it check which guest peakers are due to lecture.",
+            "(2) Before their scheduled lecture time, the people in charge of the conference confirm that no guest speaker is absent.",
+            "(3) The people who organized the conference should have checked that every guest speaker had arrived before they were due to lecture.",
+            "(4) Those conference participants attending the lectures must check with those in charge to find out when the guest speakers are due at the lectures."],
+
+        "3":["Now that Mr. Miller has donated the money needed for the conference hall, it should be completed in time for the conference.",
+            "(1) Thanks to Mr. Miller's donation, the conference hall will have most probably been completed by the time the conference begins.",
+            "(2) In spite of the money given by Mr. Miller the construction of the conference hall cannot be completed before the conference.",
+            "(3) The hall has finally been built for the conference with the help of the money Mr. Miller gave generously.",
+            "(4) The construction of the conference hall must be completed with Mr. Miller's donation, or else there won't be a place for a conference."],
+        "answers":[4,2,1]
+        
+    },
+
+    "section5_content":{
+        "1":["This study demonstrates that there is a positive correlation between parental pressure and increased level of student anxiety.",
+            "(1) It is shown in this study that student anxiety doesn't increase no matter how much pressure parent exert.",
+            "(2) What this study shows us is concerned with the surprising fact that parental pressure has a significant impact on level of student anxiety.",
+            "(3) According to the results of this, the amount of parental pressure hardly increases the level of student anxiety.",
+            "(4) According to this study, the more pressure parents exert, the more anxious students become."],
+
+        "2":["Although the literatures of Australia and New Zealand have been grouped together for convenience, the elements that distinguish them from each other are many.",
+            "(1) Since Australia and New Zealand have produced similar literatures, it is possible to ignore the small differences between them and group them together.",
+            "(2) People are in the habit of classifying the literatures of Australia and New Zealand together, however different they are from each other.",
+            "(3) That the literatures of Australia and New Zealand are classified together is just out of convenience; otherwise, there are a lot of differences between the two.",
+            "(4) It is difficult to understand why the literatures of Australia and New Zealand are grouped together, for they are completely different from each other."],
+        
+        "3":["Though the Germans were not the most enthusiastic colonialists, they were still fascinated by other European powers’ imperial policies.",
+            "(1) The imperial policies put into effect by other European powers exceedingly exasperated the Germans who were themselves utterly indifferent to colonialism.",
+            "(2) The Germans did not cherish a keen interest in colonialism, but they were immensely interested in the imperial policies pursued by other European powers.",
+            "(3) Since colonialism did not appeal to the Germans, their interest in the imperial policies of other European powers was rather superficial.",
+            "(4) The Germans, for whom colonialism did not matter much, were fully aware of the imperial policies that other European powers were pursuing."],
+        "answers":[4,3,2]
+        
+    }
+}

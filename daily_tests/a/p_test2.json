@@ -1,0 +1,34 @@
+{
+    "9":[
+            "No hour is too early or too late to call our plumbing company.",
+            "(1) Our plumbing company does not answer calls that are too early or too late.",
+            "(2) Our plumbing company accepts calls at any hour of the day.",
+            "(3) Whether you call early or late, our plumbing company will come in one hour.",
+            "(4) If you call early enough, th our plumbing company will never be late."
+        ],
+
+        "10":["When TV first became available to large numbers of Americans in the 1950s and 1960s, most producers ignored its possibilities as a tool for education.",
+            "(1) In the 1950s and 1960s, there were not many educational programs about TV in America.",
+            "(2) Until the 1950s and 1960s, most of the TV programs in America were tools for education.",
+            "(3) In the 1950s and 1960s, most American producers did not view TV as a means of education.",
+            "(4) During the 1950s and 1960s, educational programs first became available to Americans."],
+        
+        
+        "11":[
+            "According to a theory, if a meteor hadn’t hit the Earth, dinosaurs would be living now.",
+            "(1) Even though that meteor hadn’t hit the world so hard, the dinosaurs would still be dead by now, according to one theory.",
+            "(2) One theory argues that it is due to a meteor hitting the Earth that made it impossible for dinosaurs to survive.",
+            "(3) Only one theory argues that if a meteor hadn’t hit the world, dinosaurs would have been alive now.",
+            "(4) The dinosaurs might have been alive today if a meteor hadn’t hit the Earth, one theory says."
+        ],
+
+        "12":[
+            "With the recent advances in medicine, many children who would have died in infancy due to various diseases are now living into adult age.",
+            "(1) In recent years, early diagnosis has improved the treatment of many diseases.",
+            "(2) Even though there have been many advances made in medicine, many children die in infancy due to various diseases.",
+            "(3) Thanks to the great advances in medicine, people in some countries are now living longer than they used to in the past.",
+            "(4) The recent advances in medicine have saved the lives of many children likely to die because of various diseases."
+        ],
+
+        "9-12":[2,3,2,4]
+}

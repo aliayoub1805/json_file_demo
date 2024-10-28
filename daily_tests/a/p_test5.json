@@ -1,0 +1,35 @@
+{
+    "9":[
+        "Authorities suspect that the Malaysian plane crashed into the sea.",
+        "(1) The Malaysian plane is suspected to have crashed into an unknown object over the sea.",
+        "(2) That the Malaysian plane has crashed into the sea is well-known by authorities.",
+        "(3) It is suspected that the Malaysian plane will have crashed into the sea when authorities arrive.",
+        "(4) The Malaysian plane might have crashed into the sea according to authorities."
+    ],
+    
+    "10":[
+        "Weather catastrophes such as tornadoes will strike the Earth more frequently.",
+        "(1) During weather disasters like tornadoes, the Earth gets damaged very badly.",
+        "(2) The Earth is going to experience weather disasters such as tornadoes more often.",
+        "(3) A weather disaster such as a tornado will probably hit the Earth soon.",
+        "(4) As a result of great tornadoes, weather catastrophes are frequently going to happen on the Earth."
+    ],
+    
+    "11":[
+        "Traveling by car is convenient as long as you can find a place to park.",
+        "(1) Provided that a parking space is available, taking a car is an easy choice.",
+        "(2) Parking is becoming a bigger problem, so traveling by car is getting more difficult.",
+        "(3) It may take a long time to locate a parking place, but going by car is still the best way.",
+        "(4) Long journeys are more comfortable by car, but sometimes parking is a problem on such trips."
+    ],
+    
+    "12":[
+        "You have plenty of time to finish the exam since it will go on until 10 o’clock.",
+        "(1) Because the exam ends at 10, you have little time to complete it.",
+        "(2) You have lots of time to finish the exam, which will be ending after 10.",
+        "(3) There is not much time for you to take the exam because it will already have finished by 10.",
+        "(4) You don’t have to complete your exam before 10, so you have more than enough time to do that."
+    ],
+    
+    "9-12":[4,2,1,4]
+}

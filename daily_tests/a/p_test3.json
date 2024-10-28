@@ -1,0 +1,33 @@
+{
+    
+    "9":["Much to our surprise, we were made to evacuate our houses due to an approaching hurricane, which turned out to be pointless because it didn’t hit our neighbourhood.",
+    "(1) It was a surprise for us that a hurricane was coming, but they forced us to leave our houses, although it didn’t hit our neighbourhood but turned to somewhere else.",
+    "(2) We were very surprised to find out that a hurricane was approaching, so we evacuated our houses, which made no point since it didn’t hit our neighbourhood.",
+    "(3) We weren’t expecting to be forced to leave our houses because of the news of a nearing hurricane, and actually we were surprised when it changed its direction and didn’t hit our neighbourhood.",
+    "(4) They needn’t have made us leave our houses on the grounds that a hurricane was coming closer, which we didn’t expect them to, since the result was that our neighbourhood was safe from it."],
+
+
+"10":[
+            "Almost ninety per cent of all American high school students claim that they know how to read, yet this figure is probably somewhat lower.",
+            "(1) Although nearly all of the American high school students claim that they can read, it is likely that the percentage is lower.",
+            "(2) Studies have shown that ninety percent of all American high school students don't know how to read.",
+            "(3) As in most American high schools, the percentage of the students who claim to know how to read is very low.",
+            "(4) In most American high schools, the number of students who can read is still below the average."
+        ],
+
+        "11":["The acronym for the North Atlantic Treaty Organization is NATO, which is how it is commonly known.",
+            "(1) NATO is the supporter of the North Atlantic Treaty Organization and this is widely known among people.",
+            "(2) NATO stands for the North Atlantic Treaty Organization and most people know it by this name.",
+            "(3) The fact that NATO stands for the North Atlantic Treaty Organization is hardly known by common people.",
+            "(4) People commonly know it as the North Atlantic Treaty Organization, although NATO is the acronym for it."],
+        
+        "12":[
+            "There is only one major difference between your plan and mine.",
+            "(1) There is really only one way in which the two plans are different.",
+            "(2) Your scheme differs from mine in just one important respect.",
+            "(3) Actually, both of our plans are very similar except for one or two details.",
+            "(4) Your scheme hardly differs at all from mine."
+        ],
+ 
+    "9-12":[4,1,2,2]
+}

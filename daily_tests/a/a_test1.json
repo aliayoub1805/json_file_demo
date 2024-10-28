@@ -1,0 +1,45 @@
+{
+    "section4_content":{
+        "1":[
+            "Until recently people felt that Nigerian ministers were being too optimistic, but there is now no question that the country’s financial position is growing steadily stronger.",
+            "(1) It is now clear that Nigeria’s economy is in a strong upward cycle but previously people doubted the hopeful attitude of Nigerian ministers.",
+            "(2) Nigerian ministers today have no apprehensions about their country’s financial status, as it is plain that it is constantly getting better.",
+            "(3) Though Nigerian ministers were previously skeptical of positive ideas about their country’s financial status, it has become obvious that its economy is advancing day by day.",
+            "(4) Today we see that Nigeria is progressing economically, but in the recent past, this was not the case and economists were wary of the optimistic views of its leaders."
+        ],
+        "2":["You don’t have to attend the next meeting which concerns the details of implementation, but naturally we’ll be delighted if you do.",
+            "(1) We were unable to discuss the details of implementation so that has been left for the next meeting which we sincerely hope you will be able to attend.",
+            "(2) The meeting to discuss the details of implementation doesn’t concern you, but nevertheless we shall be pleased if you decide to attend.",
+            "(3) The details of implementation will have to be discussed at the next meeting which you will presumably agree to attend.",
+            "(4) You aren’t obligated to be present when we meet to discuss the details of implementation, but it goes without saying that we’ll be very pleased if you do join us then."],
+
+        "3":["Nadia Comaneci is a Romanian gymnast, winner of five Olympic gold medals, and the first to be awarded a perfect score of 10 in an Olympic gymnastics event.",
+            "(1) The Romanian gymnast Nadia Comaneci is not only the winner of five Olympic gold medals but also the first woman to receive a perfect score of ten in an Olympic competition.",
+            "(2) Nadia Comaneci was the first Romanian gymnast who received five gold medals in the Olympic Games.",
+            "(3) Nadia Comaneci is a Romanian gymnast who won five gold medals during a single Olympic year.",
+            "(4) Since Nadia Comaneci was the first woman who was awarded a perfect score of ten in the Olympic Games, she is still well known by many people."],
+        "answers":[1,2,1]
+    },
+
+    "section5_content":{
+        "1":[
+            "Since poorer countries did not cause much pollution, they should not have to bear so much of the burden in dealing with global warming.",
+            "(1) No matter how little responsibility some poor countries have for pollution, they should bear as much of the burden of global warming as others.",
+            "(2) Due to the fact that poor countries have little responsibility for pollution, they should bear less of the burden of global warming.",
+            "(3) That some poor countries don't cause much pollution doesn't mean they don't have to bear the burden in dealing with global warming.",
+            "(4) Global warming will mainly harm developing countries, because they are poorer and therefore more vulnerable to the effects of pollution."],
+        
+        "2":["Modern advances in information technology have paved the way for people to send and also receive faxes through the Internet.",
+            "(1) People have been sending and receiving faxes online more easily since the introduction of modern advances in information technology.",
+            "(2) Information technology has made using the Internet more effectively with recent developments.",
+            "(3) Information technology has enabled people to send and receive faxes through the Internet due to new technological advancement.",
+            "(4) Modern advances in information technology have made life easier in terms of communication through the Internet."],
+
+        "3":["Getting a law passed is one thing, but getting it enforced is quite another thing.",
+            "(1) The law has already been passed, but I suspect it won’t be easy to implement it.",
+            "(2) Once the law has been passed, it will be easy enough to put it into effect.",
+            "(3) The law has been passed and will soon be enforced.",
+            "(4) The passing of a law and the implementing of it are two very different things."],
+        "answers":[2,3,4]
+    }
+}

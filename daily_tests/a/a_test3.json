@@ -1,0 +1,51 @@
+{
+    "section4_content":{
+        "1":[
+            "When parents teach their children successful problem-solving skills, they provide tools that will help their children develop successful careers and personal relationships.",
+            "(1) The parents who aim at having their children acquire problem-solving skills are aware of the fact that these abilities contribute much to their careers in the future.",
+            "(2) Provided that the children are given the skills of solving problems by their parents, they will see the benefit of this in their career and personal relationship in the future.",
+            "(3) With the help of problem-solving skills will the children only be successful in their personal relationships and careers.",
+            "(4) When parents have their children acquire the problem-solving skills, these children will certainly be successful in their careers and personal relationships."
+        ],"2":[
+            "Thanks to the flourishing economy, the country was able to invest in education and culture.",
+            "(1) If the economy weren’t getting better, the country would lack any improvement in education and culture.",
+            "(2) The countries can only invest in education and culture if their economy is flourishing.",
+            "(3) If only the economy was flourishing could the country have invested in education and culture.",
+            "(4) The fact that the country could invest in education and culture was the result of the economy getting better."
+        ],"3":[
+            "The tourism sector owes its success to the developments in transportation as well as globalization.",
+            "(1) The success of the tourism sector depends on the developments in transportation and globalization.",
+            "(2) If we hadn’t had the developments in both transportation and globalization we have today, tourism wouldn’t have owned a great amount of money to the successful sectors.",
+            "(3) The tourism sector is successful due to not only the improvements in transportation but also globalization.",
+            "(4) Successful developments in transportation as well as globalization made the tourism sector better."
+        ],
+        "asnwers":[2,4,3]
+    },
+
+    "section5_content":{
+            "1":[
+                "The probability of your being killed of injured at work determines how much life insurance you have to pay.",
+                "(1) Since your job involves a high risk of being killed or injured, you are expected to pay a bigger amount of money for your life insurance.",
+                "(2) What determines the amount of money you are supposed to pay for you life insurance is how much risk your job carries.",
+                "(3) Whether your job involves the risk of being killed or injured at work depends on how much you have to pay for your life insurance.",
+                "(4) The reason why you have been asked to pay so much for your life insurance is that your job involves a high risk of being killed or injured."
+            ],
+            
+            "2":["Although the university is announcing new scholarships, it appears unlikely to attract more students especially after the last scandal.",
+                "(1) Because of the latest scandal, the students are hesitant about applying to the university even though it is offering more scholarships now.",
+                "(2) Particularly after the most recent scandal, it doesn’t seem possible for the university to draw the interest of more students despite its announcements of new scholarships.",
+                "(3) Especially because of the latest scandal, the university seems likely to offer more scholarships to attract more students.",
+                "(4) It is the new scholarships the university announces after the last scandal that will attract more students even though they don`t like it apparently."],
+            
+            "3":[
+                "Having experimented on the wireless transmission of electricity, Nikola Tesla, who was originally Serbian, was the father of many inventions we use today.",
+                "(1) Thanks to the experiments Nikola Tesla, who was originally from Serbia, today we have wireless electricity transmission which was the prototype of many contemporary inventions.",
+                "(2) If it wasn’t for Nikola Tesla, who was originally from Serbia, we wouldn’t be using the wireless electricity transmission today, let alone most of the modern inventions.",
+                "(3) Originally from Serbia, Nikola Tesla, who experimented on electricity transmission without the need for wires, is the person who came up with the first ideas from which most inventions we use today originated from.",
+                "(4) Had Nikola Tesla, whose father was originally Serbian, experimented on wireless electricity transmission, we could have used many inventions we use today much earlier."
+            ],
+
+            "answers":[2,2,3]
+    }
+        
+}

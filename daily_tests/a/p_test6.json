@@ -1,0 +1,35 @@
+{
+    "9":[
+        "Even though there is strong proof that UFOs exist, most people refuse to believe in them.",
+        "(1) The number of people who believe in UFOs is not very big although there is strong evidence for them.",
+        "(2) Although lots of people believe that UFOs exist, there is little evidence.",
+        "(3) People believe the stories about UFOs are all lies as there is no concrete evidence.",
+        "(4) There is a lot of evidence about UFOs; nevertheless, officials refuse to reveal them to the public."
+    ],
+    
+    "10":[
+        "It's more than a couple of years since I last went there.",
+        "(1) I have never stayed there for longer than two years.",
+        "(2) It was only after two years that I went there again.",
+        "(3) I had never been there until the year before last.",
+        "(4) I haven't been there since my visit over two years ago."
+    ],
+    
+    "11":[
+        "So far during their stay at this hotel, that couple have done nothing but complain.",
+        "(1) Throughout their time at this hotel, that couple have had no complaints.",
+        "(2) Up until now, that couple haven't had anything to complain about at this hotel.",
+        "(3) All that couple have done since they arrived at this hotel is to complain.",
+        "(4) Since they got to this hotel, nothing has caused that couple to complain."
+    ],
+    
+    "12":[
+        "He never sings except when he's taking a shower in the morning.",
+        "(1) It is very rare to hear him singing out of the shower in the morning.",
+        "(2) He thinks that singing when you take a shower is a very common occurrence.",
+        "(3) Whenever he goes into the bathroom for a shower, he starts to sing.",
+        "(4) Unless he is taking a shower in the morning, it is impossible to hear him singing."
+    ],
+    
+    "9-12":[1,4,3,4]
+}

@@ -1,0 +1,28 @@
+{
+    "9":[
+        "It wasn't until the Industrial Revolution took place that the United States managed to increase the productivity through mechanization.",
+        "(1) Thanks to mechanization, the United States was able to raise the productivity after the Industrial Revolution.",
+        "(2) The United States had already succeeded in increasing the productivity through mechanization long before the Industrial Revolution.",
+        "(3) Once the Industrial Revolution took place, the United States started to deal with increasing the productivity via mechanization.",
+        "(4) When the Industrial Revolution took place, the United States was trying to develop ways of improving the productivity through mechanization."],
+    
+    "10":["I'd suggest that we avoid telling any scary stories with Janet around, since she's a bit unstable and could get hysterical.",
+        "(1) Janet is somewhat mentally unbalanced and might easily become uncontrollably emotional so let's not tell frightening stories in her presence.",
+        "(2) Janet has trouble keeping her emotions under control, especially when she is told frightening stories.",
+        "(3) Since Janet is somewhat unbalanced, the only way to make her laugh is by telling stories but we should avoid scary ones as they might cause her to panic",
+        "(4) Janet’s story is so frightening that I don't think we should get hysterical."],
+
+    "11":["There were no poor performances; but the Russian dancers were certainly the best.",
+        "(1) The standard of dancing was high particularly among the Russians.",
+        "(2) The Russian dancers were well worth watching but the others weren’t.",
+        "(3) They all danced well, but the Russian dancers were far better than the others.",
+        "(4) The Russians danced well, but some of the others were even better."],
+
+    "12":["I believe that there is never any excuse for telling a lie.",
+        "(1) I don't believe any of your excuses because they're lies.",
+        "(2) If you lie to me, I'll never believe any of your excuses.",
+        "(3) Because he's already lied to me, I won't accept any of his excuses.",
+        "(4) I don't think that you can ever excuse lying."],
+    
+    "9-12":[1,1,3,4]
+}

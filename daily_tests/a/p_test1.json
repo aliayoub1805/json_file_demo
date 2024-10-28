@@ -1,0 +1,34 @@
+{
+"9":[
+            "If more young people had voted, Mr. Koch would have won the election.",
+            "(1) Mr. Koch won the election without the help of the young voters.",
+            "(2) Mr. Koch did not win because there were not many young people who voted.",
+            "(3) Since the young people voted in the election, Mr. Koch did not win.",
+            "(4) Most young people would have liked to vote so that Mr. Koch wouldn't win the election."
+        ],
+
+        "10":["The manager have not approved the documents to be delivered to the commission yet.",
+            "(1) If the manager does not check the documents soon, we will have to send them without his approval.",
+            "(2) We are too late to send the documents as the manager still hasn't signed them.",
+            "(3) The documents sent to the commission were not signed by the manager properly.",
+            "(4) The documents we have to send to the commission still lack the manager's approval."],
+        
+        "11":[
+            "The theory of natural selection made the idea of organic evolution acceptable to scientists.",
+            "(1) It was only after the introduction of the theory of natural selection that scientists paid attention to the idea of organic evolution.",
+            "(2) Many scientists accepted the theory of natural selection when the idea of organic evolution was proposed.",
+            "(3) Without the theory of natural selection to support it, the idea of organic evolution wouldn't have gained support among scientists.",
+            "(4) The theory of natural selection and the idea of organic evolution are inseparable concepts for scientists."
+        ],
+    
+     
+        "12":[
+            "Every decade, the average height of people in Africa grows another centimeter.",
+            "(1) People will be one centimeter taller in the next ten years.",
+            "(2) People in Africa grow one centimeter every ten years.",
+            "(3) African people's average height increases one centimeter every ten years.",
+            "(4) A decade is needed for an African to grow one centimeter taller."
+        ],
+    
+    "9-12":[2,4,3,3]
+}
