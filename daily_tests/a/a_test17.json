@@ -1,0 +1,54 @@
+{
+    "section4_content":{
+        "1":[
+            "While advancements in artificial intelligence promise to enhance productivity across various sectors, they also raise significant ethical concerns regarding employment displacement and decision-making transparency.",
+            "(1) The potential for artificial intelligence to improve productivity is significant, but it also brings ethical issues related to job loss and transparency in decision-making.",
+            "(2) Although AI advancements can increase productivity in different industries, they also present serious ethical dilemmas about job displacement and the clarity of decision-making processes.",
+            "(3) While the benefits of artificial intelligence in boosting productivity are evident, they are accompanied by ethical concerns over job loss and transparency in how decisions are made.",
+            "(4) Advancements in AI enhance productivity, yet they introduce ethical challenges regarding employment and the transparency of automated decision-making."
+        ],
+
+        "2":[
+            "Although the proliferation of fast food has made dining convenient and affordable, it has also contributed to rising health issues and a decline in culinary diversity.",
+            "(1) Fast food’s convenience and affordability are clear, but its impact on public health and culinary diversity is a growing concern.",
+            "(2) The accessibility and low cost of fast food have transformed dining habits, yet they are linked to increasing health problems and reduced culinary variety.",
+            "(3) While fast food offers convenience and affordability, it also leads to significant health issues and a diminishing diversity in cuisine.",
+            "(4) Although the fast food industry thrives on convenience and affordability, its effects on health and culinary diversity raise critical concerns."],
+        
+        "3":[
+            "While social enterprises aim to address societal issues through business models, they often struggle with balancing profitability and their social mission.",
+            "(1) Social enterprises seek to tackle social challenges through business strategies, but they frequently find it difficult to maintain a balance between making money and fulfilling their mission.",
+            "(2) Although social enterprises are designed to solve social problems using business approaches, they often face challenges in aligning profitability with their social goals.",
+            "(3) While the primary goal of social enterprises is to address societal issues through commerce, they often encounter difficulties in balancing financial success with their social objectives.",
+            "(4) Although social enterprises focus on solving societal problems through business, they frequently struggle to reconcile their need for profit with their commitment to social causes."
+        ],
+        
+        "answers":[2,3,2],
+        "time":6
+    },"section5_content":{
+        "1":[
+            "Although remote learning offers unprecedented flexibility for students, it can also lead to feelings of isolation and decreased engagement in the educational process.",
+            "(1) Remote learning is valued for its flexibility, but it often results in student isolation and reduced participation in education.",
+            "(2) While remote education provides students with flexibility, it may simultaneously cause feelings of isolation and hinder their engagement.",
+            "(3) The flexibility of remote learning is beneficial, yet it can contribute to students feeling isolated and less engaged in their studies.",
+            "(4) Although students benefit from the flexibility of remote learning, it can also lead to isolation and lower levels of engagement in their education."
+        ],
+
+        "2":[
+            "While renewable energy sources are critical for sustainable development, their deployment often encounters challenges such as resource availability and technological limitations.",
+            "(1) Renewable energy is essential for sustainability, yet its implementation is frequently hindered by issues related to resource access and technology.",
+            "(2) Although renewable energy is vital for sustainable development, challenges like resource scarcity and technological constraints often impede its use.",
+            "(3) The significance of renewable energy for sustainable development is undeniable, but its deployment often faces obstacles including resource limitations and technology issues.",
+            "(4) While the necessity of renewable energy for sustainability is clear, its implementation can be complicated by factors such as resource availability and technology."],
+        
+        "3":[
+            "Although genetic engineering holds the promise of eradicating certain diseases, it also raises profound ethical questions about the implications of altering life at a fundamental level.",
+            "(1) Genetic engineering has the potential to eliminate specific diseases, but it also brings to the forefront important ethical dilemmas regarding life alteration.",
+            "(2) While genetic engineering may lead to the eradication of some diseases, it raises significant ethical concerns about the consequences of modifying life forms.",
+            "(3) Although the promise of genetic engineering in disease eradication is great, it also generates deep ethical questions about the implications of such alterations.",
+            "(4) The potential of genetic engineering to remove certain diseases is promising, yet it poses serious ethical challenges regarding the fundamental alteration of life."
+        ],"answers":[2,3,3],
+        
+        "time":6
+    }
+}
