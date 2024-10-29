@@ -1,0 +1,52 @@
+{
+    "section4_content":{
+        "1":[
+            "While many celebrate technological advancements for improving communication and access to information, others express concerns about privacy and the digital divide.",
+            "(1) Technological advancements improve communication and access to information, but they also raise concerns about privacy and the digital divide.",
+            "(2) The positive effects of technological advancements, like improved communication, are often overshadowed by issues such as privacy violations.",
+            "(3) Technological advancements have led to better communication and access to information, but they pose challenges related to privacy and inequality.",
+            "(4) The impact of technological advancements is multifaceted, offering benefits in communication and information access while also raising issues of privacy and the digital divide."
+        ],
+
+        "2":["While renewable energy sources are praised for reducing carbon emissions, some critics argue that they can be expensive and require significant upfront investment.",
+            "(1) Renewable energy sources help reduce carbon emissions, but they can also be costly and require significant initial investments.",
+            "(2) The advantages of renewable energy, including lower carbon emissions, are often negated by the high costs involved.",
+            "(3) The use of renewable energy is beneficial in reducing emissions, although it can involve high costs and substantial initial investment.",
+            "(4) Renewable energy is beneficial for the environment, yet the financial burden of implementation can be a drawback."],
+        
+        "3":[
+            "While urbanization has led to economic development and better job opportunities, it has also resulted in overcrowding and environmental degradation.",
+            "(1) The effects of urbanization are mixed, yielding economic benefits while also contributing to overcrowding and environmental degradation.",
+            "(2) The positive outcomes of urbanization, like economic development, often come at the cost of overcrowding and environmental harm.",
+            "(3) Urbanization has contributed to economic development and job creation, but it has also caused overcrowding and environmental problems.",
+            "(4) Urbanization brings economic growth and job opportunities, but it can lead to overcrowding and environmental issues."
+        ],
+        
+        "answers":[4,3,1],
+        "time":6
+    },"section5_content":{
+        "1":[
+            "While social media platforms facilitate connections and networking, they can also contribute to misinformation and mental health issues.",
+            "(1) Social media enhances connections and networking, but it also poses risks such as misinformation and mental health challenges.",
+            "(2) The benefits of social media, such as networking, often come with significant drawbacks, including misinformation.",
+            "(3) The influence of social media is dual-edged, promoting connections while also leading to misinformation and mental health concerns.",
+            "(4) Social media can connect people effectively, yet it has been linked to issues like misinformation and mental health problems."
+        ],
+
+        "2":["Although the benefits of multiculturalism include diverse perspectives and innovation, critics argue it can lead to social fragmentation and cultural conflict.",
+            "(1) Multiculturalism offers diverse viewpoints and innovation, but it may also result in social fragmentation and cultural clashes.",
+            "(2) The advantages of multiculturalism are often diminished by the risks of social fragmentation and cultural conflict.",
+            "(3) Multiculturalism enhances society with diverse perspectives but can also create challenges like fragmentation and conflict.",
+            "(4) The impact of multiculturalism is complex, bringing benefits such as diversity and innovation alongside issues like social fragmentation and conflict."],
+        
+        "3":[
+            "While the internet has transformed how we access information and communicate, it has also raised concerns about security and data privacy.",
+            "(1) The internet revolutionizes access to information and communication, yet it also introduces security and privacy concerns.",
+            "(2) The positive aspects of the internet, including enhanced communication, often overshadow the significant issues of security and privacy.",
+            "(3) The effects of the internet are complex, providing easier access to information and communication while raising concerns about security and privacy.",
+            "(4) The internet facilitates information access and communication, but it poses challenges related to security and data privacy."
+        ],"answers":[3,4,3],
+        
+        "time":6
+    }
+}

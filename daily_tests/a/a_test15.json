@@ -1,0 +1,54 @@
+{
+    "section4_content":{
+        "1":[
+            "While digital currencies promise enhanced transaction efficiency and financial inclusion, they also raise concerns about regulatory challenges and the potential for misuse in illegal activities.",
+            "(1) Digital currencies offer improved efficiency and inclusivity in transactions, but they come with regulatory issues and risks of misuse.",
+            "(2) Although digital currencies enhance transaction speed and financial access, they also present significant regulatory challenges and opportunities for illegal activities.",
+            "(3) While the benefits of digital currencies include faster transactions and increased financial access, they also pose challenges related to regulation and misuse.",
+            "(4) The advantages of digital currencies, such as efficiency and inclusivity, are often countered by concerns over regulation and potential misuse for illicit purposes."
+        ],
+
+        "2":[
+            "Although social media has transformed communication and information dissemination, it has also been implicated in the spread of misinformation and the erosion of privacy.",
+            "(1) The impact of social media on communication and information sharing is profound, yet it has also led to concerns about misinformation and privacy erosion.",
+            "(2) Social media greatly changes how we communicate and share information, but it also raises issues regarding misinformation and privacy loss.",
+            "(3) While social media has revolutionized communication, it has simultaneously contributed to misinformation and diminished privacy.",
+            "(4) Although the transformative effects of social media on communication are significant, they are accompanied by issues of misinformation and privacy concerns."],
+        
+        "3":[
+            "While the benefits of urban green initiatives include improved air quality and enhanced community well-being, they can also lead to increased property values that displace lower-income residents.",
+            "(1) Urban green initiatives are beneficial for air quality and community health, yet they may drive up property prices, leading to the displacement of lower-income residents.",
+            "(2) Although urban green projects improve air quality and community well-being, they can inadvertently result in higher property values and displacement of low-income families.",
+            "(3) The positive outcomes of urban green initiatives, such as better air quality, are often overshadowed by their potential to increase property values and displace lower-income residents.",
+            "(4) While urban green initiatives enhance air quality and community health, they also pose risks of displacing lower-income residents through rising property values."
+        ],
+        
+        "answers":[3,1,4],
+        "time":6
+    },"section5_content":{
+        "1":[
+            "Although online education offers flexibility and accessibility for learners, it can also lead to a lack of personal interaction and challenges in maintaining motivation.",
+            "(1) Online education is valued for its flexibility and accessibility, but it often results in reduced personal interaction and motivational challenges.",
+            "(2) The advantages of online education, including greater flexibility, are frequently tempered by the drawbacks of limited personal interaction and motivation.",
+            "(3) While online education provides learners with flexibility and access, it also risks diminishing personal connections and poses motivational challenges.",
+            "(4) Although online learning offers significant flexibility, it may contribute to decreased personal interaction and issues with student motivation."
+        ],
+
+        "2":[
+            "While advances in artificial intelligence have the potential to improve healthcare outcomes, they also raise ethical dilemmas related to data privacy and algorithmic bias.",
+            "(1) The promise of artificial intelligence in healthcare is significant, yet it brings ethical concerns regarding data privacy and potential biases in algorithms.",
+            "(2) Although artificial intelligence can enhance healthcare delivery, it raises pressing ethical issues related to data privacy and algorithmic fairness.",
+            "(3) While AI advancements offer improved healthcare possibilities, they simultaneously introduce ethical challenges concerning privacy and bias in algorithms.",
+            "(4) The benefits of artificial intelligence in healthcare are clear, but they are accompanied by serious ethical dilemmas around data privacy and algorithmic bias."],
+        
+        "3":[
+            "Although the popularity of fast fashion provides consumers with affordable clothing options, it has been criticized for its negative impact on the environment and labor practices.",
+            "(1) Fast fashion is popular for offering inexpensive clothing, but it faces backlash due to its environmental impact and questionable labor practices.",
+            "(2) While fast fashion makes clothing accessible and affordable, it is often criticized for harming the environment and exploiting labor.",
+            "(3) The appeal of fast fashion lies in its affordability, yet it raises serious concerns regarding environmental sustainability and labor conditions.",
+            "(4) Although fast fashion offers consumers budget-friendly clothing, it has drawn criticism for its detrimental effects on the environment and labor ethics."
+        ],"answers":[3,2,3],
+        
+        "time":6
+    }
+}

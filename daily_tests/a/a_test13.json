@@ -1,0 +1,52 @@
+{
+    "section4_content":{
+        "1":[
+            "Although proponents of artificial intelligence argue that it enhances productivity and innovation, detractors caution that it may exacerbate unemployment and ethical dilemmas.",
+            "(1) Supporters of artificial intelligence claim it boosts productivity, while critics warn it could lead to job losses and ethical concerns.",
+            "(2) The positive aspects of artificial intelligence, such as increased productivity, are often overshadowed by the risks of unemployment and ethical issues.",
+            "(3) While artificial intelligence is seen as a driver of productivity and innovation, it raises significant concerns regarding unemployment and ethics.",
+            "(4) Advocates for artificial intelligence highlight its benefits in productivity, although opponents stress the potential for unemployment and ethical challenges."
+        ],
+
+        "2":["While the rise of e-commerce has provided consumers with unprecedented convenience and variety, it has also triggered significant disruptions in traditional retail and local economies.",
+            "(1) E-commerce has transformed consumer experiences with convenience and choice, yet it poses challenges to traditional retail and local economies.",
+            "(2) E-commerce offers consumers greater convenience and options, but it disrupts traditional retail and local economies.",
+            "(3) The benefits of e-commerce, including convenience and variety, are often counterbalanced by its negative impacts on traditional retail.",
+            "(4) The emergence of e-commerce is beneficial for consumers, but it creates substantial challenges for local economies and traditional retail."],
+        
+        "3":[
+            "While climate change advocates emphasize the urgency of immediate action to mitigate its effects, skeptics often argue that the proposed solutions may harm economic growth and individual liberties.",
+            "(1) Climate change proponents stress the need for swift action, yet skeptics warn that such measures might jeopardize economic growth and freedoms.",
+            "(2) The calls for immediate action on climate change are often countered by concerns that proposed solutions could undermine economic development and personal liberties.",
+            "(3) Advocates for addressing climate change highlight its urgency, while detractors question whether proposed actions might infringe on economic growth and individual rights.",
+            "(4) While the urgency of climate change is acknowledged by many, critics argue that the solutions could adversely affect economic and personal freedoms."
+        ],
+        
+        "answers":[3,1,2],
+        "time":6
+    },"section5_content":{
+        "1":[
+            "Although globalization fosters international cooperation and economic integration, it may also lead to a dilution of local cultures and increased vulnerability to global economic fluctuations.",
+            "(1) Globalization promotes international collaboration and economic ties, but it risks eroding local cultures and increasing exposure to global market volatility.",
+            "(2) The advantages of globalization, such as cooperation and economic integration, are frequently tempered by the threats it poses to local cultures and economic stability.",
+            "(3) While globalization facilitates economic integration and cooperation, it can also compromise local cultures and heighten sensitivity to global economic changes.",
+            "(4) The impact of globalization is dual-faceted, providing benefits of cooperation while simultaneously threatening local cultures and economic security."
+        ],
+
+        "2":["While the expansion of urban green spaces is lauded for improving public health and enhancing biodiversity, it also raises concerns about gentrification and unequal access to resources.",
+            "(1) Urban green space development is praised for health and biodiversity benefits, but it may contribute to gentrification and resource inequality.",
+            "(2) Although urban green spaces promote better health and biodiversity, they also generate concerns regarding gentrification and access disparities.",
+            "(3) The benefits of expanding urban green spaces, such as health and biodiversity improvements, are frequently overshadowed by issues of gentrification and resource inequality.",
+            "(4) The increase in urban green areas is often seen as beneficial for public health and biodiversity, though it can lead to gentrification and unequal resource distribution."],
+        
+        "3":[
+            "While the advent of telecommuting offers employees flexibility and work-life balance, it has also led to blurred boundaries between professional and personal life, raising concerns about burnout.",
+            "(1) Telecommuting provides flexibility and a better work-life balance, but it can complicate the separation between work and personal life, potentially leading to burnout.",
+            "(2) The rise of remote work is often viewed positively for enhancing employee flexibility, yet it creates challenges in maintaining boundaries between work and personal time.",
+            "(3) Although telecommuting is celebrated for improving work-life balance, it also poses risks by blurring the lines between professional and personal responsibilities.",
+            "(4) While telecommuting offers valuable flexibility, it has the unintended consequence of eroding boundaries between work and personal life, increasing the risk of burnout."
+        ],"answers":[3,2,4],
+        
+        "time":6
+    }
+}

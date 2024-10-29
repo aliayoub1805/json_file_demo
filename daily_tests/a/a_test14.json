@@ -1,0 +1,52 @@
+{
+    "section4_content":{
+        "1":[
+            "Although advancements in biotechnology promise revolutionary medical treatments, they also raise ethical questions regarding genetic manipulation and access to technology.",
+            "(1) The potential for innovative medical treatments from biotechnology is significant, yet it brings ethical concerns about genetic manipulation and technology accessibility.",
+            "(2) While biotechnology advancements can lead to groundbreaking medical solutions, they often raise ethical dilemmas concerning genetic modification and equitable access.",
+            "(3) Biotechnology holds the potential for revolutionary medical treatments, but it simultaneously prompts ethical questions about genetic interventions and access disparities.",
+            "(4) The benefits of biotechnology in medicine are clear, but they are accompanied by serious ethical issues related to genetic manipulation and access to resources."
+        ],
+
+        "2":["While the exploration of space has yielded substantial scientific knowledge and technological advancements, it has also drawn criticism for diverting funds from pressing social issues on Earth.",
+            "(1) Space exploration enhances scientific understanding and technology, but it faces criticism for taking resources away from urgent social challenges on Earth.",
+            "(2) The scientific and technological benefits of space exploration are undeniable, yet many argue it distracts from addressing significant social problems.",
+            "(3) Although space exploration contributes greatly to science and technology, it has been criticized for redirecting financial resources from critical Earthly social issues.",
+            "(4) The exploration of space is both beneficial for scientific progress and technology, while also raising concerns about its impact on funding for social issues on Earth."],
+        
+        "3":[
+            "While renewable energy sources are vital for combating climate change, their development and implementation can be hindered by political resistance and economic constraints.",
+            "(1) Renewable energy is essential for addressing climate change, but political opposition and economic challenges can impede its progress.",
+            "(2) Although renewable energy sources play a crucial role in fighting climate change, their advancement is frequently stifled by political and economic factors.",
+            "(3) The role of renewable energy in mitigating climate change is critical, but it faces significant obstacles due to political resistance and economic limitations.",
+            "(4) The necessity of renewable energy for climate action is evident, yet its growth is often blocked by political and financial barriers."
+        ],
+        
+        "answers":[3,3,2],
+        "time":6
+    },"section5_content":{
+        "1":[
+            "While the rise of automation is praised for increasing efficiency and reducing costs, it has also sparked concerns about job displacement and the future of work.",
+            "(1) Automation enhances efficiency and lowers costs, but it raises alarms about potential job losses and the evolving nature of employment.",
+            "(2) The benefits of automation, such as improved efficiency, are often countered by fears of job displacement and uncertainties regarding the future workforce.",
+            "(3) The increased efficiency and cost savings from automation are notable, yet they also generate concerns about the impact on jobs and the future work landscape.",
+            "(4) Although automation significantly boosts efficiency and cuts costs, it simultaneously raises worries about job displacement and changes in the labor market."
+        ],
+
+        "2":["While urban development can lead to improved infrastructure and economic growth, it often results in the displacement of long-term residents and a loss of community identity.",
+            "(1) Urban development contributes to better infrastructure and economic opportunities, but it can also displace established residents and erode community identity.",
+            "(2) The advantages of urban development, such as enhanced infrastructure, are frequently overshadowed by the displacement of long-term residents and diminished community identity.",
+            "(3) The effects of urban development are mixed, bringing benefits like improved infrastructure while causing challenges related to resident displacement and community identity loss.",
+            "(4) Although urban development facilitates economic growth and infrastructure improvements, it often leads to the loss of community identity and the displacement of existing residents."],
+        
+        "3":[
+            "While many believe that free trade fosters economic growth and international cooperation, opponents contend that it can lead to exploitation of workers and environmental degradation.",
+            "(1) Although free trade is believed to promote economic growth and international relations, it also raises valid concerns regarding the exploitation of labor and environmental issues.",
+            "(2) Free trade is viewed as a catalyst for economic growth and cooperation, yet critics argue it often results in worker exploitation and harm to the environment.",
+            "(3) The benefits of free trade, including economic expansion, are frequently challenged by concerns about worker exploitation and environmental impact.",
+            "(4) Supporters of free trade highlight its role in fostering growth and cooperation, but opponents emphasize the risks of worker exploitation and environmental damage."
+        ],"answers":[4,4,1],
+        
+        "time":6
+    }
+}

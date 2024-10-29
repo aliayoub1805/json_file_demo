@@ -1,0 +1,52 @@
+{
+    "section4_content":{
+        "1":[
+            "The concept of 'intergenerational equity' which emphasizes the importance of considering the needs and rights of future generations in current decision-making, has gained increasing prominence in discussions about climate change, resource management, and sustainable development.",
+            "(1) The concept of 'intergenerational equity' which emphasizes the importance of considering the needs and rights of future generations in current decision-making, has gained increasing prominence in discussions about climate change, resource management, and sustainable development.",
+            "(2) The concept of 'intergenerational equity' which emphasizes the importance of considering the needs and rights of future generations in current decision-making, has gained increasing prominence in discussions about climate change, resource management, and sustainable development.",
+            "(3)  The concept of 'intergenerational equity' which emphasizes the importance of considering the needs and rights of future generations in current decision-making, has gained increasing prominence in discussions about climate change, resource management, and sustainable development.",
+            "(4) The concept of 'intergenerational equity' which emphasizes the importance of considering the needs and rights of future generations in current decision-making, has gained increasing prominence in discussions about climate change, resource management, and sustainable development."
+        ],
+
+        "2":["The 'sharing economy' characterized by the exchange of goods and services between individuals through online platforms, has disrupted traditional business models and raised questions about labor rights, regulation, and the potential for social inequality.",
+            "(1) The 'sharing economy' characterized by the exchange of goods and services between individuals through online platforms, has disrupted traditional business models and raised questions about labor rights, regulation, and the potential for social inequality.",
+            "(2) The 'sharing economy' which involves the exchange of goods and services between individuals through online platforms, has disrupted traditional business models and raised questions about labor rights, regulation, and the potential for social inequality.",
+            "(3) The 'sharing economy' characterized by the exchange of goods and services between individuals through online platforms, has disrupted traditional business models and raised questions about labor rights, regulation, and the potential for social inequality.",
+            "(4) The 'sharing economy' which involves the exchange of goods and services between individuals through online platforms, has disrupted traditional business models and raised questions about labor rights, regulation, and the potential for social inequality."],
+        
+        "3":[
+            "The development of 'precision medicine' which involves tailoring treatments to the specific genetic and molecular characteristics of individual patients, has the potential to revolutionize healthcare by improving treatment outcomes and reducing side effects.",
+            "(1) 'Precision medicine' which involves tailoring treatments to the specific genetic and molecular characteristics of individual patients, has the potential to revolutionize healthcare by improving treatment outcomes and reducing side effects.",
+            "(2) The development of 'precision medicine' which involves tailoring treatments to the specific genetic and molecular characteristics of individual patients, has the potential to revolutionize healthcare by improving treatment outcomes and reducing side effects.",
+            "(3) The development of 'precision medicine' which involves tailoring treatments to the specific genetic and molecular characteristics of individual patients, has the potential to revolutionize healthcare by improving treatment outcomes and reducing side effects.",
+            "(4) 'Precision medicine' which involves tailoring treatments to the specific genetic and molecular characteristics of individual patients, has the potential to revolutionize healthcare by improving treatment outcomes and reducing side effects."
+        ],
+        
+        "answers":[1,1,1],
+        "time":6
+    },"section5_content":{
+        "1":[
+            "The concept of 'cognitive bias' which refers to systematic errors in thinking that can influence our judgments and decisions, plays a significant role in shaping our perceptions of the world and impacting our behavior.",
+            "(1) 'Cognitive bias' which refers to systematic errors in thinking that can influence our judgments and decisions, plays a significant role in shaping our perceptions of the world and impacting our behavior.",
+            "(2) 'Cognitive bias' which refers to systematic errors in thinking that can influence our judgments and decisions, plays a significant role in shaping our perceptions of the world and impacting our behavior.",
+            "(3) 'Cognitive bias' which refers to systematic errors in thinking that can influence our judgments and decisions, plays a significant role in shaping our perceptions of the world and impacting our behavior.",
+            "(4) 'Cognitive bias' which refers to systematic errors in thinking that can influence our judgments and decisions, plays a significant role in shaping our perceptions of the world and impacting our behavior."
+        ],
+
+        "2":["Imagine you're tasked with writing an essay about the role of social media in shaping public opinion. Which of the following would be the most effective thesis statement for your essay?",
+            "(1) Social media platforms are powerful tools that can be used to influence public opinion.",
+            "(2) Social media has become a ubiquitous force in shaping public opinion, impacting political discourse, social movements, and individual beliefs.",
+            "(3) Social media platforms often present biased or misleading information, which can have a negative impact on public opinion.",
+            "(4) Social media has both positive and negative effects on public opinion, depending on how it is used."],
+        
+        "3":[
+            "The field of 'epigenetics' has revolutionized our understanding of how genes are expressed and regulated, challenging the traditional view of genetic determinism. Which statement BEST captures the significance of epigenetics?",
+            "(1) Epigenetics has demonstrated that genes are not the sole determinant of our traits and that environmental factors can influence gene expression.",
+            "(2) Epigenetics has shown that genes can be modified by environmental factors, which can have long-lasting effects on health and disease.",
+            "(3) The field of epigenetics has challenged the traditional view of genetic determinism by demonstrating that environmental factors can influence gene expression.",
+            "(4) Epigenetics has revealed that genes are not static and can be influenced by environmental factors, leading to a more nuanced understanding of human health and disease."
+        ],"answers":[1,2,4],
+        
+        "time":6
+    }
+}

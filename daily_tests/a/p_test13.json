@@ -1,0 +1,34 @@
+{
+    "9":[
+        "Climate change poses a significant threat to the planet, requiring a global response to mitigate its effects and adapt to its consequences. What is the most compelling reason for prioritizing global action on climate change?",
+        "(1) Climate change is a serious threat to the planet and requires a global response to reduce its impact.",
+        "(2) Climate change is a global issue that requires a global response to mitigate its effects and adapt to its consequences.",
+        "(3) The consequences of climate change are far-reaching and impact every aspect of life on Earth, necessitating a global response to address this critical issue.",
+        "(4) The need for global action on climate change is urgent and requires immediate attention to mitigate its effects and adapt to its consequences."
+    ],
+    
+    "10":[
+        "While many believe that technology is a force for good, there are also concerns about its potential to exacerbate existing societal inequalities.",
+        "(1) Technology has the potential to improve society, but it also has the potential to worsen existing inequalities.",
+        "(2) The benefits of technology are often overshadowed by its negative consequences, such as increasing inequality.",
+        "(3) Technology is a powerful tool, but it is important to consider its potential negative impacts, such as widening the gap between the rich and the poor.",
+        "(4) The impact of technology on society is complex, with both positive and negative aspects, including the potential to exacerbate existing inequalities."
+    ],
+    
+    "11":[
+        "The rapid pace of technological advancement has led to a sense of uncertainty and anxiety about the future of work.",
+        "(1) The rapid pace of technological advancement has caused people to worry about the future of work.",
+        "(2) The future of work is uncertain because technology is changing so quickly.",
+        "(3) Technology is changing so quickly that people are unsure what the future of work will look like.",
+        "(4) Rapid technological advancements are creating anxiety about the future of work due to uncertainty about the jobs that will exist."
+    ],
+    
+    "12":[
+        "The widespread adoption of social media has fundamentally altered the way we communicate, consume information, and form social connections, leading to both transformative opportunities and significant challenges.",
+        "(1) Social media has changed how we communicate, get information, and connect with others, leading to both positive and negative consequences.",
+        "(2) The way we communicate, consume information, and build relationships has been fundamentally altered by the widespread use of social media.",
+        "(3) The adoption of social media has brought about significant changes in how we interact with each other and access information, presenting both opportunities and challenges.",
+        "(4)  Social media has transformed the way we communicate, consume information, and form social connections, leading to significant changes in our lives."],
+    
+    "9-12":[3,1,4,3]
+}

@@ -1,0 +1,52 @@
+{
+    "section4_content":{
+        "1":[
+            "Despite the growing awareness of the environmental impact of plastic waste, the global production and consumption of plastic continue to rise, posing a significant threat to ecosystems and human health.",
+            "(1) The world is producing and consuming more plastic despite growing awareness of its harmful environmental impact.",
+            "(2) The environmental impact of plastic waste is a serious problem, and we need to reduce our use of plastic.",
+            "(3) The growing awareness of the environmental impact of plastic waste is not enough to curb its production and consumption.",
+            "(4) The continued rise in plastic production and consumption poses a significant threat to ecosystems and human health, despite growing awareness of its impact."
+        ],
+
+        "2":["Despite the widespread adoption of renewable energy sources, the transition to a truly sustainable energy system faces significant challenges, including the need for large-scale infrastructure development, the intermittent nature of renewable energy, and the ongoing reliance on fossil fuels.",
+            "(1) The transition to a sustainable energy system faces significant challenges, including the need for large-scale infrastructure development, the intermittent nature of renewable energy, and the ongoing reliance on fossil fuels.",
+            "(2) The widespread adoption of renewable energy sources is a positive step toward a sustainable energy system, but significant challenges remain, such as the need for large-scale infrastructure development, the intermittent nature of renewable energy, and the ongoing reliance on fossil fuels.",
+            "(3) The challenges of transitioning to a truly sustainable energy system include the need for large-scale infrastructure development, the intermittent nature of renewable energy, and the ongoing reliance on fossil fuels.",
+            "(4) Despite the widespread adoption of renewable energy sources, the transition to a truly sustainable energy system remains a significant challenge, as the need for large-scale infrastructure development, the intermittent nature of renewable energy, and the ongoing reliance on fossil fuels persist."],
+        
+        "3":[
+            "The concept of 'cultural capital' referring to the non-economic assets that individuals possess, such as education, knowledge, and social connections, has been used to explain social inequalities and the persistence of privilege in modern societies.",
+            "(1) Cultural capital, referring to the non-economic assets that individuals possess, such as education, knowledge, and social connections, has been used to explain social inequalities and the persistence of privilege in modern societies.",
+            "(2) The concept of 'cultural capital' highlights the non-economic assets, such as education, knowledge, and social connections, that individuals possess, and how these contribute to social inequalities and the persistence of privilege.",
+            "(3) The concept of 'cultural capital' emphasizes the role of non-economic assets, such as education, knowledge, and social connections, in perpetuating social inequalities and privilege in modern societies.",
+            "(4) 'Cultural capital' referring to the non-economic assets that individuals possess, such as education, knowledge, and social connections, plays a significant role in shaping social inequalities and the persistence of privilege."
+        ],
+        
+        "answers":[4,4,1],
+        "time":6
+    },"section5_content":{
+        "1":[
+            "The 'digital divide' referring to the gap in access to and use of digital technologies between different social groups, presents a significant obstacle to achieving social equity and economic development.",
+            "(1) The 'digital divide' referring to the gap in access to and use of digital technologies between different social groups, presents a significant obstacle to achieving social equity and economic development.",
+            "(2) The 'digital divide' which refers to the gap in access to and use of digital technologies between different social groups, is a significant obstacle to achieving social equity and economic development.",
+            "(3) The 'digital divide' referring to the gap in access to and use of digital technologies between different social groups, highlights the importance of bridging the gap for achieving social equity and economic development.",
+            "(4)  The 'digital divide' referring to the gap in access to and use of digital technologies between different social groups, poses a significant challenge to achieving social equity and economic development."
+        ],
+
+        "2":["The concept of 'biomimicry' which involves imitating nature's designs and processes to solve human problems, has gained significant momentum in recent years, leading to innovations in fields ranging from architecture to medicine.",
+            "(1) Biomimicry, the practice of imitating nature's designs and processes to solve human problems, has gained significant momentum in recent years, leading to innovations in various fields.",
+            "(2) The concept of 'biomimicry' which involves imitating nature's designs and processes to solve human problems, has gained significant momentum in recent years, leading to innovations in fields ranging from architecture to medicine.",
+            "(3) The use of biomimicry, which involves imitating nature's designs and processes to solve human problems, has gained significant momentum in recent years, leading to innovations across various fields.",
+            "(4) The field of biomimicry, which involves imitating nature's designs and processes to solve human problems, has gained significant momentum in recent years, leading to innovations in fields ranging from architecture to medicine."],
+        
+        "3":[
+            "The rise of 'platform capitalism' characterized by the dominance of large technology companies that control vast digital platforms and user data, has raised concerns about privacy, competition, and the concentration of power.",
+            "(1) The rise of 'platform capitalism' characterized by the dominance of large technology companies that control vast digital platforms and user data, has raised concerns about privacy, competition, and the concentration of power.",
+            "(2) 'Platform capitalism' characterized by the dominance of large technology companies that control vast digital platforms and user data, has raised concerns about privacy, competition, and the concentration of power.",
+            "(3) The dominance of large technology companies that control vast digital platforms and user data, often referred to as 'platform capitalism' has raised concerns about privacy, competition, and the concentration of power.",
+            "(4) The rise of 'platform capitalism' characterized by the dominance of large technology companies that control vast digital platforms and user data, has raised concerns about privacy, competition, and the concentration of power."
+        ],"answers":[1,2,1],
+        
+        "time":6
+    }
+}

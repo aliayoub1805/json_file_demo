@@ -1,0 +1,54 @@
+{
+    "section4_content":{
+        "1":[
+            "While the integration of technology in classrooms has the potential to enhance learning experiences, it also raises concerns about equity and the digital divide among students.",
+            "(1) The use of technology in education can improve learning, but it may also exacerbate issues of equity and the digital divide among students.",
+            "(2) Although technology integration in classrooms enriches learning experiences, it introduces significant concerns regarding equal access and the digital divide.",
+            "(3) While classroom technology enhances educational experiences, it simultaneously raises important questions about equity and access for students.",
+            "(4) The benefits of integrating technology into classrooms are evident, yet it can lead to inequalities related to access and the digital divide among students."
+        ],
+
+        "2":[
+            "Although renewable energy technologies are often hailed as solutions to climate change, their production can involve significant resource consumption and environmental impact.",
+            "(1) Renewable energy technologies are celebrated for their climate benefits, yet their production can consume considerable resources and harm the environment.",
+            "(2) While renewable energy is seen as a remedy for climate change, the resources required for its production can lead to notable environmental issues.",
+            "(3) Although renewable energy technologies address climate change, their manufacturing processes can also result in substantial resource use and environmental degradation.",
+            "(4) The promise of renewable energy technologies in combating climate change is significant, but their production can have adverse environmental effects."],
+        
+        "3":[
+            "While the emergence of telemedicine has improved access to healthcare, it has also highlighted issues related to patient privacy and the quality of care.",
+            "(1) Telemedicine enhances healthcare access, but it brings to light concerns about patient privacy and care quality.",
+            "(2) Although telemedicine has made healthcare more accessible, it raises valid concerns regarding patient privacy and the effectiveness of care.",
+            "(3) The rise of telemedicine is beneficial for improving access to healthcare; however, it also raises critical issues about privacy and care standards.",
+            "(4) While telemedicine offers greater healthcare accessibility, it also introduces challenges concerning patient privacy and the quality of the services provided."
+        ],
+        
+        "answers":[2,3,4],
+        "time":6
+    },"section5_content":{
+        "1":[
+            "Although globalization can foster economic development and cultural exchange, it often leads to the erosion of local traditions and increased economic disparities.",
+            "(1) Globalization is beneficial for economic growth and cultural interaction, but it may also dilute local traditions and heighten economic inequalities.",
+            "(2) The positive effects of globalization on culture and economy are notable, yet they can also result in diminished local traditions and greater economic divides.",
+            "(3) While globalization promotes economic development and cultural sharing, it frequently undermines local traditions and contributes to economic inequality.",
+            "(4) Although globalization encourages cultural exchange and economic growth, it poses risks of weakening local traditions and worsening economic disparities."
+        ],
+
+        "2":[
+            "While the rise of remote work has been praised for offering flexibility and work-life balance, it has also blurred the boundaries between personal and professional life, leading to potential burnout.",
+            "(1) Remote work is celebrated for enhancing flexibility and balance, yet it can also make it difficult to separate work and personal life, risking burnout.",
+            "(2) The popularity of remote work provides employees with greater flexibility, but it raises concerns about the potential for burnout due to blurred boundaries.",
+            "(3) Although remote work allows for better work-life balance, it often leads to the erosion of boundaries between personal and professional time, increasing burnout risk.",
+            "(4) While the advantages of remote work include flexibility and balance, it can also create challenges in maintaining boundaries, heightening the risk of burnout."],
+        
+        "3":[
+            "Although public transportation systems are essential for reducing traffic congestion and carbon emissions, they often face challenges related to funding and public support.",
+            "(1) Public transportation plays a crucial role in alleviating traffic and reducing emissions, but it struggles with funding and gaining public backing.",
+            "(2) While public transportation systems help decrease congestion and emissions, they frequently encounter obstacles in terms of funding and community support.",
+            "(3) The importance of public transportation in addressing traffic issues and emissions is clear, yet it often faces significant funding and support challenges.",
+            "(4) Although public transportation is vital for lowering congestion and carbon output, it is often hampered by funding difficulties and a lack of public support."
+        ],"answers":[3,3,2],
+        
+        "time":6
+    }
+}
