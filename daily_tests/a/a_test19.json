@@ -1,53 +1,53 @@
 {
     "section4_content":{
         "1":[
-            "",
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "
+            "While the rise of social media has transformed how people connect and share information, it has also contributed to the spread of misinformation and polarized opinions.",
+            "(1) While social media enables new forms of connection and information exchange, it simultaneously fosters misinformation and exacerbates opinion polarization.",
+            "(2) Social media has revolutionized personal connections and information sharing, but it has also facilitated the spread of false information and polarized views.",
+            "(3) Although social media changes the way individuals interact and disseminate information, it can lead to the proliferation of misinformation and division of opinions.",
+            "(4) The impact of social media on communication is significant, yet it has also resulted in the spread of misinformation and heightened polarization of opinions."
         ],
 
         "2":[
-            "",
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "],
+            "Although the advent of biotechnology holds the promise of groundbreaking medical treatments, it raises ethical dilemmas surrounding genetic manipulation and consent.",
+            "(1) The potential of biotechnology to deliver innovative medical solutions is promising, but it also introduces ethical concerns regarding genetic alterations and patient consent.",
+            "(2) While biotechnology offers the prospect of revolutionary medical treatments, it brings forth significant ethical issues related to genetic manipulation and informed consent.",
+            "(3) Although advancements in biotechnology can lead to important medical breakthroughs, they also raise complex ethical questions about genetic engineering and consent.",
+            "(4) The promise of biotechnology in medicine is significant, yet it raises ethical dilemmas concerning genetic manipulation and the issue of consent."],
         
         "3":[
-            "",
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "
+            "While urbanization can lead to economic growth and infrastructure development, it often results in environmental degradation and increased social inequality.",
+            "(1) Urbanization drives economic development and infrastructure improvements, but it frequently causes environmental harm and worsens social disparities.",
+            "(2) Although urbanization fosters economic growth and better infrastructure, it can also contribute to environmental damage and rising social inequality.",
+            "(3) The benefits of urbanization include economic growth and infrastructure advancements, yet it also leads to significant environmental degradation and social inequality.",
+            "(4) While urban growth can enhance the economy and infrastructure, it often comes at the cost of environmental quality and social equity."
         ],
         
-        "answers":[],
+        "answers":[1,2,2],
         "time":6
     },"section5_content":{
         "1":[
-            "",
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "
+            "Although remote work offers employees greater flexibility and reduces commuting times, it can also lead to feelings of isolation and challenges in collaboration.",
+            "(1) Remote work provides flexibility and cuts down on commute times, but it may also contribute to employee isolation and hinder teamwork.",
+            "(2) While the flexibility of remote work and reduced commuting is advantageous, it can also create feelings of isolation and difficulties in collaborative efforts.",
+            "(3) Although working remotely allows for better flexibility and eliminates commuting, it can lead to feelings of isolation and challenges with collaboration.",
+            "(4) While remote work enhances flexibility and minimizes commute times, it often results in isolation and complicates collaboration among teams."
         ],
 
         "2":[
-            "",
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "],
+            "Although the increase in global trade has facilitated economic growth, it has also led to significant job losses in certain sectors and regions.",
+            "(1) The expansion of global trade supports economic development, yet it can cause job losses in specific sectors and regions.",
+            "(2) While global trade promotes economic growth, it simultaneously results in considerable job losses in certain areas and industries.",
+            "(3) Although the rise of international trade has contributed to economic growth, it has also caused notable job losses in various sectors and regions.",
+            "(4) The benefits of global trade in terms of economic growth are apparent, but they come with significant job losses in particular sectors and areas."],
         
         "3":[
-            "",
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "
-        ],"answers":[],
+            "While educational technology can enhance learning experiences and increase engagement, it can also create distractions and exacerbate existing inequalities.",
+            "(1) Educational technology improves learning and engagement, but it may also introduce distractions and worsen inequalities.",
+            "(2) Although the use of technology in education enhances engagement and learning experiences, it can also lead to distractions and heighten existing disparities.",
+            "(3) While technology in education can promote engagement and improve learning, it may also distract students and increase existing inequalities.",
+            "(4) The potential of educational technology to enhance learning and engagement is significant, yet it also poses risks of distraction and deepening inequalities."
+        ],"answers":[3,3,2],
         
         "time":6
     }

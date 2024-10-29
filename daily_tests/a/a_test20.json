@@ -1,53 +1,53 @@
 {
     "section4_content":{
         "1":[
-            "",
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "
+            "While the benefits of globalization include increased trade and cultural exchange, it has also contributed to economic disparities and the erosion of local cultures.",
+            "(1) Globalization brings advantages such as expanded trade and cultural interactions, but it also leads to economic inequality and cultural loss.",
+            "(2) Although globalization enhances trade and cultural exchange, it also results in economic divides and the weakening of local traditions.",
+            "(3) While globalization fosters trade and cultural diversity, it can also exacerbate economic inequalities and threaten local cultures.",
+            "(4) The positive aspects of globalization, including trade growth and cultural sharing, are often overshadowed by issues of economic disparity and cultural erosion."
         ],
 
         "2":[
-            "",
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "],
+            "Although artificial intelligence can enhance efficiency in various industries, it raises concerns about job displacement and ethical implications in decision-making processes.",
+            "(1) The efficiency gained from artificial intelligence in different sectors is substantial, yet it brings forward issues of job loss and ethical concerns regarding automated decisions.",
+            "(2) While artificial intelligence improves operational efficiency across industries, it also generates valid concerns about job displacement and the ethics of its decision-making.",
+            "(3) Although the introduction of artificial intelligence can make industries more efficient, it simultaneously raises important questions about job loss and ethical decision-making.",
+            "(4) The promise of artificial intelligence in increasing efficiency is clear, but it also raises significant ethical dilemmas and concerns about job displacement."],
         
         "3":[
-            "",
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "
+            "While the internet has democratized access to information, it has also led to the proliferation of misinformation and challenges in discerning credible sources.",
+            "(1) The internet allows broader access to information, but it also results in an increase in misinformation and difficulties in identifying trustworthy sources.",
+            "(2) Although the internet has made information more accessible, it has simultaneously given rise to misinformation and complications in evaluating source credibility.",
+            "(3) While the internet promotes information accessibility, it also creates challenges related to misinformation and determining which sources are credible.",
+            "(4) The internet’s role in democratizing information access is significant, yet it has also led to a rise in misinformation and challenges in assessing credibility."
         ],
         
-        "answers":[],
+        "answers":[2,3,2],
         "time":6
     },"section5_content":{
         "1":[
-            "",
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "
+            "Although urban green spaces provide numerous benefits for mental health and community well-being, they often face challenges related to maintenance and funding.",
+            "(1) Urban green spaces enhance mental health and community wellness, but they typically encounter difficulties with maintenance and securing funding.",
+            "(2) While green spaces in urban areas improve community well-being and mental health, they frequently struggle with maintenance and funding issues.",
+            "(3) The positive impacts of urban green spaces on mental health and community are clear, yet they often face significant challenges in terms of upkeep and financial support.",
+            "(4) Although urban green spaces are beneficial for mental health and community health, they often lack sufficient maintenance and funding resources."
         ],
 
         "2":[
-            "",
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "],
+            "While the push for renewable energy sources is essential for combating climate change, it can also lead to land use conflicts and challenges related to resource allocation.",
+            "(1) The transition to renewable energy is crucial for addressing climate change, yet it may create conflicts over land use and issues with resource distribution.",
+            "(2) Although renewable energy is vital for fighting climate change, its implementation can lead to disputes over land and challenges in resource management.",
+            "(3) While promoting renewable energy sources is important in the fight against climate change, it can also result in land use disputes and difficulties with resource allocation.",
+            "(4) The importance of renewable energy in tackling climate change is undeniable, but it often raises concerns about land use and resource distribution challenges."],
         
         "3":[
-            "",
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "
-        ],"answers":[],
+            "Although the advent of telehealth has expanded access to healthcare services, it has also introduced issues related to data privacy and the quality of care.",
+            "(1) Although the rise of telehealth offers broader access to healthcare services, it simultaneously creates challenges concerning data privacy and care standards.",
+            "(2) Telehealth increases healthcare accessibility, yet it raises important questions about data privacy and care quality.",
+            "(3) While telehealth enhances access to healthcare, it also brings concerns regarding patient data privacy and the overall quality of care.",
+            "(4) The expansion of telehealth is beneficial for accessing healthcare services, but it can also lead to significant issues with data privacy and care quality."
+        ],"answers":[3,2,1],
         
         "time":6
     }
