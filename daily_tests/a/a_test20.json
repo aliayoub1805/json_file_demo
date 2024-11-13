@@ -47,7 +47,8 @@
             "(2) Telehealth increases healthcare accessibility, yet it raises important questions about data privacy and care quality.",
             "(3) While telehealth enhances access to healthcare, it also brings concerns regarding patient data privacy and the overall quality of care.",
             "(4) The expansion of telehealth is beneficial for accessing healthcare services, but it can also lead to significant issues with data privacy and care quality."
-        ],"answers":[3,2,1],
+        ],
+        "answers":[3,2,1],
         
         "time":6
     }
