@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The Amazon rainforest is often referred to as the 'lungs of the Earth' because it produces approximately 20% of the world's oxygen.",
+        "(1) The Amazon rainforest produces oxygen, earning it the nickname 'lungs of the Earth'.",
+        "(2) Often called the 'lungs of the Earth' the Amazon rainforest generates 20% of the planet’s oxygen.",
+        "(3) The Amazon rainforest plays a key role in producing oxygen, making it essential to the Earth's ecosystem.",
+        "(4) Due to its oxygen production, the Amazon is sometimes called the 'lungs of the Earth'."
+    ],
+    
+    "10":[
+        "Although humans have been exploring space for decades, the vast majority of the universe remains unexplored, with only a small fraction of it having been studied in detail.",
+        "(1) Despite many years of exploration, the vast majority of space remains unknown to humans.",
+        "(2) Even with decades of space exploration, only a small portion of the universe has been studied in depth.",
+        "(3) Space exploration has been happening for decades, yet most of the universe remains unexplored.",
+        "(4) Most of the universe is still a mystery, even after many years of human space exploration."
+    ],
+    
+    "11":[
+        "Despite the rise in popularity of electric vehicles, internal combustion engine cars still dominate global car sales due to their lower price and established production systems.",
+        "(1) While electric vehicles are becoming more popular, gasoline-powered cars remain dominant due to their cheaper cost and better-established production methods.",
+        "(2) Despite the growing demand for electric cars, traditional internal combustion engine vehicles still lead the market because of their affordability and mass production systems.",
+        "(3) Electric cars are gaining popularity, but gasoline-powered vehicles continue to outsell them due to their lower cost and established production methods.",
+        "(4) The continued dominance of gasoline-powered cars is due to their affordability, despite the increasing demand for electric vehicles."
+    ],
+    
+    "12":[
+        "While the health benefits of regular exercise are well-established, many people still struggle to maintain a consistent fitness routine due to time constraints, lack of motivation, or physical limitations.",
+        "(1) Despite the proven health benefits, many individuals find it difficult to stick to an exercise routine because of various barriers such as time and motivation.",
+        "(2) Many people struggle to maintain an exercise routine despite knowing its health benefits, due to obstacles like time constraints and physical limitations.",
+        "(3) Even though regular exercise is proven to be beneficial, people often face challenges like a lack of motivation or time to maintain their fitness.",
+        "(4) The proven health benefits of exercise have not stopped many people from failing to maintain a regular routine due to time and physical constraints."],
+    
+    "9-12":[2,2,3,2]
+}

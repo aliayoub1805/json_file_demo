@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The Great Wall of China was built over several centuries to protect China from invasions.",
+        "(1) The Great Wall of China was constructed over many years to defend the country from invasions.",
+        "(2) The Great Wall of China, built over centuries, served as protection against foreign invaders.",
+        "(3) The Great Wall of China is a historical monument built to defend against invaders.",
+        "(4) The Great Wall, built in the past, protects China from invaders."
+    ],
+    
+    "10":[
+        "The discovery of penicillin in 1928 revolutionized medicine by providing an effective treatment for bacterial infections.",
+        "(1) Penicillin, discovered in 1928, changed medicine by offering a cure for bacterial infections.",
+        "(2) In 1928, penicillin was discovered and quickly became the main treatment for bacterial infections.",
+        "(3) The discovery of penicillin in 1928 greatly impacted the field of medicine by curing bacterial diseases.",
+        "(4) Penicillin, found in 1928, transformed medical practices by offering a solution to bacterial infections."
+    ],
+    
+    "11":[
+        "The theory of relativity, developed by Albert Einstein in the early 20th century, fundamentally changed the way we understand time, space, and gravity.",
+        "(1) Albert Einstein’s theory of relativity, established in the 1900s, altered our comprehension of time, space, and gravity.",
+        "(2) The early 20th century saw Albert Einstein’s theory of relativity, which reshaped our understanding of time, space, and gravity.",
+        "(3) The discovery of relativity by Einstein in the early 20th century revolutionized the concepts of space, gravity, and time.",
+        "(4) Albert Einstein’s groundbreaking theory of relativity, formulated in the 1900s, revolutionized physics and our understanding of time and space."
+    ],
+    
+    "12":[
+        "Despite the growing popularity of digital media, traditional print journalism continues to play a key role in shaping public opinion and delivering in-depth analysis.",
+        "(1) While digital media is becoming more popular, traditional print journalism still plays a major role in shaping opinions and offering in-depth analysis.",
+        "(2) Despite the rise of digital media, print journalism remains essential for influencing public opinion and providing detailed analysis.",
+        "(3) Even with the growth of digital media, traditional journalism through print continues to influence public views and provide thorough analysis.",
+        "(4) Digital media has grown, but print journalism remains vital in shaping public opinion and delivering comprehensive analysis."],
+    
+    "9-12":[2,1,3,2]
+}

@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The widespread adoption of electric vehicles (EVs) is seen as a crucial step in reducing carbon emissions and combating climate change.",
+        "(1) Electric vehicles are still too expensive for widespread adoption, limiting their potential impact on carbon emissions.",
+        "(2) Electric vehicles have little effect on climate change, as their manufacturing process is just as harmful to the environment as traditional vehicles.",
+        "(3) While electric vehicles are important, their widespread adoption is unlikely to have a meaningful impact on global emissions.",
+        "(4) The global shift to electric vehicles is expected to significantly reduce carbon emissions, aiding efforts to combat climate change."
+    ],
+    
+    "10":[
+        "The increasing use of artificial intelligence in healthcare has the potential to improve patient outcomes by offering faster, more accurate diagnoses and personalized treatment plans.",
+        "(1) AI is primarily used to replace human doctors, making healthcare less personal and more standardized.",
+        "(2) The integration of AI in healthcare is improving diagnostic accuracy and allowing for more tailored treatment plans, potentially improving patient outcomes.",
+        "(3) Despite its potential, AI in healthcare has been shown to have little effect on diagnostic accuracy or treatment personalization.",
+        "(4) AI's role in healthcare is mostly limited to administrative tasks, with no real impact on patient care or treatment."
+    ],
+    
+    "11":[
+        "The rapid expansion of renewable energy technologies has created new opportunities for job growth in sectors such as solar energy, wind power, and battery storage.",
+        "(1) Renewable energy technologies have led to significant job losses in traditional energy sectors, with little job creation in the renewable sector.",
+        "(2) Renewable energy technologies are not contributing to job growth, as their adoption is too slow and costly for widespread implementation.",
+        "(3) The growth of renewable energy sectors such as solar, wind, and battery storage is generating new jobs and fostering economic growth.",
+        "(4) The job market in renewable energy is shrinking due to the rapid automation of solar, wind, and battery storage industries."
+    ],
+    
+    "12":[
+        "Increased global trade and economic interdependence have led to a more interconnected world, but they have also raised concerns about the potential for economic inequality and exploitation.",
+        "(1) Global trade has led to a more self-sufficient world, with fewer concerns about economic inequality or exploitation.",
+        "(2) Economic interdependence has no significant effect on inequality, as all nations benefit equally from global trade.",
+        "(3) Global trade is a purely positive force, with no downsides or concerns related to inequality or exploitation.",
+        "(4) While global trade fosters economic growth and interconnectedness, it also exacerbates inequality and poses risks of exploitation in developing countries."],
+    
+    "9-12":[4,2,3,4]
+}

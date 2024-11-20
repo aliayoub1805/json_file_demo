@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The Eiffel Tower, located in Paris, was completed in 1889 as part of the World’s Fair.",
+        "(1) The Eiffel Tower in Paris was built for the 1889 World’s Fair.",
+        "(2) The Eiffel Tower, completed in 1889, is one of the most famous landmarks in Paris.",
+        "(3) The World’s Fair led to the construction of the Eiffel Tower, which was completed in 1889.",
+        "(4) The Eiffel Tower, a symbol of Paris, was finished in 1889 for the World’s Fair."
+    ],
+    
+    "10":[
+        "Mount Everest, the tallest mountain in the world, attracts thousands of climbers each year despite its dangerous conditions.",
+        "(1) Each year, Mount Everest, the highest mountain on Earth, draws many climbers, despite the dangers it poses.",
+        "(2) Mount Everest is the highest mountain and attracts thousands of climbers every year, despite its risky conditions.",
+        "(3) The tallest mountain in the world, Mount Everest, continues to attract climbers each year, even though it is dangerous.",
+        "(4) Thousands of climbers risk their lives each year to summit Mount Everest, the world’s tallest peak."
+    ],
+    
+    "11":[
+        "The works of William Shakespeare are often regarded as the epitome of English literature, profoundly influencing the language and drama.",
+        "(1) Shakespeare’s works are considered the foundation of English literature, influencing both language and drama.",
+        "(2) William Shakespeare, through his influential works, shaped the English language and the world of drama.",
+        "(3) Often considered the pinnacle of English literature, Shakespeare’s works deeply affected both language and theater.",
+        "(4) Shakespeare’s literary works are highly revered in English literature, having a lasting impact on language and drama."
+    ],
+    
+    "12":[
+        "Despite the rapid advancements in artificial intelligence (AI), human creativity and emotional intelligence continue to outpace machines in several key areas.",
+        "(1) Although artificial intelligence has made significant strides, human creativity and emotional intelligence remain superior in various fields.",
+        "(2) While machines have advanced quickly in AI, human emotional intelligence and creativity are still far more developed in important ways.",
+        "(3) Despite the progress of AI, human creativity and emotional intelligence still surpass machines in many important areas.",
+        "(4) Artificial intelligence continues to develop, but human creativity and emotional intelligence are still ahead in critical areas."],
+    
+    "9-12":[1,3,3,1]
+}

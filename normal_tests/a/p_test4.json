@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The Eiffel Tower, one of Paris' most iconic landmarks, was originally intended to be a temporary structure for the 1889 World's Fair.",
+        "(1) The Eiffel Tower was built for the 1889 World's Fair and was initially meant to be a temporary attraction.",
+        "(2) Originally designed as a temporary structure for the 1889 World's Fair, the Eiffel Tower became a lasting symbol of Paris.",
+        "(3) Paris' Eiffel Tower was intended to stand for a short time, constructed for the 1889 World's Fair.",
+        "(4) The Eiffel Tower, which became famous after the 1889 World's Fair, was originally planned as a temporary structure."
+    ],
+    
+    "10":[
+        "Although the city of Venice faces many challenges due to its location and rising sea levels, it continues to attract millions of tourists each year.",
+        "(1) Despite its challenges with rising sea levels and location, Venice remains a popular tourist destination.",
+        "(2) The city of Venice, while dealing with rising sea levels and its unique location, still attracts millions of tourists annually.",
+        "(3) Even though Venice struggles with rising sea levels and other challenges, it continues to draw large numbers of tourists each year.",
+        "(4) Venice faces difficulties with its location and rising sea levels, but it remains a major tourist attraction."
+    ],
+    
+    "11":[
+        "While renewable energy sources such as wind and solar power have made significant progress in recent years, fossil fuels remain the dominant source of global energy, particularly in developing countries.",
+        "(1) Despite the progress of renewable energy, fossil fuels continue to be the main source of energy worldwide, especially in developing countries.",
+        "(2) Renewable energy sources like solar and wind have advanced, but fossil fuels are still widely used, particularly in developing countries.",
+        "(3) Although renewable energy sources such as wind and solar have advanced, fossil fuels still dominate global energy markets, especially in developing countries.",
+        "(4) Fossil fuels remain the leading global energy source, despite improvements in renewable energy like wind and solar."
+    ],
+    
+    "12":[
+        "Although artificial intelligence has revolutionized many industries, its integration into the workforce raises concerns about job displacement and the future of human labor.",
+        "(1) Artificial intelligence has significantly impacted various sectors, but it has also raised concerns about its effects on human labor and potential job loss.",
+        "(2) While artificial intelligence has transformed industries, many people worry about its impact on jobs and the future role of humans in the workforce.",
+        "(3) The rise of artificial intelligence has brought about significant change in many fields, yet it also triggers fears of job displacement and the future of human work.",
+        "(4) Artificial intelligence has revolutionized industries, but its role in the workforce raises questions about potential job losses and the future of work for humans."],
+    
+    "9-12":[2,2,3,4]
+}

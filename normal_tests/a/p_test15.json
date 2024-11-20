@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The internet has revolutionized how people communicate, but despite its many advantages, it has also introduced challenges such as privacy concerns and cyberbullying.",
+        "(1) Although the internet has made communication easier, it has raised issues like privacy breaches and online bullying.",
+        "(2) People communicate more effectively thanks to the internet, but its use has caused problems like privacy violations and cyberbullying.",
+        "(3) The internet has transformed communication, but it also brings challenges such as protecting privacy and preventing online harassment.",
+        "(4) The internet makes communication easier, but there are problems such as privacy concerns and cyberbullying."
+    ],
+    
+    "10":[
+        "Despite the significant advancements in technology, many people continue to prefer traditional methods of communication, such as face-to-face conversations or written letters, because they feel these methods are more personal and meaningful.",
+        "(1) While technology has improved communication, some still prefer face-to-face talks or letters, feeling they offer a more personal connection.",
+        "(2) People still prefer traditional communication methods like letters and face-to-face conversations over modern technology for their personal touch.",
+        "(3) Even with technological advances, face-to-face communication and written letters are valued for their personal touch, and many still prefer them.",
+        "(4) Although technology has advanced communication, the preference for face-to-face talks or letters persists due to their personal nature."
+    ],
+    
+    "11":[
+        "While the financial crisis in 2008 had a global impact, it is widely believed that its effects were most severe in developed countries, where the economic systems were more interconnected with global markets.",
+        "(1) The financial crisis of 2008 hit developed countries the hardest due to their stronger ties to the global economy.",
+        "(2) Though the 2008 financial crisis affected the world, its impact was most profound in developed countries, owing to their deeper integration with global markets.",
+        "(3) While all countries were affected by the 2008 financial crisis, developed nations faced the worst consequences due to their reliance on global financial systems.",
+        "(4) The global impact of the 2008 financial crisis was felt most severely in developed countries, where the economic systems were heavily tied to international markets."
+    ],
+    
+    "12":[
+        "The exploration of space has provided humanity with numerous scientific discoveries, but the costs and risks associated with space missions have sparked debates about whether the benefits justify the investments.",
+        "(1) Space exploration has led to many scientific discoveries, but the high costs and risks involved have raised questions about whether they are worth it.",
+        "(2) While space missions have brought valuable discoveries, debates continue about whether the benefits outweigh the risks and costs.",
+        "(3) The many scientific discoveries from space exploration are often questioned due to the high risks and costs involved in space missions.",
+        "(4) Despite the valuable insights gained from space exploration, people argue whether the costs and dangers involved are justified."],
+    
+    "9-12":[1,3,2,1]
+}

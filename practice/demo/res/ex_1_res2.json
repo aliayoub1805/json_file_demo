@@ -1,0 +1,36 @@
+{
+    "1":[
+        "The rise of digital technology has made it easier for people to communicate across long distances, connecting individuals from different cultures and regions.",
+        "(1) Communication was easier before the rise of digital technology, but now it's even better.",
+        "(2) People from different cultures and regions now communicate more easily thanks to the rise of digital technology.",
+        "(3) Digital technology has created many barriers, making communication more difficult across long distances.",
+        "(4) Digital technology has made communication easier, allowing people to connect globally."
+    ],
+    
+    "2":[
+        "The environmental impact of industrial farming practices is significant, as they contribute to deforestation, soil degradation, and the loss of biodiversity.",
+        "(1) Industrial farming practices lead to many environmental issues, including the loss of biodiversity.",
+        "(2) Industrial farming is largely harmless to the environment, with minimal effects on biodiversity.",
+        "(3) The main problem with industrial farming is its tendency to increase deforestation and soil quality.",
+        "(4) Environmental damage from farming is often due to the loss of biodiversity and destruction of forests."
+    ],
+    
+    "3":[
+        "Despite the growing popularity of online education, traditional classroom settings are still regarded as more effective in fostering student engagement and deep learning.",
+        "(1) While online education is becoming more popular, many still prefer the traditional classroom for its effectiveness.",
+        "(2) The effectiveness of online education is debated, with traditional classroom settings still considered better for deep learning.",
+        "(3) Online education is often regarded as less engaging than traditional classroom-based learning, especially for complex subjects.",
+        "(4) Traditional classroom settings are often more engaging than online education, despite the growing popularity of the latter."
+    ],
+    
+    "4":[
+        "The discovery of penicillin revolutionized medicine, leading to the development of antibiotics that have saved millions of lives worldwide.",
+        "(1) Penicillin was the first antibiotic discovered, and it led to significant improvements in global healthcare.",
+        "(2) Penicillin's discovery changed medicine forever, with antibiotics saving millions of lives.",
+        "(3) The introduction of penicillin greatly impacted healthcare, helping save millions of people.",
+        "(4) The discovery of antibiotics, including penicillin, led to life-saving medical breakthroughs."],
+    
+    "1-4":[4,1,2,1],
+    "time":0,
+    "timeSec":0
+}

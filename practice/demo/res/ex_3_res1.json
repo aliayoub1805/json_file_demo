@@ -1,0 +1,36 @@
+{
+    "1":[
+        "The invention of the internet has revolutionized the way people communicate, work, and access information.",
+        "(1) The internet has made communication and work less effective.",
+        "(2) The internet has made communication and access to information more difficult.",
+        "(3) The internet has changed the way people interact, work, and gather information.",
+        "(4) The invention of the internet has had no significant effect on communication."
+    ],
+    
+    "2":[
+        "Despite the challenging weather conditions, the team managed to finish the race in record time.",
+        "(1) The team failed to finish the race due to bad weather.",
+        "(2) The team completed the race quickly, overcoming difficult weather conditions.",
+        "(3) The team stopped during the race because of the weather.",
+        "(4) The team faced no challenges and finished the race with ease."
+    ],
+    
+    "3":[
+        "Many experts argue that climate change is a pressing issue that requires immediate and collective action from governments and individuals.",
+        "(1) Climate change is not considered a significant problem by most experts.",
+        "(2) Governments are primarily responsible for solving the issue of climate change.",
+        "(3) Experts believe that individuals can address climate change on their own.",
+        "(4) Climate change requires urgent action from both governments and individuals."
+    ],
+    
+    "4":[
+        "Although the new policy has been met with some resistance, it is expected to bring long-term benefits for the organization.",
+        "(1) The new policy will bring immediate benefits but no long-term advantages.",
+        "(2) Despite some opposition, the policy is expected to benefit the organization in the long run.",
+        "(3) The new policy has been completely rejected by the organization.",
+        "(4) The policy will harm the organization in the long term, despite short-term support."],
+    
+    "1-4":[3,2,4,2],
+    "time":0,
+    "timeSec":0
+}

@@ -1,0 +1,34 @@
+{
+    "9":[
+        "While the shift to renewable energy sources is essential for reducing carbon emissions, it faces significant challenges in terms of cost, infrastructure development, and energy storage.",
+        "(1) The transition to renewable energy is crucial, but it can be achieved without major costs or infrastructure changes.",
+        "(2) The move to renewable energy has minimal challenges, as the costs are low and energy storage is not an issue.",
+        "(3) Renewable energy sources are already efficient and cost-effective, requiring no further investment or development.",
+        "(4) Although the transition to renewable energy is important for reducing carbon emissions, it faces significant challenges regarding cost, infrastructure, and energy storage."
+    ],
+    
+    "10":[
+        "The growing use of social media has allowed people to communicate more easily, but it has also raised concerns about privacy, misinformation, and its effects on mental health.",
+        "(1) Social media’s primary benefit is its ability to enhance communication, without raising any concerns about privacy or misinformation.",
+        "(2) Social media is mostly harmful, with no real benefits to communication, and it primarily causes issues with privacy and misinformation.",
+        "(3) The use of social media is beneficial, but concerns about privacy, misinformation, and mental health effects are growing.",
+        "(4) Social media has no significant negative effects, and it improves both communication and mental well-being with no drawbacks."
+    ],
+    
+    "11":[
+        "The expansion of global trade has led to increased economic growth in many countries, but it has also contributed to income inequality and environmental degradation.",
+        "(1) Global trade has been entirely beneficial, with no effects on inequality or the environment.",
+        "(2) While global trade has stimulated economic growth, it has also resulted in greater income inequality and environmental harm.",
+        "(3) Economic growth from global trade has improved the environment and decreased income inequality in most countries.",
+        "(4) The primary impact of global trade is economic growth, with no concerns regarding inequality or environmental impact."
+    ],
+    
+    "12":[
+        "Technological advancements in healthcare have improved treatment options and patient outcomes, but they have also raised concerns about access, affordability, and the potential loss of the human element in care.",
+        "(1) Technological advancements in healthcare have improved outcomes but have no effect on access or affordability.",
+        "(2) Healthcare technology has increased access and affordability while eliminating concerns about the human element in patient care.",
+        "(3) While technology has improved treatments and patient outcomes, it also raises concerns about access, cost, and the loss of personal care.",
+        "(4) The human element of healthcare is no longer important due to technological advancements, which have solved all access and affordability issues."],
+    
+    "9-12":[4,3,2,3]
+}

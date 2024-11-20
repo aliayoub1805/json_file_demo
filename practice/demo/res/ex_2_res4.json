@@ -1,0 +1,36 @@
+{
+    "1":[
+        "Although the company’s profits have decreased over the past year, it is optimistic about future growth due to upcoming product launches.",
+        "(1) The company expects to recover its profits in the future, despite recent losses.",
+        "(2) The company’s future growth is uncertain due to declining profits.",
+        "(3) The company has stopped product launches because of declining profits.",
+        "(4) The company’s recent losses make it pessimistic about future growth."
+    ],
+    
+    "2":[
+        "The research indicates that a balanced diet and regular exercise are essential for maintaining good health and preventing chronic diseases.",
+        "(1) Regular exercise is more important than a balanced diet for maintaining good health.",
+        "(2) A healthy diet and exercise are key factors in preventing chronic diseases.",
+        "(3) Regular exercise can prevent all chronic diseases, even without a balanced diet.",
+        "(4) A balanced diet alone is sufficient for good health and disease prevention."
+    ],
+    
+    "3":[
+        "The discovery of the ancient ruins has provided valuable insights into the early civilizations that once inhabited the region.",
+        "(1) The ancient ruins are a mystery that provides no information about early civilizations.",
+        "(2) The discovery of ancient ruins has no significance for understanding past civilizations.",
+        "(3) The ancient ruins were found but have not provided any insights into early civilizations.",
+        "(4) The ruins have led to new understanding of the civilizations that lived in the area."
+    ],
+    
+    "4":[
+        "After years of research and development, the company is finally ready to introduce its groundbreaking new technology to the market.",
+        "(1) The company has faced years of delays and is now uncertain about the product launch.",
+        "(2) After extensive work, the company is now prepared to launch its innovative technology.",
+        "(3) The company has abandoned its new technology after years of research.",
+        "(4) The company’s new technology is not ready for launch despite years of research."],
+    
+    "1-4":[1,2,4,2],
+    "time":0,
+    "timeSec":0
+}

@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The rise in global temperatures has led to more frequent and severe heatwaves in many parts of the world.",
+        "(1) Climate change is the primary cause of the increasing frequency and severity of heatwaves.",
+        "(2) Heatwaves have become less frequent in recent years, but they are more intense when they occur.",
+        "(3) Severe heatwaves are an indication that global temperatures are stabilizing.",
+        "(4) Global temperatures have remained unchanged, despite the increasing frequency of heatwaves."
+    ],
+    
+    "10":[
+        "Researchers have discovered that honeybees are capable of recognizing human faces, a finding that could help improve our understanding of insect intelligence.",
+        "(1) Honeybees are unable to recognize human faces, according to recent research.",
+        "(2) The ability of honeybees to recognize human faces is a breakthrough in understanding their cognitive abilities.",
+        "(3) Honeybees can now be trained to recognize specific human faces, improving their behavior in research.",
+        "(4) Researchers have found that honeybees rely solely on scent to recognize faces, not visual recognition."
+    ],
+    
+    "11":[
+        "In recent years, electric vehicles (EVs) have gained significant popularity, largely due to their environmental benefits and advancements in battery technology.",
+        "(1) The popularity of electric vehicles has decreased, as advancements in battery technology have failed to meet consumer expectations.",
+        "(2) Electric vehicles are gaining popularity primarily because of their environmental benefits and improved battery technology.",
+        "(3) Despite advancements in battery technology, electric vehicles remain unpopular due to their high cost.",
+        "(4) Electric vehicles have gained popularity for reasons unrelated to environmental concerns or battery advancements."
+    ],
+    
+    "12":[
+        "The discovery of the ancient manuscript has provided new insights into the early history of the Roman Empire.",
+        "(1) The manuscript is a modern invention that has altered our understanding of Roman history.",
+        "(2) The manuscript offers valuable new information that sheds light on the early Roman Empire.",
+        "(3) The manuscript has not significantly impacted our understanding of Roman history.",
+        "(4) The manuscript contradicts established facts about the early history of the Roman Empire."],
+    
+    "9-12":[1,2,2,2]
+}

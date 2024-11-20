@@ -1,0 +1,36 @@
+{
+    "1":[
+        "The city has recently implemented stricter environmental regulations to combat air pollution.",
+        "(1) The city has relaxed environmental regulations to improve air quality.",
+        "(2) The city has imposed stricter rules to reduce air pollution.",
+        "(3) The city has stopped enforcing any environmental regulations.",
+        "(4) The city is unsure about enforcing stricter environmental laws."
+    ],
+    
+    "2":[
+        "Although the novel received mixed reviews, its unique narrative style garnered a lot of attention.",
+        "(1) The novel received universal praise for its unique narrative style.",
+        "(2) The novel was praised for its traditional writing style.",
+        "(3) Despite the mixed reviews, the novel's narrative style attracted significant attention.",
+        "(4) Critics universally disliked the novel and its narrative style."
+    ],
+    
+    "3":[
+        "The director's decision to cast the unknown actor was met with skepticism, but the actor's performance was widely praised.",
+        "(1) Despite initial doubts, the actor's performance earned widespread praise.",
+        "(2) The director was criticized for casting an unknown actor, but the actor performed poorly.",
+        "(3) The director cast a famous actor, and their performance was very well received.",
+        "(4) The actor's performance was criticized, and the director's decision was supported."
+    ],
+    
+    "4":[
+        "While the company initially struggled, its ability to adapt to new technology helped it achieve significant growth.",
+        "(1) The company failed to adapt to new technology and remained stagnant.",
+        "(2) The company struggled but later succeeded by embracing new technology.",
+        "(3) The company was always successful due to its use of new technology.",
+        "(4) The company relied on traditional methods and failed to grow."],
+    
+    "1-4":[2,3,1,2],
+    "time":0,
+    "timeSec":0
+}

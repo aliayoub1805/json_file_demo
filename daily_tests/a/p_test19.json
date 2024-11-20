@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The global shift towards renewable energy sources is expected to reduce reliance on fossil fuels and significantly lower greenhouse gas emissions in the coming decades.",
+        "(1) Renewable energy is expected to play a minor role in reducing global emissions, with fossil fuels remaining dominant.",
+        "(2) The transition to renewable energy sources is predicted to lead to a major reduction in emissions and a decrease in fossil fuel dependence.",
+        "(3) Greenhouse gas emissions are expected to increase despite the global push for renewable energy sources.",
+        "(4) Fossil fuels will continue to be the primary energy source globally, with renewable energy having little impact on emissions reduction."
+    ],
+    
+    "10":[
+        "New technologies in the field of medicine are advancing rapidly, allowing for more precise diagnoses and treatments tailored to individual patients.",
+        "(1) Medical technology has largely failed to improve the accuracy of diagnoses and personalized treatments.",
+        "(2) Recent advancements in medical technology are enhancing the precision of diagnoses and the personalization of treatments.",
+        "(3) The field of medicine has seen minimal progress in personalizing treatments or improving diagnostic methods.",
+        "(4) The rapid growth of medical technology is focused on developing treatments that are one-size-fits-all, rather than personalized solutions."
+    ],
+    
+    "11":[
+        "The rise of social media has transformed how people communicate, influencing everything from personal relationships to global political movements.",
+        "(1) Social media has had little impact on communication, with traditional methods still being more important for personal and political interactions.",
+        "(2) The influence of social media on communication is limited to minor changes in personal relationships, with no effect on politics.",
+        "(3) Social media has revolutionized communication, affecting both personal relationships and larger political movements worldwide.",
+        "(4) While social media is widely used, its impact on communication and political movements is often overstated."
+    ],
+    
+    "12":[
+        "A growing body of evidence suggests that a balanced diet rich in fruits and vegetables can reduce the risk of chronic diseases such as heart disease and diabetes.",
+        "(1) Chronic diseases such as heart disease and diabetes are unaffected by diet, and can only be controlled through medication.",
+        "(2) A healthy diet has no significant effect on chronic diseases, which are primarily caused by genetics.",
+        "(3) A diet rich in fruits and vegetables is only beneficial for weight loss, and has no impact on other chronic health conditions.",
+        "(4) Eating a balanced diet that includes a variety of fruits and vegetables may lower the risk of chronic conditions like heart disease and diabetes."],
+    
+    "9-12":[2,2,1,4]
+}

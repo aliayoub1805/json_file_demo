@@ -1,0 +1,36 @@
+{
+    "1":[
+        "Despite its reputation for being a fast food, pizza is actually quite versatile, with different cultures adding unique ingredients to create regional variations.",
+        "(1) Pizza is considered a fast food, but it is also adapted by different cultures with unique ingredients.",
+        "(2) Many cultures around the world have their own versions of pizza, making it a versatile food.",
+        "(3) Pizza is only considered fast food, but it has been made with different ingredients by various cultures.",
+        "(4) Different cultures around the world add their own ingredients to pizza, making it much more versatile than just fast food."
+    ],
+    
+    "2":[
+        "Though some individuals are naturally more predisposed to certain talents, research shows that consistent practice and learning can often be more important than innate ability in achieving success.",
+        "(1) While some people are naturally talented, hard work and practice are often more critical for success.",
+        "(2) Research suggests that success is more about natural talent than about how much effort you put in.",
+        "(3) People who practice consistently often succeed more than those relying only on natural ability.",
+        "(4) Natural talent is not as significant as practice when it comes to achieving success, according to research."
+    ],
+    
+    "3":[
+        "While the benefits of renewable energy sources like solar and wind power are undeniable, the initial costs of installation and infrastructure can still be a barrier for many communities.",
+        "(1) Renewable energy sources like solar and wind power are beneficial, but the costs of installation can prevent widespread adoption.",
+        "(2) The benefits of solar and wind power are clear, but their high installation costs remain a major challenge.",
+        "(3) Although renewable energy sources like solar and wind power offer significant advantages, their initial costs can hinder adoption.",
+        "(4) The advantages of renewable energy are undeniable, but many communities find it difficult to afford the setup costs."
+    ],
+    
+    "4":[
+        "In the modern workplace, many companies are shifting from hierarchical organizational structures to more flexible, collaborative models in order to encourage innovation and employee engagement.",
+        "(1) Companies today are moving away from rigid hierarchies and adopting more collaborative models to foster innovation.",
+        "(2) A growing trend in business today is the shift from strict hierarchies to flexible structures that encourage teamwork and innovation.",
+        "(3) The hierarchical structures of traditional companies are being replaced by more collaborative, employee-centered work models.",
+        "(4) To boost creativity and employee participation, many companies are adopting less rigid organizational structures than before."],
+    
+    "1-4":[1,3,3,2],
+    "time":0,
+    "timeSec":0
+}

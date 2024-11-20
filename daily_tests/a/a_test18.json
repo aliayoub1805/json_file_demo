@@ -44,10 +44,10 @@
         "3":[
             "Although organic farming is often touted for its environmental benefits, it can also be more resource-intensive and less productive than conventional farming methods.",
             "(1) Organic farming is praised for its environmental advantages, yet it may require more resources and yield lower outputs compared to conventional farming.",
-            "(2) While organic agriculture is celebrated for being environmentally friendly, it often consumes more resources and is less productive than traditional farming practices.",
-            "(3) The benefits of organic farming for the environment are frequently emphasized, but it can also lead to increased resource use and lower productivity than conventional methods.",
-            "(4) Although organic farming has significant environmental benefits, it can also be resource-heavy and yield less compared to conventional agriculture."
-        ],"answers":[2,2,2],
+            "(2) Organic farming is celebrated for its environmental benefits, but it always requires fewer resources and produces more than conventional farming methods.",
+            "(3) Organic farming is widely considered more efficient than conventional farming because it uses fewer resources and results in higher yields.",
+            "(4) Organic farming is praised for being environmentally beneficial, but it is always less productive and more resource-consuming than traditional farming methods."
+        ],"answers":[2,2,1],
         
         "time":6
     }

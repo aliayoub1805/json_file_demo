@@ -1,0 +1,36 @@
+{
+    "1":[
+        "The rapid advancement of artificial intelligence has led to significant improvements in industries such as healthcare, finance, and education.",
+        "(1) Artificial intelligence is advancing quickly and benefiting several industries.",
+        "(2) Artificial intelligence has slowed down in industries such as healthcare, finance, and education.",
+        "(3) Artificial intelligence has not had much impact on healthcare, finance, or education.",
+        "(4) Artificial intelligence is only useful in healthcare, finance, and education."
+    ],
+    
+    "2":[
+        "Many people believe that the rise of electric vehicles will significantly reduce air pollution and dependence on fossil fuels.",
+        "(1) People are concerned that electric vehicles may contribute to air pollution.",
+        "(2) The rise of electric vehicles is expected to help reduce pollution and the use of fossil fuels.",
+        "(3) Electric vehicles have not been proven to reduce air pollution or fossil fuel dependence.",
+        "(4) People think that electric vehicles will increase fossil fuel use and air pollution."
+    ],
+    
+    "3":[
+        "While online shopping offers convenience, it also presents challenges such as security risks, delivery delays, and the impact on local businesses.",
+        "(1) Online shopping has only positive effects, making it a popular choice for many consumers.",
+        "(2) Online shopping is convenient, but it has drawbacks like security risks and its effect on local businesses.",
+        "(3) Security risks and delays are the only problems with online shopping.",
+        "(4) Shopping in physical stores is far better than online shopping in every way."
+    ],
+    
+    "4":[
+        "New research suggests that people who engage in mindfulness practices experience lower levels of stress and anxiety.",
+        "(1) Research shows that mindfulness practices are ineffective for managing stress and anxiety.",
+        "(2) Studies suggest that people who practice mindfulness may experience reduced stress and anxiety.",
+        "(3) SPeople who experience high stress should avoid mindfulness techniques.",
+        "(4) Mindfulness is primarily used for physical health, not mental health."],
+    
+    "1-4":[1,2,2,2],
+    "time":0,
+    "timeSec":0
+}

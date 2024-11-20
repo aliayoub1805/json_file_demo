@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The Great Wall of China, which stretches over 13,000 miles, was originally constructed to protect the Chinese Empire from invasions.",
+        "(1) The Great Wall of China was built to defend the empire from invasions and stretches over 13,000 miles.",
+        "(2) Stretching over 13,000 miles, the Great Wall of China was constructed to protect China from invasions.",
+        "(3) To protect China from invaders, the Great Wall of China was built, stretching over 13,000 miles.",
+        "(4) The Great Wall of China, over 13,000 miles long, was created to defend the Chinese Empire from invaders."
+    ],
+    
+    "10":[
+        "While fossil fuels have been essential to industrial growth, their continued use has been linked to environmental damage and global warming.",
+        "(1) Fossil fuels have contributed to industrial growth but are now linked to environmental harm and global warming.",
+        "(2) The continued use of fossil fuels has resulted in environmental damage and is connected to global warming.",
+        "(3) Fossil fuels have helped industrial growth, but their ongoing use has been associated with environmental destruction and global warming.",
+        "(4) The use of fossil fuels, essential for industrial growth, is now causing environmental damage and contributing to global warming."
+    ],
+    
+    "11":[
+        "In the 21st century, advances in technology have dramatically changed how people communicate, making it faster and easier than ever before.",
+        "(1) Technology has revolutionized communication, making it faster and easier for people to interact in the 21st century.",
+        "(2) People now communicate faster and more easily than ever before, thanks to advances in technology.",
+        "(3) The 21st century has brought technological advancements that have radically improved the speed and ease of communication.",
+        "(4) Communication in the 21st century is faster and easier than ever, due to technological innovations."
+    ],
+    
+    "12":[
+        "Despite the widespread belief that eating sugar leads directly to diabetes, many studies suggest that other factors, such as genetics and lifestyle, play a much larger role.",
+        "(1) While sugar consumption is linked to diabetes, genetics and lifestyle factors play a larger role in its development.",
+        "(2) Many studies challenge the idea that sugar directly causes diabetes, pointing to lifestyle and genetics as key contributors.",
+        "(3) Although sugar is often blamed for causing diabetes, studies show that genetics and lifestyle choices are more significant factors.",
+        "(4) Sugar consumption has long been thought to cause diabetes, but recent studies show that other factors are more responsible."],
+    
+    "9-12":[1,3,3,2]
+}

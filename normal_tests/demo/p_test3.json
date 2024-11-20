@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The Internet has revolutionized the way we communicate, allowing instant access to information and enabling people to connect across the globe.",
+        "(1) The Internet has transformed communication by providing immediate access to information and global connectivity.",
+        "(2) The Internet connects people worldwide and makes information instantly available, changing how we communicate.",
+        "(3) Thanks to the Internet, people can now communicate instantly and access vast amounts of information.",
+        "(4) The Internet has allowed people to communicate quickly and easily, bringing the world closer together."
+    ],
+    
+    "10":[
+        "Many experts believe that early childhood education is critical for a child’s development, as it lays the foundation for future academic and social success.",
+        "(1) Experts agree that early childhood education is essential for building a child's future academic and social abilities.",
+        "(2) Early childhood education plays a key role in a child’s development by preparing them for later academic and social achievements.",
+        "(3) Many specialists argue that the early years of education are fundamental in shaping a child’s future learning and social skills.",
+        "(4) Early education is essential for a child's development, providing a strong base for their later academic and social life."
+    ],
+    
+    "11":[
+        "Despite the challenges posed by globalization, many businesses have successfully adapted by embracing new technologies and rethinking traditional business models to meet the evolving needs of consumers.",
+        "(1) Although globalization presents challenges, many businesses have adjusted by adopting new technologies and innovating their business models to cater to changing consumer demands.",
+        "(2) The rise of globalization has forced businesses to rethink their models and adopt advanced technologies to stay relevant in the market.",
+        "(3) Many companies have managed to thrive amid globalization by incorporating new technologies and modifying their strategies to fulfill customer needs.",
+        "(4) In the face of globalization’s challenges, businesses have flourished by embracing new technologies and adapting their business strategies to fit evolving consumer preferences."
+    ],
+    
+    "12":[
+        "Although the effects of climate change are becoming more visible and widespread, some governments continue to hesitate in taking the necessary actions, citing economic and political challenges as their primary concerns.",
+        "(1) Despite the clear and growing impact of climate change, many governments remain reluctant to act, prioritizing economic and political concerns.",
+        "(2) The visible consequences of climate change have led to widespread concerns, but some governments hesitate to act due to economic and political barriers.",
+        "(3) Although climate change effects are increasingly evident, certain governments are still unwilling to take decisive action, citing economic and political difficulties as reasons.",
+        "(4) Governments around the world recognize the urgency of climate change, but they are delayed in responding due to the economic and political obstacles they face."],
+    
+    "9-12":[2,3,4,1]
+}

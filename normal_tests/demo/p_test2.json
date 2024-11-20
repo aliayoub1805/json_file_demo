@@ -1,0 +1,34 @@
+{
+    "9":[
+        "While eating a balanced diet is essential for good health, regular physical activity is just as important for maintaining overall well-being.",
+        "(1) A healthy diet and regular exercise are equally crucial for good health and overall well-being.",
+        "(2) Eating a balanced diet alone is not enough for good health; physical activity is equally necessary.",
+        "(3) A balanced diet contributes to good health, but regular physical exercise plays an equally important role.",
+        "(4) Although eating well is vital, staying physically active is just as important for maintaining health."
+    ],
+    
+    "10":[
+        "The advent of smartphones has significantly changed the way we interact with technology, making it more accessible and convenient for everyday use.",
+        "(1) Smartphones have made technology more accessible, allowing people to use it conveniently in their daily lives.",
+        "(2) The introduction of smartphones has led to easier interaction with technology, providing convenient access to many services.",
+        "(3) With smartphones, people can now interact with technology more easily, which has improved daily life convenience.",
+        "(4) The arrival of smartphones has made using technology much easier, bringing it into our everyday routines."
+    ],
+    
+    "11":[
+        "The growing concern over climate change has led to widespread discussions about the need for alternative energy sources and sustainable development practices in order to mitigate environmental damage.",
+        "(1) The focus on alternative energy sources and sustainable development has intensified as a result of the increasing worry over climate change and environmental damage.",
+        "(2) As climate change becomes a more pressing issue, there is a greater emphasis on developing alternative energy sources and sustainable practices to reduce environmental harm.",
+        "(3) With the growing concerns about climate change, many are advocating for the use of alternative energy sources and sustainable development to minimize environmental damage.",
+        "(4) Discussions about the need for alternative energy sources and sustainability have become more urgent due to the environmental threats posed by climate change."
+    ],
+    
+    "12":[
+        "Despite the significant advances in medical science, many regions around the world still lack adequate healthcare facilities and trained professionals, which contributes to disparities in global health outcomes.",
+        "(1) The disparity in global health outcomes can be attributed to the insufficient number of healthcare professionals and facilities in many regions, despite medical advancements.",
+        "(2) Despite substantial medical progress, numerous regions continue to suffer from a lack of adequate healthcare resources, leading to inequities in health across the globe.",
+        "(3) Even though medical science has made great strides, the unequal distribution of healthcare resources and skilled professionals causes significant disparities in health outcomes worldwide.",
+        "(4) Although medical advancements have improved health, many parts of the world still face challenges in providing sufficient healthcare, which leads to differences in global health outcomes."],
+    
+    "9-12":[3,1,2,3]
+}

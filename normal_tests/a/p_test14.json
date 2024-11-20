@@ -1,0 +1,34 @@
+{
+    "9":[
+        "Despite the fact that online shopping offers convenience, many people still prefer visiting physical stores to experience the products before making a purchase.",
+        "(1) Online shopping provides convenience, but some people prefer visiting stores to see the products in person.",
+        "(2) Even though online shopping is convenient, many still choose to visit stores and check the items before buying.",
+        "(3) The convenience of online shopping hasn’t stopped people from going to physical stores to check products firsthand.",
+        "(4) People enjoy the convenience of online shopping, but they still prefer to inspect products before buying them."
+    ],
+    
+    "10":[
+        "he introduction of electric vehicles has been hailed as a significant step towards reducing environmental pollution, but the widespread adoption of these vehicles depends on solving challenges like charging infrastructure and battery life.",
+        "(1) Electric vehicles are seen as crucial in fighting pollution, but challenges such as limited charging options and battery concerns still hinder their widespread adoption.",
+        "(2) While electric cars are essential for reducing pollution, widespread use is limited by challenges such as short battery life and the lack of charging stations.",
+        "(3) Electric vehicles reduce environmental pollution, but they face barriers like poor charging infrastructure and short battery lifespan that prevent mass adoption.",
+        "(4) Though electric vehicles help reduce pollution, the lack of infrastructure and short battery life limit their widespread use."
+    ],
+    
+    "11":[
+        "The discovery of the ancient manuscript not only shed light on the lost history of the civilization, but also provided valuable insights into the culture, art, and daily life of the people.",
+        "(1) The ancient manuscript helped historians uncover lost historical facts and gain a deeper understanding of the art, culture, and lifestyle of the civilization.",
+        "(2) The ancient manuscript uncovered lost historical records and provided important details about the cultural, artistic, and social life of the people.",
+        "(3) By revealing lost historical information, the manuscript also gave us critical insights into the cultural practices, art, and daily activities of the civilization.",
+        "(4) The manuscript uncovered long-forgotten history, offering profound insights into the art, daily life, and culture of the ancient people."
+    ],
+    
+    "12":[
+        "While regular exercise is known to promote good health, it is equally important to balance physical activity with sufficient rest to allow the body to recover and prevent injury.",
+        "(1) Exercise is crucial for maintaining good health, but it’s important to also rest in order to recover and avoid injuries.",
+        "(2) While exercising regularly helps maintain health, taking time to rest is equally important to avoid overexertion and injury.",
+        "(3) Good health depends on regular exercise, but balancing it with rest is key to preventing harm and ensuring recovery.",
+        "(4) Exercise improves health, but not resting enough can lead to injury, so it is important to balance both for optimal well-being."],
+    
+    "9-12":[2,3,2,2]
+}

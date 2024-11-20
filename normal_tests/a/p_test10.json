@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The Amazon Rainforest is known for its vast biodiversity, housing millions of plant and animal species.",
+        "(1) The Amazon Rainforest is famous for its variety of plant and animal species.",
+        "(2) Millions of plant and animal species live in the Amazon Rainforest, which is known for its biodiversity.",
+        "(3) The Amazon Rainforest contains a large number of different plant and animal species.",
+        "(4) Known for its vast biodiversity, the Amazon Rainforest is home to millions of plant and animal species."
+    ],
+    
+    "10":[
+        "The internet has drastically changed how people communicate, work, and access information.",
+        "(1) The internet has transformed the way people communicate, work, and gather information.",
+        "(2) People now communicate and work differently because of the internet, which has also changed how we access information.",
+        "(3) With the internet, communication, work, and access to information have all undergone drastic changes.",
+        "(4) The internet has revolutionized communication, working habits, and information access."
+    ],
+    
+    "11":[
+        "Albert Einstein's theory of relativity changed the way we understand the concepts of space, time, and gravity, revolutionizing modern physics.",
+        "(1) Einstein's theory of relativity reshaped modern physics by changing our understanding of space, time, and gravity.",
+        "(2) By revolutionizing modern physics, Einstein’s theory of relativity changed how we view space, time, and gravity.",
+        "(3) The theory of relativity proposed by Einstein altered our understanding of space, time, and gravity, leading to a revolution in modern physics.",
+        "(4) Space, time, and gravity were redefined by Einstein's theory of relativity, which revolutionized modern physics."
+    ],
+    
+    "12":[
+        "The collapse of the Soviet Union in 1991 marked the end of the Cold War, leading to significant political and economic changes worldwide.",
+        "(1) The end of the Cold War in 1991, with the collapse of the Soviet Union, triggered major political and economic shifts worldwide.",
+        "(2) The Soviet Union’s collapse in 1991 signified the conclusion of the Cold War, causing widespread political and economic changes.",
+        "(3) When the Soviet Union collapsed in 1991, it marked the end of the Cold War and led to global political and economic transformations.",
+        "(4) The collapse of the Soviet Union in 1991 marked a turning point, signaling the end of the Cold War and resulting in global political and economic changes."],
+    
+    "9-12":[4,1,1,3]
+}

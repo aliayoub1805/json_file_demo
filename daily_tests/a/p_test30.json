@@ -1,0 +1,34 @@
+{
+    "9":[
+        "Many people find that exercising outdoors has a positive impact on both their physical health and mental well-being.",
+        "(1) Outdoor exercise is beneficial for both physical health and mental well-being, which is why many people enjoy it.",
+        "(2) People often find that outdoor exercise improves both physical health and mental well-being.",
+        "(3) Many people enjoy exercising outdoors because it positively affects both their physical health and mental well-being.",
+        "(4) The positive effects of outdoor exercise on physical health and mental well-being are widely acknowledged."
+    ],
+    
+    "10":[
+        "In the digital age, social media platforms have become powerful tools for connecting people across the globe, though they also come with certain risks such as privacy concerns and misinformation.",
+        "(1) Social media platforms connect people globally, but they also raise important issues such as privacy concerns and misinformation.",
+        "(2) While social media platforms help connect people worldwide, they can also create risks, including privacy issues and misinformation.",
+        "(3) Despite the global connectivity offered by social media, these platforms come with serious risks related to privacy and misinformation.",
+        "(4) Social media platforms, though useful for global connections, can contribute to risks like privacy concerns and misinformation."
+    ],
+    
+    "11":[
+        "The rapid advancement of technology has fundamentally altered the way we work, live, and communicate, creating both opportunities and challenges for society.",
+        "(1) Technology's rapid progress has reshaped work, life, and communication, presenting both opportunities and challenges for society.",
+        "(2) The fast pace of technological advancement has drastically changed the way we live, work, and communicate, bringing both benefits and difficulties.",
+        "(3) With the rapid development of technology, society faces both new opportunities and challenges in work, life, and communication.",
+        "(4) The profound changes in how we work, live, and communicate, driven by technology, come with both advantages and obstacles."
+    ],
+    
+    "12":[
+        "Climate change, fueled by human activity, presents one of the most significant challenges of our time, requiring urgent action to mitigate its effects on the environment, economy, and society.",
+        "(1) Human activity has caused climate change, which now poses a serious challenge requiring immediate action to protect the environment, economy, and society.",
+        "(2) Climate change, driven by human activity, is a critical challenge that requires urgent efforts to minimize its impact on the environment, economy, and society.",
+        "(3) The most pressing issue of our time is climate change, caused by human activity, which demands swift action to reduce its negative effects on all aspects of life.",
+        "(4) Climate change, resulting from human actions, is one of the most urgent global challenges, with far-reaching consequences for the environment, economy, and society."],
+    
+    "9-12":[2,2,3,2]
+}

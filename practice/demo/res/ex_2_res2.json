@@ -1,0 +1,36 @@
+{
+    "1":[
+        "Despite the high cost of organic food, many people choose to buy it because they believe it is healthier and better for the environment.",
+        "(1) Organic food is expensive, but people still buy it because they think it is healthier and better for the environment.",
+        "(2) Most people avoid organic food because it is too expensive.",
+        "(3) Organic food is cheaper than other food, and it is healthy for the environment.",
+        "(4) People buy organic food because it is the most affordable option available."
+    ],
+    
+    "2":[
+        "Technological advancements in renewable energy sources, such as wind and solar power, have significantly reduced reliance on fossil fuels.",
+        "(1) The development of renewable energy sources has helped reduce the use of fossil fuels.",
+        "(2) Wind and solar power are no longer important for energy production.",
+        "(3) Renewable energy is only used to supplement fossil fuel consumption.",
+        "(4) Fossil fuels have been completely replaced by wind and solar energy."
+    ],
+    
+    "3":[
+        "Although the novel received mixed reviews, its exploration of societal issues was praised by critics.",
+        "(1) Critics focused mostly on the negative aspects of the novel and ignored its exploration of societal issues.",
+        "(2) The novel was universally praised for its exploration of societal issues.",
+        "(3) The novel was poorly received overall, but it did well in exploring societal issues.",
+        "(4) Critics found the novel to be lacking in exploring societal issues."
+    ],
+    
+    "4":[
+        "While exercising regularly is important for physical health, a balanced diet plays a more significant role in maintaining overall well-being.",
+        "(1) Exercise is more important than a balanced diet for maintaining health.",
+        "(2) A balanced diet is less important than exercise for maintaining overall well-being.",
+        "(3) Both exercise and a balanced diet are equally important for good health.",
+        "(4) Exercise is important for health, but a balanced diet is even more crucial for well-being."],
+    
+    "1-4":[3,1,4,4],
+    "time":0,
+    "timeSec":0
+}

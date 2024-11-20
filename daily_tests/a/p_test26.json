@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The development of genetically modified (GM) crops has led to higher agricultural yields and resistance to pests, but concerns about their long-term environmental effects and potential health risks remain.",
+        "(1) GM crops have no environmental impact and are completely safe for human consumption.",
+        "(2) While GM crops offer higher yields and pest resistance, concerns about their environmental impact and health risks continue to persist.",
+        "(3) GM crops are primarily harmful, causing environmental damage and posing health risks without any benefits.",
+        "(4) The widespread use of GM crops has resolved all agricultural challenges with no significant concerns about health or the environment."
+    ],
+    
+    "10":[
+        "The rise in remote work has offered employees greater flexibility and a better work-life balance, but it has also led to feelings of isolation and challenges in team collaboration.",
+        "(1) Remote work has no negative consequences and has only improved productivity and teamwork.",
+        "(2) Remote work is not beneficial as it results in decreased productivity and worsens work-life balance.",
+        "(3) While remote work provides flexibility and work-life balance, it also brings challenges such as isolation and difficulties with team collaboration.",
+        "(4) Remote work has completely eliminated the challenges of team collaboration and isolation, leading to better work outcomes."
+    ],
+    
+    "11":[
+        "The increasing use of automation in various industries has streamlined processes and boosted efficiency, but it has also raised concerns about job loss and the future of the workforce.",
+        "(1) Automation only benefits industries by improving efficiency and eliminating concerns about job loss.",
+        "(2) While automation enhances efficiency, it also brings concerns about job displacement and the future of employment in various sectors.",
+        "(3) Automation has no impact on efficiency and mainly harms workers by replacing them with machines.",
+        "(4) Automation does not pose any challenges to the workforce and has no negative effects on employment."
+    ],
+    
+    "12":[
+        "The increasing popularity of plant-based diets has health benefits, such as reducing the risk of certain diseases, but it also requires careful planning to ensure adequate nutrition.",
+        "(1) Plant-based diets have no health benefits and do not require any careful planning or nutritional considerations.",
+        "(2) Plant-based diets are harmful to health and require no planning to maintain nutritional balance.",
+        "(3) Plant-based diets are always healthy and require no adjustments or planning for nutritional needs.",
+        "(4) While plant-based diets offer health benefits, they also require thoughtful planning to ensure proper nutrition."],
+    
+    "9-12":[2,3,2,4]
+}

@@ -1,0 +1,36 @@
+{
+    "1":[
+        "The Amazon rainforest plays a crucial role in regulating the Earth's climate by absorbing carbon dioxide and producing oxygen.",
+        "(1) The Amazon rainforest is important for controlling the Earth's temperature and producing oxygen.",
+        "(2) The Amazon rainforest produces oxygen and helps in controlling the weather patterns globally.",
+        "(3) The Amazon rainforest absorbs carbon dioxide and releases oxygen, which helps in climate regulation.",
+        "(4) The Amazon rainforest is mainly known for its large number of plant species and trees."
+    ],
+    
+    "2":[
+        "Although artificial intelligence (AI) has made significant advancements, many experts still believe human intuition and decision-making cannot be fully replaced by machines.",
+        "(1) AI has advanced greatly, but human intuition is something machines cannot replicate.",
+        "(2) Artificial intelligence can replace human intuition in many aspects, although not in all areas.",
+        "(3) Despite AI advancements, many people think human decision-making is still superior to machines.",
+        "(4) Artificial intelligence can completely replace human intuition in decision-making processes."
+    ],
+    
+    "3":[
+        "Climate change is a global issue that requires immediate action, with scientists warning that failure to act may result in irreversible damage to the environment.",
+        "(1) Climate change needs immediate attention, as ignoring it could lead to irreversible environmental damage.",
+        "(2) Climate change has become a pressing issue, and action should be taken to reduce environmental harm.",
+        "(3) Failure to address climate change may result in irreversible damage, according to many scientists.",
+        "(4) Climate change has caused irreversible environmental damage, which is now beyond repair."
+    ],
+    
+    "4":[
+        "The introduction of social media has drastically changed how people communicate, with some experts arguing that it has altered the dynamics of personal relationships and social interactions.",
+        "(1) Social media has fundamentally changed communication, but some believe it has impacted personal relationships negatively.",
+        "(2) The rise of social media has caused a shift in how people interact with each other, altering traditional relationships.",
+        "(3) Experts argue that social media has not affected personal relationships or social behavior at all.",
+        "(4) While social media has changed communication, it has not affected relationships or social behavior significantly."],
+    
+    "1-4":[3,1,1,2],
+    "time":0,
+    "timeSec":0
+}

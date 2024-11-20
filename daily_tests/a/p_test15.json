@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The Amazon rainforest is home to an incredible variety of plant and animal species, many of which are found nowhere else on Earth.",
+        "(1) The Amazon rainforest has a relatively simple ecosystem with only a few species of plants and animals.",
+        "(2) The Amazon is known for its diverse species of plants and animals, many of which are unique to this region.",
+        "(3) Most of the plant and animal species in the Amazon rainforest are similar to those found in other tropical forests.",
+        "(4) The Amazon rainforest is barren, with few species of plants and animals."
+    ],
+    
+    "10":[
+        "The Eiffel Tower, completed in 1889 for the Paris World's Fair, was initially criticized for its design but has since become one of the most recognizable landmarks in the world.",
+        "(1) The Eiffel Tower was universally admired from the moment it was built.",
+        "(2) The Eiffel Tower was built as a temporary structure and was later demolished.",
+        "(3) Though criticized at first, the Eiffel Tower is now considered a symbol of Paris and one of the world's most famous landmarks.",
+        "(4) The Eiffel Tower was initially praised for its design, but has since been criticized for its unattractiveness."
+    ],
+    
+    "11":[
+        "The discovery of penicillin in 1928 revolutionized medicine by introducing the first effective antibiotic, leading to the treatment of bacterial infections that were once fatal.",
+        "(1) Penicillin was discovered in 1928 but was quickly replaced by other, more effective antibiotics.",
+        "(2) The discovery of penicillin marked a turning point in medicine, enabling doctors to treat many once-deadly bacterial infections.",
+        "(3) Penicillin was discovered in 1928 but had little impact on the treatment of bacterial infections.",
+        "(4) Penicillin was discovered in the early 1900s, but it was not until the 1970s that it was widely used in medicine."
+    ],
+    
+    "12":[
+        "The Internet has transformed the way people communicate, making it possible for individuals to connect instantly across the globe.",
+        "(1) The Internet has made communication slower and less reliable.",
+        "(2) The Internet has revolutionized global communication by allowing people to connect with each other instantly.",
+        "(3) The Internet has had no significant impact on the way people communicate.",
+        "(4) The Internet has only improved communication within individual countries, not globally."],
+    
+    "9-12":[2,3,2,2]
+}

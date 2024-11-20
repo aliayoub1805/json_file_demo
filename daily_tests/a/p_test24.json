@@ -1,0 +1,34 @@
+{
+    "9":[
+        "While automation has greatly improved productivity in manufacturing, it has also raised concerns about job displacement and the need for retraining workers.",
+        "(1) Automation has only positive effects on productivity and employment, with no need for worker retraining.",
+        "(2) Automation has led to greater productivity but also poses challenges regarding job loss and the retraining of workers.",
+        "(3) The main problem with automation is its inability to improve productivity or create new jobs for displaced workers.",
+        "(4) The rise of automation has not impacted employment or productivity in any meaningful way."
+    ],
+    
+    "10":[
+        "Although online education offers flexibility and access to a wider range of courses, it has been criticized for lacking the personal interaction and engagement found in traditional classroom settings.",
+        "(1) Online education is entirely beneficial, as it provides all the necessary interaction and engagement for students.",
+        "(2) Online education provides flexibility and a variety of courses, but it may lack the personal interaction of traditional education.",
+        "(3) Traditional classroom settings offer more flexibility and access to courses compared to online education.",
+        "(4) Online education is ineffective because it does not offer any of the benefits of traditional classroom experiences."
+    ],
+    
+    "11":[
+        "The increasing reliance on social media has allowed people to connect globally, but it has also contributed to the spread of misinformation and created challenges for privacy and mental health.",
+        "(1) Social media’s impact has been solely negative, causing widespread misinformation and harm to privacy and mental health.",
+        "(2) Social media only has positive effects on communication and has no real impact on privacy or mental health.",
+        "(3) While social media enables global connections, it also raises significant concerns about misinformation, privacy, and mental health.",
+        "(4) The rise of social media has made privacy and mental health issues obsolete, with no negative consequences."
+    ],
+    
+    "12":[
+        "Despite the promise of renewable energy sources, such as solar and wind power, the transition to these technologies faces significant hurdles in terms of cost, infrastructure, and storage capacity.",
+        "(1) Renewable energy sources are inexpensive and easy to implement, with no significant infrastructure challenges.",
+        "(2) The transition to renewable energy is simple, inexpensive, and free from any major challenges.",
+        "(3) Renewable energy has no major hurdles to overcome and will easily replace traditional energy sources without significant cost or infrastructure issues.",
+        "(4) While renewable energy sources are vital for sustainability, the transition to them is hindered by issues like cost, infrastructure, and energy storage."],
+    
+    "9-12":[2,2,3,4]
+}

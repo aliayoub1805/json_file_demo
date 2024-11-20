@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The Eiffel Tower in Paris was initially criticized for its design, but it has become one of the most iconic structures in the world.",
+        "(1) The Eiffel Tower was initially disliked due to its design but is now an iconic symbol of Paris.",
+        "(2) Initially criticized for its design, the Eiffel Tower has grown into one of the world's most iconic structures.",
+        "(3) The Eiffel Tower, though initially unpopular for its design, is now one of the most recognizable landmarks worldwide.",
+        "(4) Despite its early criticism, the Eiffel Tower has become a global symbol of Paris."
+    ],
+    
+    "10":[
+        "Despite its reputation as an expensive luxury, solar energy is becoming increasingly affordable and accessible to homeowners.",
+        "(1) Solar energy, once considered a luxury, is now more affordable and accessible to many homeowners.",
+        "(2) While solar energy was once viewed as costly, it is gradually becoming more affordable for homeowners.",
+        "(3) Though initially an expensive luxury, solar energy is becoming more accessible and affordable for average homeowners.",
+        "(4) The affordability of solar energy is increasing, and it is now within reach for many homeowners."
+    ],
+    
+    "11":[
+        "Although urbanization has led to economic growth, it has also caused significant environmental challenges, including pollution and habitat loss.",
+        "(1) Urbanization, while boosting economic growth, has caused considerable environmental issues, such as pollution and habitat destruction.",
+        "(2) The rapid growth of cities has brought economic benefits, but it also presents severe environmental challenges like pollution and habitat loss.",
+        "(3) Despite the economic growth it brings, urbanization is associated with major environmental concerns, including pollution and the loss of habitats.",
+        "(4) Economic growth due to urbanization has come with environmental challenges, such as pollution and the destruction of natural habitats."
+    ],
+    
+    "12":[
+        "The human brain is incredibly adaptable, with the ability to reorganize itself in response to learning or injury, a characteristic known as neuroplasticity.",
+        "(1) Neuroplasticity refers to the brain's ability to reorganize itself in response to learning or injury, showcasing its adaptability.",
+        "(2) The human brain's remarkable adaptability, known as neuroplasticity, enables it to reorganize in response to injury or learning.",
+        "(3) Known as neuroplasticity, the human brain can reorganize itself after an injury or as it learns new information, demonstrating its adaptability.",
+        "(4) Neuroplasticity is the brain's ability to reorganize itself, adapting to both learning and injury."],
+    
+    "9-12":[2,1,3,1]
+}

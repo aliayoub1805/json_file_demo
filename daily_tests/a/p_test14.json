@@ -1,34 +1,34 @@
 {
     "9":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4) "
+        "The artist Pablo Picasso was known for his innovative use of shapes and colors, which revolutionized modern art.",
+        "(1) Picasso’s art is popular for its realistic portrayal of subjects.",
+        "(2) Picasso’s style focused on abstract shapes and vibrant colors, which changed the way art was created.",
+        "(3) Picasso was famous for his ability to paint portraits with extraordinary accuracy.",
+        "(4) Picasso’s works were mostly monochromatic and somber, focusing on somber themes."
     ],
     
     "10":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4) "
+        "The Sahara Desert, known for its extreme heat and vast size, is one of the largest deserts in the world.",
+        "(1) The Sahara Desert is smaller than many other deserts and has a mild climate.",
+        "(2) The Sahara Desert is an expansive desert that experiences intense heat and covers a large part of northern Africa.",
+        "(3) The Sahara is known for being the coldest desert in the world.",
+        "(4) The Sahara Desert is a small desert located primarily in South America."
     ],
     
     "11":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4) "
+        "The theory of evolution, proposed by Charles Darwin, explains how species change over time through the process of natural selection.",
+        "(1) Charles Darwin's theory of evolution suggests that species remain unchanged over time due to genetic stability.",
+        "(2) Charles Darwin’s theory focuses on how species adapt and evolve due to natural selection, with advantageous traits being passed on.",
+        "(3) The theory of evolution claims that animals spontaneously generate and appear without any genetic changes.",
+        "(4) Darwin's work primarily dealt with how species were created, rather than how they evolved."
     ],
     
     "12":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4) "],
+        "The Great Wall of China, which was built to protect the country from invasions, stretches over 13,000 miles across northern China.",
+        "(1) The Great Wall of China was constructed as a symbol of peace, rather than for protection from invaders.",
+        "(2) The Great Wall of China is a relatively short structure, with a length of about 1,000 miles.",
+        "(3) The Great Wall of China is an impressive, long structure, originally built to defend against invasions, extending for thousands of miles.",
+        "(4) The Great Wall of China is located in the southern part of the country and has no historical significance."],
     
-    "9-12":[]
+    "9-12":[2,2,2,3]
 }

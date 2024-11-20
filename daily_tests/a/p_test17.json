@@ -1,0 +1,34 @@
+{
+    "9":[
+        "A study has shown that exposure to nature can significantly reduce stress and improve mental well-being.",
+        "(1) Spending time in nature has no measurable effect on mental health.",
+        "(2) Research suggests that exposure to natural environments can reduce stress and enhance mental well-being.",
+        "(3) Nature exposure is linked to physical health improvements, but not mental health benefits.",
+        "(4) The study concluded that urban environments are better for mental well-being than natural settings."
+    ],
+    
+    "10":[
+        "The introduction of automation in the manufacturing industry has led to increased efficiency and lower production costs.",
+        "(1) Automation in manufacturing has made production more expensive and less efficient.",
+        "(2) The use of automation has improved manufacturing efficiency and reduced costs.",
+        "(3) Automation has had no effect on manufacturing efficiency or production costs.",
+        "(4) The manufacturing industry has become less efficient as a result of automation."
+    ],
+    
+    "11":[
+        "Recent archaeological findings suggest that the ancient Egyptians were much more advanced in their understanding of medicine than previously thought.",
+        "(1) The ancient Egyptians had a limited understanding of medicine compared to other ancient civilizations.",
+        "(2) Recent findings suggest that the ancient Egyptians were less skilled in medicine than their contemporaries.",
+        "(3) The ancient Egyptians focused mainly on spiritual healing rather than physical medicine.",
+        "(4) New archaeological evidence indicates that ancient Egyptians had a surprisingly advanced knowledge of medicine."
+    ],
+    
+    "12":[
+        "Scientists have developed a new type of plastic that can break down in the environment without causing harm to ecosystems.",
+        "(1) The new plastic is designed to remain in the environment for extended periods without breaking down.",
+        "(2) The new plastic is not biodegradable and can accumulate in ecosystems indefinitely.",
+        "(3) This new type of plastic is harmful to ecosystems but can be safely used in urban environments.",
+        "(4) Scientists have created a biodegradable plastic that is safer for the environment and ecosystems."],
+    
+    "9-12":[2,2,4,4]
+}

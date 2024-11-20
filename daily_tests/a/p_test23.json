@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The increasing reliance on digital technologies has transformed the workplace, enabling remote work and collaboration, but it has also led to concerns about data privacy and security.",
+        "(1) Digital technologies have had no significant impact on the workplace, and remote work is still uncommon.",
+        "(2) While digital technologies have enabled more flexible work arrangements, they also raise important concerns about privacy and data security.",
+        "(3) The rise of digital technologies has primarily improved workplace efficiency without any negative consequences.",
+        "(4) Remote work is the only significant outcome of digital technologies, and there are no notable concerns about privacy or security."
+    ],
+    
+    "10":[
+        "Despite the significant economic growth in many emerging markets, income inequality remains a major issue, with a growing divide between the rich and the poor.",
+        "(1) Economic growth in emerging markets has completely eliminated income inequality, leading to equal wealth distribution.",
+        "(2) Income inequality has decreased in emerging markets due to wealth redistribution policies.",
+        "(3) The economic growth in emerging markets has not affected income inequality, which remains unchanged.",
+        "(4) While emerging markets have seen economic growth, income inequality continues to be a significant issue, with a widening wealth gap."
+    ],
+    
+    "11":[
+        "The widespread use of artificial intelligence (AI) in various industries has the potential to increase efficiency and innovation, but it also raises ethical concerns about job displacement and decision-making transparency.",
+        "(1) AI's role in increasing efficiency and innovation has been entirely positive, with no ethical concerns.",
+        "(2) The use of AI is mostly focused on replacing human workers, with little consideration for ethical concerns.",
+        "(3) While AI can improve efficiency and innovation, it also raises ethical concerns related to job displacement and transparency in decision-making processes.",
+        "(4) AI has little impact on industries, and its role in decision-making processes remains irrelevant to most sectors."
+    ],
+    
+    "12":[
+        "Increased urbanization has contributed to economic growth in many cities, but it has also led to challenges such as overcrowding, strain on infrastructure, and environmental degradation.",
+        "(1) Urbanization has had no impact on economic growth, and cities are increasingly empty due to migration.",
+        "(2) Urbanization has been entirely beneficial, leading to better living conditions and no negative effects on cities.",
+        "(3) The primary result of urbanization has been environmental degradation, with no economic benefits.",
+        "(4) While urbanization has driven economic growth, it has also caused challenges such as overcrowding, infrastructure strain, and environmental harm."],
+    
+    "9-12":[2,4,3,4]
+}

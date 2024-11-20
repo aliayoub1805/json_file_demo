@@ -1,0 +1,34 @@
+{
+    "9":[
+        "Water covers about 71% of the Earth's surface, with oceans making up about 96.5% of the Earth's water.",
+        "(1) Oceans make up the majority of the Earth's water, covering 71% of the Earth's surface.",
+        "(2) About 71% of Earth's surface is covered by water, most of which is found in oceans.",
+        "(3) Earth’s oceans contain most of the planet's water, covering 71% of its surface.",
+        "(4) Oceans cover 71% of the Earth's surface, and most of the planet’s water is in the oceans."
+    ],
+    
+    "10":[
+        "While many people believe that all plants need direct sunlight to grow, some species actually thrive in low-light conditions.",
+        "(1) Some plants grow well in the shade, contrary to the belief that all plants need sunlight to survive.",
+        "(2) While direct sunlight is important for most plants, some species are better suited for low-light environments.",
+        "(3) It is commonly believed that plants need sunlight, but certain species can grow even in dim lighting.",
+        "(4) Many plants require sunlight to thrive, but others can adapt to environments with little light."
+    ],
+    
+    "11":[
+        "The expansion of urban areas is causing a rise in pollution, with cities contributing significantly to the overall increase in greenhouse gas emissions globally.",
+        "(1) As cities continue to grow, they contribute heavily to pollution, leading to higher global greenhouse gas emissions.",
+        "(2) The rapid growth of urban centers is contributing to pollution levels and the increase in greenhouse gas emissions worldwide.",
+        "(3) Urban expansion is accelerating pollution and increasing global greenhouse gas emissions, as cities contribute to environmental damage.",
+        "(4) While urban areas expand, their contribution to pollution and global greenhouse gas emissions is increasing at an alarming rate."
+    ],
+    
+    "12":[
+        "Although renewable energy sources such as solar and wind power are increasingly cost-effective, many nations are still heavily reliant on fossil fuels due to their established infrastructure and lower initial costs.",
+        "(1) While renewable energy is becoming cheaper, many countries continue to rely on fossil fuels because of their established systems and low start-up costs.",
+        "(2) Despite the growing affordability of solar and wind power, fossil fuels are still favored by many nations because of their low cost and existing infrastructure.",
+        "(3) Renewable energy is increasingly cost-effective, but many nations remain dependent on fossil fuels due to the high cost of switching infrastructure.",
+        "(4) Even though renewable energy is more affordable, fossil fuels continue to dominate in many countries due to lower initial costs and established energy systems."],
+    
+    "9-12":[2,3,2,4]
+}

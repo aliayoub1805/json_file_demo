@@ -1,0 +1,36 @@
+{
+    "1":[
+        "The film's gripping plot, combined with stellar performances, kept the audience engaged from start to finish.",
+        "(1) The film was boring and failed to capture the audience's attention.",
+        "(2) The performances were good, but the plot was weak.",
+        "(3) The film was engaging because of its compelling plot and excellent performances.",
+        "(4) The audience lost interest in the film halfway through."
+    ],
+    
+    "2":[
+        "Despite being widely regarded as one of the most talented musicians of his generation, his lack of formal training has often been seen as a limitation.",
+        "(1) His lack of formal training has overshadowed his talent as a musician.",
+        "(2) His musical talent is widely recognized, but people believe his lack of training hinders him.",
+        "(3) People view his formal training as more important than his talent.",
+        "(4) His lack of formal training makes him less talented than other musicians."
+    ],
+    
+    "3":[
+        "While the internet has revolutionized communication, it has also created challenges such as misinformation and privacy concerns.",
+        "(1) The internet has solved all communication problems but has introduced new challenges.",
+        "(2) The internet has improved communication but also brought about issues like misinformation and privacy concerns.",
+        "(3) Communication has been unaffected by the rise of the internet, as it has only created privacy issues.",
+        "(4) Misinformation and privacy concerns are the only problems caused by the internet’s impact on communication."
+    ],
+    
+    "4":[
+        "Many historians argue that the economic stability of a country is directly linked to its education system, which prepares future generations for the workforce.",
+        "(1) The education system is unimportant for a country’s economic stability.",
+        "(2) A strong education system ensures the economic success of future generations.",
+        "(3) Education is irrelevant when it comes to a country’s economic stability.",
+        "(4) Economic stability is determined solely by the current workforce, not future generations."],
+    
+    "1-4":[3,2,2,2],
+    "time":0,
+    "timeSec":0
+}

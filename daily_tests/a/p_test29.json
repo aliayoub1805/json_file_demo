@@ -1,0 +1,34 @@
+{
+    "9":[
+        "Chocolate contains compounds that can improve mood and reduce stress, making it a popular treat for comfort.",
+        "(1) Many people turn to chocolate for comfort because it can help improve mood and reduce stress.",
+        "(2) Chocolate’s mood-boosting compounds make it a popular comfort food for people seeking stress relief.",
+        "(3) Chocolate is often used for comfort because it has compounds that help reduce stress and improve mood.",
+        "(4) Stress reduction and mood improvement are two key reasons why chocolate is so widely consumed for comfort."
+    ],
+    
+    "10":[
+        "While many people fear change, embracing it can lead to growth, new opportunities, and the discovery of strengths previously unknown.",
+        "(1) Change often brings personal growth, new opportunities, and the discovery of hidden strengths, despite the common fear it evokes.",
+        "(2) Many people are afraid of change, but overcoming this fear can lead to discovering new strengths and opportunities for growth.",
+        "(3) Embracing change can lead to personal growth and uncover strengths that were previously unknown, despite its initial fear.",
+        "(4) Change can lead to discovering new strengths, new opportunities, and personal growth, though it is often feared by many."
+    ],
+    
+    "11":[
+        "The concept of time has evolved significantly throughout history, with different cultures and civilizations measuring it in various ways to suit their needs.",
+        "(1) Different civilizations have measured time in unique ways, adapting their concepts of it to suit their societal needs throughout history.",
+        "(2) The concept of time has been understood and measured in diverse ways throughout history by different cultures and civilizations.",
+        "(3) Throughout history, the measurement of time has varied greatly across different cultures, each adapting it to their needs.",
+        "(4) Time has been measured differently by various civilizations throughout history, reflecting each society’s unique approach to understanding it."
+    ],
+    
+    "12":[
+        "Artificial intelligence, while offering tremendous potential, also raises significant ethical concerns, particularly regarding privacy, job displacement, and decision-making autonomy.",
+        "(1) The ethical concerns surrounding artificial intelligence, such as privacy issues and job displacement, are significant despite its potential benefits.",
+        "(2) While artificial intelligence offers great potential, it also presents major ethical challenges related to privacy, employment, and decision-making autonomy.",
+        "(3) Artificial intelligence, although full of potential, brings up ethical issues concerning privacy, job loss, and the autonomy of decision-making.",
+        "(4) Despite its promising potential, artificial intelligence poses serious ethical questions, particularly around privacy, job displacement, and autonomous decision-making."],
+    
+    "9-12":[3,2,1,2]
+}

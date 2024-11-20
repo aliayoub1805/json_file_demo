@@ -1,0 +1,36 @@
+{
+    "1":[
+        "Despite his early successes, the playwright’s later works were often criticized for lacking the depth and complexity that made his initial plays so popular.",
+        "(1) The playwright’s later works were criticized for being too complex compared to his earlier plays.",
+        "(2) Although the playwright’s early works were successful, his later plays lacked the depth that made them popular.",
+        "(3) The playwright’s early works were not well-received, while his later plays were seen as more meaningful.",
+        "(4) The playwright’s later works were praised for their innovative complexity and depth."
+    ],
+    
+    "2":[
+        "The study, although meticulously designed, failed to account for several key variables, which significantly undermined its conclusions.",
+        "(1) The study was thoroughly conducted, but its conclusions were ultimately proved to be accurate.",
+        "(2) Although the study was carefully designed, it overlooked important variables, weakening its results.",
+        "(3) The study was successful because it included all the relevant factors for its conclusions.",
+        "(4) Despite being incomplete, the study’s conclusions were supported by strong evidence."
+    ],
+    
+    "3":[
+        "While many historians argue that the empire's fall was inevitable, others believe it was a result of a series of avoidable mistakes.",
+        "(1) Some historians believe the empire fell because of predictable events, while others attribute it to avoidable errors.",
+        "(2) Historians universally agree that the empire’s fall was a natural progression.",
+        "(3) The fall of the empire was primarily due to unavoidable mistakes that all historians agree upon.",
+        "(4) The empire’s collapse is seen by most historians as something that could have been prevented through careful planning."
+    ],
+    
+    "4":[
+        "Although the policy was initially met with resistance, it gradually gained support due to its perceived long-term benefits.",
+        "(1) The policy was widely supported from the start, although it had some long-term drawbacks.",
+        "(2) The policy, despite early opposition, was eventually accepted because people recognized its future advantages.",
+        "(3) The policy failed to gain support and was eventually abandoned because of its short-term benefits.",
+        "(4) The policy was resisted at first but later rejected due to its lack of long-term benefits."],
+    
+    "1-4":[2,2,1,2],
+    "time":0,
+    "timeSec":0
+}

@@ -1,0 +1,36 @@
+{
+    "1":[
+        "Although the company faced numerous setbacks in the initial stages, its strategic focus on innovation eventually positioned it as a market leader.",
+        "(1) The company succeeded in the market by adopting a focus on innovation after overcoming significant early challenges.",
+        "(2) Despite initial success, the company’s failure to innovate resulted in its decline in the market.",
+        "(3) The company faced difficulties but ultimately gained market dominance due to its strategy of imitating competitors.",
+        "(4) The company’s market leadership was achieved through aggressive tactics, despite an early period of smooth progress."
+    ],
+    
+    "2":[
+        "Many cultural practices that were once considered outdated have found a resurgence in contemporary society, largely due to their ability to address modern concerns.",
+        "(1) Outdated cultural practices are increasingly rejected in modern society due to their inability to address modern issues.",
+        "(2) Cultural practices that were once outdated have reemerged because they offer solutions to present-day challenges.",
+        "(3) Many cultural practices are now disregarded because they no longer align with contemporary concerns.",
+        "(4) Cultural practices that were abandoned in the past are making a comeback as a result of modern demands."
+    ],
+    
+    "3":[
+        "The theory proposed by the physicist, though initially dismissed by peers, was later proven to be foundational in the development of quantum mechanics.",
+        "(1) The physicist’s theory, initially rejected by his peers, later became irrelevant to quantum mechanics.",
+        "(2) The physicist’s theory was considered unimportant at first, but it eventually proved to be a critical element in quantum mechanics.",
+        "(3) The theory was never accepted by the scientific community, and it remains largely discredited.",
+        "(4) The theory was accepted by peers from the start, and its impact on quantum mechanics was immediately recognized."
+    ],
+    
+    "4":[
+        "Despite his brilliance, the artist's work often faced criticism for being too abstract, leaving many to question its emotional depth.",
+        "(1) The artist was admired for his work, though critics did not understand the emotional aspects of his abstract pieces.",
+        "(2) Despite the artist’s brilliance, his work was widely praised for its emotional depth and clarity.",
+        "(3) The artist’s abstract work faced criticism for lacking emotional depth, despite his exceptional skill.",
+        "(4) Many praised the artist’s abstract works for their emotional complexity, despite some criticism of their abstract nature."],
+    
+    "1-4":[1,2,2,3],
+    "time":0,
+    "timeSec":0
+}

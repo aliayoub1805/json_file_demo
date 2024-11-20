@@ -1,0 +1,34 @@
+{
+    "9":[
+        "Studies show that people who regularly engage in physical exercise experience better mental health, including reduced levels of stress and anxiety.",
+        "(1) Regular exercise is linked to improved mental health, including a decrease in stress and anxiety levels.",
+        "(2) Physical exercise has little impact on mental health, and its benefits are mostly related to physical fitness.",
+        "(3) People who exercise regularly experience more stress, as the physical exertion takes a toll on their mental well-being.",
+        "(4) Mental health benefits from exercise are temporary and do not contribute to long-term stress relief."
+    ],
+    
+    "10":[
+        "The rise of social media has led to both positive and negative changes in society, creating new opportunities for communication but also contributing to the spread of misinformation.",
+        "(1) Social media’s influence has been entirely negative, spreading misinformation while restricting communication.",
+        "(2) Social media has had both positive and negative effects, improving communication but also facilitating the spread of misinformation.",
+        "(3) Social media is mostly positive, as it allows people to communicate without any major drawbacks.",
+        "(4) The negative effects of social media, particularly misinformation, outweigh its benefits in communication."
+    ],
+    
+    "11":[
+        "Despite the potential benefits of genetic modification in agriculture, there is significant debate about its safety, ethical implications, and long-term effects on ecosystems.",
+        "(1) Genetic modification in agriculture is universally accepted, with no significant concerns about safety or ethics.",
+        "(2) The debate surrounding genetic modification in agriculture is mostly about its economic benefits, with little focus on safety or ethics.",
+        "(3) There is little debate about the safety or ethics of genetic modification in agriculture, as it is widely considered harmless.",
+        "(4) While genetic modification may offer agricultural benefits, concerns persist regarding its safety, ethics, and environmental impact."
+    ],
+    
+    "12":[
+        "Efforts to combat climate change have become more urgent in recent years, with governments, scientists, and activists pushing for more immediate action to reduce greenhouse gas emissions.",
+        "(1) Climate change has been largely ignored by governments and activists, with minimal action taken to address the issue.",
+        "(2) There is growing urgency to address climate change, with various stakeholders advocating for faster action to reduce emissions.",
+        "(3) Efforts to combat climate change have slowed down, as most governments are focused on economic growth rather than environmental concerns.",
+        "(4) Climate change is no longer considered an urgent issue, as scientific evidence suggests its effects are not as severe as previously thought."],
+    
+    "9-12":[1,2,4,2]
+}

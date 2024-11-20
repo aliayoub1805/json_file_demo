@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The increased use of electric vehicles (EVs) is expected to significantly reduce pollution and decrease our reliance on fossil fuels.",
+        "(1) Electric vehicles will have minimal impact on pollution, as their production still relies heavily on fossil fuels.",
+        "(2) The widespread adoption of electric vehicles is expected to reduce pollution and dependence on fossil fuels.",
+        "(3) Electric vehicles have no effect on reducing pollution, as their environmental benefits are offset by the energy used to produce them.",
+        "(4) Electric vehicles are only effective at reducing pollution when combined with other renewable energy solutions."
+    ],
+    
+    "10":[
+        "Recent advancements in artificial intelligence have raised ethical concerns about privacy, decision-making, and the potential for bias in automated systems.",
+        "(1) Ethical concerns about AI primarily focus on privacy, with little attention to the impact on decision-making processes.",
+        "(2) Most ethical concerns surrounding AI are related to its potential to replace human workers, rather than its effects on privacy or bias.",
+        "(3) Ethical concerns about AI are overstated, as the technology has proven to be impartial and unbiased in all applications.",
+        "(4) While AI presents numerous benefits, it also introduces significant ethical concerns, particularly regarding privacy and bias."
+    ],
+    
+    "11":[
+        "The rise of global trade has helped reduce poverty in many developing countries, but it has also led to environmental degradation and exploitation of labor.",
+        "(1) Global trade has mainly benefited the environment, with little effect on poverty reduction in developing countries.",
+        "(2) The negative effects of global trade, such as environmental damage, outweigh the benefits of poverty reduction in developing countries.",
+        "(3) While global trade has contributed to poverty reduction in some regions, it has also resulted in environmental harm and labor exploitation.",
+        "(4) Global trade has had no significant impact on poverty or environmental issues, with its primary focus on economic growth."
+    ],
+    
+    "12":[
+        "The ongoing debate about climate change centers on the balance between economic growth and the urgent need to implement sustainable environmental policies.",
+        "(1) Climate change discussions are solely focused on economic growth, with little attention paid to the environment or sustainability.",
+        "(2) The climate change debate involves reconciling economic growth with the implementation of policies that prioritize environmental sustainability.",
+        "(3) Environmental policies take precedence in the climate change debate, with little regard for the economic costs of implementing these policies.",
+        "(4) Economic growth and environmental policies are seen as mutually exclusive, with no middle ground between the two."],
+    
+    "9-12":[2,4,3,2]
+}

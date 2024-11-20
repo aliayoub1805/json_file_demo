@@ -1,10 +1,10 @@
 {
     "9":[
-        "Climate change poses a significant threat to the planet, requiring a global response to mitigate its effects and adapt to its consequences. What is the most compelling reason for prioritizing global action on climate change?",
-        "(1) Climate change is a serious threat to the planet and requires a global response to reduce its impact.",
-        "(2) Climate change is a global issue that requires a global response to mitigate its effects and adapt to its consequences.",
-        "(3) The consequences of climate change are far-reaching and impact every aspect of life on Earth, necessitating a global response to address this critical issue.",
-        "(4) The need for global action on climate change is urgent and requires immediate attention to mitigate its effects and adapt to its consequences."
+        "The Great Barrier Reef, located off the coast of Australia, is the largest coral reef system in the world and is known for its rich biodiversity.",
+        "(1) The Great Barrier Reef is the smallest coral reef system in the world, known for its lack of marine life.",
+        "(2) The Great Barrier Reef is located in Australia and is famous for its biodiversity and being the largest coral reef system in the world.",
+        "(3) The Great Barrier Reef is a small reef near the coast of Australia with few marine species.",
+        "(4) The Great Barrier Reef is the largest reef in the world, but it is mostly made of rock and has little marine life."
     ],
     
     "10":[
@@ -30,5 +30,5 @@
         "(3) The adoption of social media has brought about significant changes in how we interact with each other and access information, presenting both opportunities and challenges.",
         "(4)  Social media has transformed the way we communicate, consume information, and form social connections, leading to significant changes in our lives."],
     
-    "9-12":[3,1,4,3]
+    "9-12":[2,4,4,3]
 }

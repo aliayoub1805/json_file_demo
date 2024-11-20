@@ -1,0 +1,34 @@
+{
+    "9":[
+        "While many believe technology is making life easier, it has also created new challenges, such as overdependence on digital devices and a decline in face-to-face interactions.",
+        "(1) Technology has improved daily life, but it has also led to challenges like overdependence on gadgets and reduced face-to-face communication.",
+        "(2) Technology has made life easier in some ways but caused problems, like less direct interaction between people.",
+        "(3) Although technology improves convenience, it has raised issues such as a decline in personal interactions and excessive reliance on devices.",
+        "(4) People enjoy the benefits of technology, but it has led to overreliance on devices and a decrease in real-life communication."
+    ],
+    
+    "10":[
+        "Shakespeare's plays are often considered timeless because they explore universal themes, such as love, betrayal, and the complexities of human nature.",
+        "(1) The reason Shakespeare's plays are still relevant today is because of the timeless themes of love, betrayal, and human complexity.",
+        "(2) Shakespeare's works endure because they delve into universal topics like love, betrayal, and the human experience.",
+        "(3) Shakespeare's ability to address universal themes such as love and betrayal is why his plays remain significant.",
+        "(4) Shakespeare’s timeless plays explore the themes of love, betrayal, and human nature, making them universally relevant."
+    ],
+    
+    "11":[
+        "The discovery of penicillin revolutionized medicine by providing a cure for many bacterial infections that were previously untreatable.",
+        "(1) Penicillin changed the course of medical history by providing a cure for many bacterial infections that were once deadly.",
+        "(2) The discovery of penicillin transformed medicine by offering a solution to infections that were previously fatal.",
+        "(3) With the discovery of penicillin, doctors were able to treat bacterial infections that were once untreatable, changing the field of medicine.",
+        "(4) Penicillin revolutionized the treatment of bacterial infections, offering hope for previously incurable diseases."
+    ],
+    
+    "12":[
+        "The rise of social media has changed the way people communicate, making it easier to stay connected but also increasing the spread of misinformation.",
+        "(1) Social media has made it easier to stay in touch with others, but it also has led to the rapid spread of false information.",
+        "(2) The widespread use of social media allows people to communicate easily, but it also has contributed to the spread of misinformation.",
+        "(3) While social media connects people more easily, it has also become a platform for the spread of false information.",
+        "(4) Social media has facilitated communication, but its negative impact includes the spread of misinformation."],
+    
+    "9-12":[3,2,3,1]
+}

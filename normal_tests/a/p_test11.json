@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The Amazon rainforest is known as the 'lungs of the Earth' because it produces approximately 20% of the world's oxygen.",
+        "(1) The Amazon rainforest is known for producing 20% of the Earth's oxygen, earning it the nickname 'lungs of the Earth'.",
+        "(2) Due to its vast size, the Amazon rainforest provides about 20% of the oxygen needed by the Earth.",
+        "(3) The Amazon, often called the 'lungs of the Earth', generates 20% of the world’s oxygen supply.",
+        "(4) The Amazon rainforest's role in oxygen production is so vital that it is referred to as the 'lungs of the Earth'."
+    ],
+    
+    "10":[
+        "In the 1960s, the United States put a man on the moon, a monumental achievement in space exploration.",
+        "(1) The United States made history in the 1960s by becoming the first nation to land a man on the moon.",
+        "(2) The space exploration milestone of sending a man to the moon was achieved by the United States in the 1960s.",
+        "(3) In the 1960s, the United States' success in space exploration was marked by landing a man on the moon.",
+        "(4) A major space exploration milestone was achieved by the United States in the 1960s when it sent a man to the moon."
+    ],
+    
+    "11":[
+        "The theory of relativity, formulated by Albert Einstein in the early 20th century, revolutionized the way we understand space, time, and gravity.",
+        "(1) Albert Einstein’s theory of relativity, proposed in the 20th century, transformed our understanding of space, time, and gravity.",
+        "(2) The 20th-century formulation of the theory of relativity by Einstein changed the way scientists think about time, space, and gravity.",
+        "(3) In the early 20th century, Einstein’s revolutionary theory of relativity reshaped scientific views on gravity, space, and time.",
+        "(4) Einstein’s early 20th-century theory of relativity reshaped space, time, and gravity, altering our scientific worldview."
+    ],
+    
+    "12":[
+        "Despite its small size, the country of Luxembourg has a very high GDP per capita, making it one of the wealthiest nations in the world.",
+        "(1) Luxembourg, though small, has one of the highest GDP per capita rates, ranking among the wealthiest nations globally.",
+        "(2) Despite being one of the smallest countries in Europe, Luxembourg enjoys a high GDP per capita, placing it among the world’s wealthiest nations.",
+        "(3) With a very high GDP per capita, Luxembourg ranks as one of the richest countries in the world despite its small geographical size.",
+        "(4) Luxembourg is a small country, but its high GDP per capita makes it one of the wealthiest nations globally."],
+    
+    "9-12":[1,2,1,3]
+}

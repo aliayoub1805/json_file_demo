@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The rapid expansion of artificial intelligence in the workforce has raised concerns about job displacement and the future of human labor.",
+        "(1) Artificial intelligence has led to widespread job creation, with few concerns about job displacement.",
+        "(2) Concerns about AI replacing human workers are overstated, as AI will create more jobs than it eliminates.",
+        "(3) The rise of AI has sparked debates on its potential to replace human workers, with significant concern about labor market shifts.",
+        "(4) The use of artificial intelligence in the workforce has resulted in a complete restructuring of human labor, with no concerns about displacement."
+    ],
+    
+    "10":[
+        "The discovery of the Higgs boson particle has been hailed as one of the greatest achievements in modern physics, providing crucial evidence for the Standard Model.",
+        "(1) The discovery of the Higgs boson has confirmed critical aspects of the Standard Model, validating theories of particle physics.",
+        "(2) The Higgs boson particle has disproven several aspects of the Standard Model, challenging conventional physics.",
+        "(3) While important, the Higgs boson discovery has had little impact on our understanding of modern physics.",
+        "(4) The discovery of the Higgs boson has been widely criticized for not providing any new insights into particle physics."
+    ],
+    
+    "11":[
+        "Recent research indicates that humans may have a genetic predisposition to certain mental health conditions, though environmental factors also play a significant role.",
+        "(1) Genetic factors alone are responsible for the development of mental health conditions, with little regard for environmental influences.",
+        "(2) Genetic predisposition is the primary determinant of mental health conditions, and environmental factors are irrelevant.",
+        "(3) Both genetics and environmental factors contribute to the development of mental health conditions, with ongoing research exploring their interaction.",
+        "(4) Mental health conditions arise solely from environmental factors, with genetics playing a minimal role."
+    ],
+    
+    "12":[
+        "Despite facing significant challenges, the international community has made considerable progress in reducing poverty rates globally, thanks to targeted development initiatives and increased foreign aid.",
+        "(1) Poverty rates have remained largely unchanged due to ineffective international efforts and a lack of foreign aid.",
+        "(2) Global poverty rates have decreased significantly, driven by focused development programs and substantial foreign aid contributions.",
+        "(3) International efforts have failed to reduce poverty, with foreign aid proving ineffective in addressing systemic economic issues.",
+        "(4) Poverty reduction has been entirely dependent on domestic policies, with international efforts playing a minimal role."],
+    
+    "9-12":[3,1,3,2]
+}

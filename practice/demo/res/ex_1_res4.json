@@ -1,0 +1,36 @@
+{
+    "1":[
+        "The new city park features numerous walking trails, playgrounds, and green spaces for people to relax and enjoy nature.",
+        "(1) The new city park is designed for people to walk, play, and enjoy nature.",
+        "(2) The new city park is equipped with playgrounds, nature reserves, and a jogging track.",
+        "(3) The park was built to provide people with open spaces for exercise and relaxation.",
+        "(4) The city park is located near nature reserves and playgrounds to encourage outdoor activities."
+    ],
+    
+    "2":[
+        "Due to the increasing demand for renewable energy, many governments are investing heavily in solar and wind power technologies.",
+        "(1) Governments are reducing their investment in renewable energy sources like solar and wind power.",
+        "(2) The demand for renewable energy has led governments to invest more in wind and solar power.",
+        "(3) Renewable energy technologies such as solar and wind power are no longer popular with governments.",
+        "(4) Governments have decided to invest in renewable energy to reduce global warming."
+    ],
+    
+    "3":[
+        "The novel's complex plot and vivid character development kept readers engaged from start to finish, making it a best-seller.",
+        "(1) The novel's popularity was due to its exciting story and well-developed characters.",
+        "(2) The novel became a best-seller due to its simple plot and few characters.",
+        "(3) Readers were not interested in the novel's characters or plot, and it failed to sell well.",
+        "(4) The novel's complex plot and characters made it too difficult for most readers to understand."
+    ],
+    
+    "4":[
+        "Recent studies indicate that people who maintain a healthy diet and exercise regularly are less likely to develop chronic diseases such as heart disease and diabetes.",
+        "(1) Regular exercise and a healthy diet are essential for preventing chronic diseases like diabetes and heart disease.",
+        "(2) People who do not follow a healthy diet or exercise regularly are more prone to chronic diseases.",
+        "(3) Studies suggest that people who are sedentary and eat unhealthy foods are less likely to develop chronic diseases.",
+        "(4) Chronic diseases such as heart disease and diabetes are primarily caused by genetics rather than lifestyle."],
+    
+    "1-4":[1,2,1,1],
+    "time":0,
+    "timeSec":0
+}

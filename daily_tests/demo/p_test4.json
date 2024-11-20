@@ -1,0 +1,34 @@
+{
+    "9":[
+        "Reading regularly has been shown to improve cognitive skills, vocabulary, and mental sharpness.",
+        "(1) Regular reading helps expand vocabulary and improves cognitive abilities and mental sharpness.",
+        "(2) Reading is important because it sharpens the mind, increases vocabulary, and boosts cognitive abilities.",
+        "(3) People who read regularly experience an increase in cognitive skills and vocabulary, leading to greater mental sharpness.",
+        "(4) Studies show that reading on a regular basis leads to improvements in vocabulary, cognitive skills, and mental sharpness."
+    ],
+    
+    "10":[
+        "While automation has streamlined many industries, it also raises concerns about job displacement and the need for reskilling the workforce.",
+        "(1) Automation makes many industries more efficient, but it creates the challenge of job loss and workforce reskilling.",
+        "(2) While automation is a powerful tool for improving efficiency in industries, it also requires workers to be retrained due to the risk of job loss.",
+        "(3) The rise of automation has revolutionized industries, but it also threatens jobs and demands a major shift in workforce skills.",
+        "(4) Automation has led to significant gains in efficiency, but it also requires addressing issues of job displacement and the need for retraining."
+    ],
+    
+    "11":[
+        "The advent of artificial intelligence has opened up exciting possibilities for innovation across various sectors, but it also brings ethical dilemmas related to privacy, security, and employment.",
+        "(1) AI promises major advances in sectors ranging from healthcare to finance, but it raises serious ethical concerns about privacy, job security, and data protection.",
+        "(2) While AI offers significant advancements in various fields, it also creates ethical challenges, especially concerning privacy, security, and employment.",
+        "(3) Although artificial intelligence has driven innovation in many sectors, it simultaneously presents challenges related to privacy, job displacement, and security.",
+        "(4) Artificial intelligence has revolutionized industries with its potential for innovation, but it raises important questions about privacy, security, and employment that need to be addressed."
+    ],
+    
+    "12":[
+        "Despite the significant progress in renewable energy technologies, challenges remain in terms of scalability, energy storage, and grid integration, which hinder their widespread adoption.",
+        "(1) Renewable energy technologies have advanced, but challenges in scalability and energy storage prevent them from being widely used.",
+        "(2) Although renewable energy technologies have progressed significantly, issues such as scalability, storage, and grid integration still limit their broader application.",
+        "(3) The rapid development of renewable energy technologies has been slowed by challenges related to energy storage, scalability, and grid integration.",
+        "(4) Despite their clear benefits, renewable energy technologies face hurdles like scalability and grid integration, which hinder their large-scale adoption."],
+    
+    "9-12":[1,4,2,2]
+}

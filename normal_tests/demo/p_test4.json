@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The sun provides energy in the form of light and heat, which is essential for life on Earth.",
+        "(1) The energy from the sun, both light and heat, is crucial for the survival of all life on Earth.",
+        "(2) Sunlight and heat are essential to life, as they provide the energy necessary for sustaining life on Earth.",
+        "(3) Without the sun's energy in the form of light and heat, life on Earth would not be possible.",
+        "(4) Sunlight and warmth from the sun play a key role in sustaining life on Earth."
+    ],
+    
+    "10":[
+        "Researchers have found that exercise can improve mental health by reducing stress, anxiety, and depression.",
+        "(1) Exercise has been shown to improve mental well-being by reducing symptoms of stress, anxiety, and depression.",
+        "(2) Mental health can be improved through physical activity, which helps lower levels of stress and anxiety.",
+        "(3) Studies have demonstrated that regular exercise can reduce stress, anxiety, and depression, thereby improving mental health.",
+        "(4) Exercise not only helps to maintain physical health but also plays a significant role in reducing mental health issues like stress, anxiety, and depression."
+    ],
+    
+    "11":[
+        "Despite the significant advances in renewable energy technology, fossil fuels continue to dominate the global energy market due to their low cost and established infrastructure.",
+        "(1) While renewable energy technologies have made significant progress, fossil fuels still dominate the global market because they are cheaper and have well-established infrastructure.",
+        "(2) Although renewable energy technologies have advanced considerably, the cost-effectiveness and widespread infrastructure of fossil fuels ensure their dominance in the global energy market.",
+        "(3) Even though renewable energy has progressed, the continuing use of fossil fuels in the global market is largely due to their low cost and the infrastructure already built around them.",
+        "(4) The development of renewable energy has not yet overcome the dominance of fossil fuels in the global energy market, as they remain cheaper and are supported by extensive infrastructure."
+    ],
+    
+    "12":[
+        "While some believe that artificial intelligence will drastically improve various industries, others caution that the widespread adoption of AI could lead to job displacement and ethical dilemmas.",
+        "(1) Artificial intelligence is hailed by many for its potential to enhance industries, but there are concerns about job loss and ethical issues that may arise with its widespread use.",
+        "(2) Some people argue that artificial intelligence will bring vast improvements to industries, while others warn that it could cause job losses and raise ethical concerns.",
+        "(3) There is growing enthusiasm for the benefits AI could bring to industries, yet critics point out the potential for job displacement and the ethical questions it raises.",
+        "(4) AI is expected to revolutionize various industries, but concerns over job displacement and ethical problems continue to challenge its widespread implementation."],
+    
+    "9-12":[3,1,2,2]
+}

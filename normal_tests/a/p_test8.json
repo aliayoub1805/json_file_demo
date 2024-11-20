@@ -1,0 +1,34 @@
+{
+    "9":[
+        "The Eiffel Tower, completed in 1889, is one of the most famous landmarks in Paris.",
+        "(1) The Eiffel Tower is a famous Paris landmark completed in 1889.",
+        "(2) The Eiffel Tower, built in 1889, is a well-known landmark in Paris.",
+        "(3) In 1889, the Eiffel Tower was completed and became a famous symbol of Paris.",
+        "(4) The Eiffel Tower, which was completed in 1889, is an iconic landmark in Paris."
+    ],
+    
+    "10":[
+        "The invention of the telephone by Alexander Graham Bell in 1876 transformed communication by allowing people to speak with each other over long distances.",
+        "(1) The telephone, invented by Alexander Graham Bell in 1876, revolutionized communication by enabling long-distance conversation.",
+        "(2) In 1876, Alexander Graham Bell’s invention of the telephone changed communication by allowing people to communicate from afar.",
+        "(3) The telephone was invented by Alexander Graham Bell in 1876, and it revolutionized long-distance communication.",
+        "(4) Alexander Graham Bell’s invention of the telephone in 1876 made it possible for people to speak over long distances."
+    ],
+    
+    "11":[
+        "The Industrial Revolution, which began in the late 18th century, led to significant technological advancements and a shift from agrarian economies to industrialized societies.",
+        "(1) The Industrial Revolution, starting in the 18th century, marked a major shift to industrialized economies and advanced technology.",
+        "(2) The Industrial Revolution began in the late 1700s and resulted in technological progress and a shift from agricultural to industrial economies.",
+        "(3) The technological advancements and economic changes brought about by the Industrial Revolution started in the late 18th century.",
+        "(4) Beginning in the 1700s, the Industrial Revolution led to technological progress and the transformation of agrarian economies into industrialized societies."
+    ],
+    
+    "12":[
+        "The rapid growth of urban populations during the 19th century led to overcrowded cities, the spread of disease, and the rise of social reform movements seeking to improve living conditions.",
+        "(1) The rapid urbanization of the 19th century caused overcrowding, the spread of disease, and the emergence of social movements focused on improving living conditions.",
+        "(2) During the 1800s, cities grew rapidly, resulting in overcrowding, health issues, and the rise of reform movements demanding better living conditions.",
+        "(3) Overcrowded cities and the spread of disease during the 19th century led to the rise of social reform movements aiming to improve living standards.",
+        "(4) The overcrowding of cities in the 19th century, along with the spread of disease, sparked social reform movements focused on improving living conditions."],
+    
+    "9-12":[2,1,2,1]
+}
