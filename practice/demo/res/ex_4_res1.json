@@ -1,0 +1,36 @@
+{
+    "1":[
+        "The moon has a significant effect on Earth’s tides, as its gravity pulls on the Earth’s oceans.",
+        "(1) The moon's gravity causes the Earth's oceans to experience tidal effects.",
+        "(2) The moon’s gravitational pull plays a role in the movement of Earth's oceans, creating tides.",
+        "(3) Earth’s tides are caused by the gravitational force of the moon on the oceans.",
+        "(4) The moon influences the tides of the Earth by pulling on its oceans."
+    ],
+    
+    "2":[
+        "The Industrial Revolution, which began in the 18th century, drastically changed the economy by introducing mass production, factory systems, and new technologies.",
+        "(1) The Industrial Revolution introduced mass production and new technologies, changing economies worldwide.",
+        "(2) The economy changed drastically in the 18th century due to the mass production and factory systems of the Industrial Revolution.",
+        "(3) The Industrial Revolution marked a period of major economic change, with new technologies and mass production.",
+        "(4) Beginning in the 18th century, the Industrial Revolution revolutionized the economy through the introduction of mass production and factory systems."
+    ],
+    
+    "3":[
+        "The development of the theory of plate tectonics in the 20th century provided a unifying explanation for many geological phenomena, including earthquakes, volcanic activity, and the distribution of fossils.",
+        "(1) The theory of plate tectonics, developed in the 20th century, helped explain geological events like earthquakes and volcanic activity.",
+        "(2) Plate tectonics, a theory developed in the 20th century, provides insight into geological phenomena such as earthquakes and the movement of continents.",
+        "(3) The theory of plate tectonics, established in the 20th century, clarified many geological processes, including earthquakes, volcanoes, and fossil distribution.",
+        "(4) In the 20th century, the theory of plate tectonics emerged, offering an explanation for geological phenomena like earthquakes and volcanic eruptions."
+    ],
+    
+    "4":[
+        "The Enlightenment, a philosophical movement in the 17th and 18th centuries, emphasized reason, individualism, and skepticism toward traditional authority, influencing modern political thought and the development of democratic governments.",
+        "(1) The Enlightenment encouraged reason and skepticism of authority, influencing modern democracy and political thought.",
+        "(2) Enlightenment thinkers, who emphasized reason and individual rights, helped shape modern democratic governments and political philosophies.",
+        "(3) The 17th and 18th-century Enlightenment focused on reason and skepticism, shaping the evolution of democracy and modern political systems.",
+        "(4) Through its focus on reason and individualism, the Enlightenment promoted democratic ideals and transformed political thought in the modern world."],
+    
+    "1-4":[3,4,3,2],
+    "time":0,
+    "timeSec":0
+}

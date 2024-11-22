@@ -1,0 +1,36 @@
+{
+    "1":[
+        "The Nile River, flowing through northeastern Africa, is the longest river in the world, measuring about 6,650 kilometers in length.",
+        "(1) The Nile River, which flows through Africa, is the longest river on Earth, measuring 6,650 kilometers.",
+        "(2) At 6,650 kilometers long, the Nile River is the longest river in the world, located in northeastern Africa.",
+        "(3) The Nile River, located in northeastern Africa, stretches for about 6,650 kilometers, making it the longest river.",
+        "(4) The longest river in the world, the Nile River, flows through northeastern Africa and measures 6,650 kilometers."
+    ],
+    
+    "2":[
+        "In his book 'Discipline and Punish' Michel Foucault explores the historical development of disciplinary power, examining how methods of punishment have evolved from public executions to more subtle forms of surveillance and control.",
+        "(1) Michel Foucault's 'Discipline and Punish' examines the shift from brutal public punishments to more covert forms of discipline and surveillance.",
+        "(2) Foucault's 'Discipline and Punish' outlines how the evolution of punishment reflects changes in power structures and societal control.",
+        "(3) In 'Discipline and Punish' Foucault analyzes the transformation of punishment, from public executions to the subtler use of surveillance in modern society.",
+        "(4) Michel Foucault's 'Discipline and Punish' focuses on how punishment has shifted from public executions to modern forms of surveillance and control in society."
+    ],
+    
+    "3":[
+        "In psychology, the 'bystander effect' describes the phenomenon where individuals are less likely to offer help to a victim when other people are present, due to a diffusion of responsibility.",
+        "(1) The bystander effect occurs when people are less likely to intervene in an emergency if there are others around, as responsibility is shared.",
+        "(2) In the bystander effect, the presence of others reduces the likelihood of help being offered, as people assume someone else will act.",
+        "(3) The bystander effect explains that people are less likely to assist in emergencies when others are present, as the responsibility feels less personal.",
+        "(4) The bystander effect, a psychological concept, suggests that people hesitate to help others when in a group, due to the diffusion of responsibility."
+    ],
+    
+    "4":[
+        "The concept of the 'self-fulfilling prophecy' refers to a belief or expectation that influences behavior in a way that causes the belief to come true, often reinforcing stereotypes or biases.",
+        "(1) A self-fulfilling prophecy occurs when an individual’s belief about themselves or others leads to behaviors that confirm the original belief.",
+        "(2) The idea of a self-fulfilling prophecy suggests that a belief can influence actions that ultimately make the belief true, reinforcing biases.",
+        "(3) A self-fulfilling prophecy is a belief that leads to behaviors that cause the expected outcome, reinforcing stereotypes.",
+        "(4) The self-fulfilling prophecy refers to when expectations influence actions, which then cause the belief to be confirmed, often strengthening biases."],
+    
+    "1-4":[3,3,4,2],
+    "time":0,
+    "timeSec":0
+}

@@ -1,0 +1,36 @@
+{
+    "1":[
+        "In 'The Interpretation of Dreams' Sigmund Freud argues that dreams are a form of wish fulfillment and that analyzing them can reveal unconscious desires and conflicts.",
+        "(1) Sigmund Freud’s 'The Interpretation of Dreams' suggests that dreams reflect our unconscious desires, and their analysis can reveal hidden conflicts.",
+        "(2) Freud’s work, 'The Interpretation of Dreams' posits that dreams represent repressed wishes and that understanding them uncovers unconscious thoughts.",
+        "(3) In 'The Interpretation of Dreams' Freud explores how dreams are a manifestation of our repressed desires, offering insight into unconscious conflicts.",
+        "(4) Freud argues in 'The Interpretation of Dreams' that dreams are expressions of unfulfilled wishes, and their analysis can provide access to unconscious desires."
+    ],
+    
+    "2":[
+        "In '1984' George Orwell imagines a dystopian future where a totalitarian regime controls every aspect of life, including thoughts, through constant surveillance and mind control.",
+        "(1) '1984' depicts a future where a totalitarian government controls not only people's actions but also their thoughts through surveillance.",
+        "(2) In George Orwell’s '1984' the government exercises total control over all aspects of life, including the minds of its citizens.",
+        "(3) '1984' presents a vision of a future where a totalitarian state monitors every action and thought of its people.",
+        "(4)  In '1984' George Orwell imagines a future where constant surveillance and mind control ensure the government’s total dominance over society."
+    ],
+    
+    "3":[
+        "In 'The Republic' Plato explores the nature of justice, the ideal state, and the role of the philosopher-king, arguing that a just society is one where individuals perform roles suited to their abilities and knowledge.",
+        "(1) In 'The Republic' Plato discusses the concept of justice, the ideal society, and how philosopher-kings should rule based on their wisdom and abilities.",
+        "(2) Plato’s 'The Republic' explores justice, the ideal state, and the necessity of philosopher-kings who rule according to their wisdom and knowledge of justice.",
+        "(3) In 'The Republic' Plato examines justice and the ideal state, suggesting that a just society is one where individuals are matched with roles based on their abilities and wisdom.",
+        "(4) 'The Republic' by Plato presents a view of a just society, where philosopher-kings rule and individuals are assigned roles according to their innate abilities and knowledge."
+    ],
+    
+    "4":[
+        " In 'The Second Sex' Simone de Beauvoir examines the role of women in society, critiquing the ways in which women have historically been defined by their relationships to men rather than as independent beings.",
+        "(1) In 'The Second Sex' Simone de Beauvoir explores how women have been historically defined in relation to men, rather than as autonomous individuals.",
+        "(2) Simone de Beauvoir’s 'The Second Sex' critiques the ways in which women’s identities have been shaped by their connections to men, rather than by their own experiences.",
+        "(3) In her book 'The Second Sex' Simone de Beauvoir critiques the societal view of women as defined by their roles in relation to men, rather than as independent individuals.",
+        "(4) 'The Second Sex' by Simone de Beauvoir challenges the historical treatment of women as dependent on men and argues for their independence."],
+    
+    "1-4":[1,4,3,1],
+    "time":0,
+    "timeSec":0
+}

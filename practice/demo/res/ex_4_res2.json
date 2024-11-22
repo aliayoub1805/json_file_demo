@@ -1,0 +1,36 @@
+{
+    "1":[
+        "Dolphins are known for their high intelligence, often exhibiting problem-solving abilities and complex social behaviors.",
+        "(1) Dolphins display remarkable intelligence by solving problems and showing complex social behaviors.",
+        "(2) Dolphins are smart animals, known for solving problems and showing complex social behavior.",
+        "(3) Dolphins are intelligent and display problem-solving skills and social behaviors.",
+        "(4) Dolphins are often recognized for their ability to think and display social behaviors."
+    ],
+    
+    "2":[
+        "The discovery of gravity by Sir Isaac Newton revolutionized the study of physics, leading to significant advancements in understanding motion and forces.",
+        "(1) Isaac Newton’s discovery of gravity was a groundbreaking moment in physics, leading to new insights into motion and forces.",
+        "(2) Sir Isaac Newton’s discovery of gravity laid the foundation for advancements in the study of motion and physics.",
+        "(3) Newton’s discovery of gravity brought revolutionary changes in the study of physics and the understanding of motion and forces.",
+        "(4) The discovery of gravity by Sir Isaac Newton changed the study of physics and helped explain the nature of motion and forces."
+    ],
+    
+    "3":[
+        "In his book 'The Structure of Scientific Revolutions' Thomas Kuhn argued that scientific progress occurs through paradigm shifts, where existing scientific theories are replaced by entirely new frameworks that better explain observations.",
+        "(1) Thomas Kuhn’s 'The Structure of Scientific Revolutions' argues that scientific progress happens through paradigm shifts, where old theories are replaced by new ones.",
+        "(2) In 'The Structure of Scientific Revolutions' Kuhn proposed that science advances through paradigm shifts, in which old scientific theories are replaced by better explanations.",
+        "(3) Kuhn’s theory in 'The Structure of Scientific Revolutions' suggests that scientific progress is driven by paradigm shifts, in which new theories replace outdated ones.",
+        "(4) According to Kuhn in 'The Structure of Scientific Revolutions' scientific progress occurs when new theories replace existing ones through paradigm shifts."
+    ],
+    
+    "4":[
+        "The theory of cognitive dissonance, developed by psychologist Leon Festinger, suggests that individuals experience psychological discomfort when they hold conflicting beliefs or attitudes, motivating them to resolve the inconsistency.",
+        "(1) Leon Festinger’s theory of cognitive dissonance proposes that people feel discomfort when they hold conflicting beliefs and are motivated to resolve these contradictions.",
+        "(2) According to Festinger’s theory of cognitive dissonance, when people hold conflicting attitudes or beliefs, they are driven to reduce the psychological discomfort caused by the inconsistency.",
+        "(3) Cognitive dissonance theory, developed by Festinger, explains how people seek to resolve the discomfort of holding contradictory beliefs or attitudes.",
+        "(4) Festinger’s cognitive dissonance theory suggests that individuals experience psychological discomfort when their beliefs contradict each other, prompting them to seek resolution."],
+    
+    "1-4":[1,3,3,2],
+    "time":0,
+    "timeSec":0
+}
