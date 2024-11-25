@@ -1,0 +1,36 @@
+{
+    "1":[
+        "The researchers observed that the population of migratory birds had decreased over the past decade.",
+        "(1) Researchers found that fewer migratory birds were seen in the last ten years.",
+        "(2) The number of migratory birds has been steadily increasing over the past decade.",
+        "(3) Migratory birds have been observed migrating differently than before.",
+        "(4) Research has shown that migratory birds have grown in number over the past decade."
+    ],
+    
+    "2":[
+        "The advent of digital technology has significantly altered the way people communicate, with social media playing a key role.",
+        "(1) Social media has made communication much easier for people in recent years.",
+        "(2) Digital technology has transformed communication, with social media playing an important role.",
+        "(3) People prefer communicating through social media rather than traditional methods.",
+        "(4) Digital technology was once thought to hinder communication, but social media changed that."
+    ],
+    
+    "3":[
+        "Although the initial hypothesis was not proven, the research led to unexpected findings that challenged existing theories.",
+        "(1) The research ultimately confirmed the original hypothesis and supported existing theories.",
+        "(2) While the initial hypothesis was disproven, the results of the research raised new questions and led to important discoveries.",
+        "(3) The research confirmed that the initial hypothesis was completely incorrect, leading to a change in the scientific field.",
+        "(4) The research showed that previous theories had to be abandoned in favor of new, more established ideas."
+    ],
+    
+    "4":[
+        "The novel's exploration of human nature and moral dilemmas made it a thought-provoking work that has remained relevant for generations.",
+        "(1) The novel focused on adventure and excitement, which made it appealing to many readers.",
+        "(2) The novel's exploration of human nature and moral questions has kept it relevant across different generations.",
+        "(3) The novel was primarily about historical events and has been overlooked by modern readers.",
+        "(4) The novel's moral dilemmas are outdated and no longer relevant to contemporary readers."],
+    
+    "1-4":[1,2,2,2],
+    "time":0,
+    "timeSec":0
+}

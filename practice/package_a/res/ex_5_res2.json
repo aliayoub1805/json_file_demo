@@ -1,0 +1,36 @@
+{
+    "1":[
+        "The new public park has been a huge success, attracting visitors from all parts of the city.",
+        "(1) The park is popular among local residents and is often crowded.",
+        "(2) The new park is a big success, drawing visitors from all over the city.",
+        "(3) Many people dislike the new park and avoid visiting it.",
+        "(4) The park has not attracted many visitors since its opening."
+    ],
+    
+    "2":[
+        "The concept of artificial intelligence is still in its infancy, with many challenges remaining in its development and implementation.",
+        "(1) Artificial intelligence is a well-established field that faces no major challenges.",
+        "(2) Artificial intelligence development has already overcome most of its challenges and is now fully implemented.",
+        "(3) Artificial intelligence is a developing field that still faces significant obstacles.",
+        "(4) Artificial intelligence is a field with no significant challenges and is expected to grow quickly."
+    ],
+    
+    "3":[
+        "The rise of online shopping has caused a significant decline in traditional brick-and-mortar stores' sales.",
+        "(1) More people are now shopping online than ever before, leading to lower sales in physical stores.",
+        "(2) Traditional stores are increasing their sales as more people prefer shopping in person.",
+        "(3) The rise of online shopping has resulted in a decline in physical stores' sales, particularly in urban areas.",
+        "(4) Online shopping has become less popular, while physical stores have seen an increase in sales."
+    ],
+    
+    "4":[
+        "The impact of social media on political engagement has been profound, leading to new forms of activism and political participation among young people.",
+        "(1) Social media has decreased political participation, particularly among young people, and led to less activism.",
+        "(2) Young people now participate more actively in politics, using social media as a tool for activism and engagement.",
+        "(3) Social media has had little effect on political engagement or activism, particularly among young people.",
+        "(4) Social media has discouraged young people from engaging in politics and activism."],
+    
+    "1-4":[2,3,1,2],
+    "time":0,
+    "timeSec":0
+}

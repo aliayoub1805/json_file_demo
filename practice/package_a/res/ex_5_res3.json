@@ -1,0 +1,36 @@
+{
+    "1":[
+        "Many environmental activists argue that protecting endangered species is vital to preserving biodiversity and maintaining ecological balance.",
+        "(1) Some activists believe that protecting endangered species is key to ensuring a balanced ecosystem and biodiversity.",
+        "(2) Activists argue that endangered species do not play an important role in maintaining biodiversity.",
+        "(3) Most environmental activists focus only on protecting endangered species, ignoring other ecological concerns.",
+        "(4) Biodiversity is not affected by the extinction of species, according to environmental activists."
+    ],
+    
+    "2":[
+        "Despite the efforts of conservationists, deforestation continues at an alarming rate, threatening wildlife habitats and contributing to climate change.",
+        "(1) Deforestation has been successfully stopped, and conservationists have no further challenges to face.",
+        "(2) Although conservation efforts are in place, deforestation is still a significant problem, harming wildlife and contributing to climate change.",
+        "(3) Wildlife habitats have been preserved, and climate change is no longer an issue due to deforestation being halted.",
+        "(4) Conservationists have made no progress in addressing deforestation, and the problem is not linked to climate change."
+    ],
+    
+    "3":[
+        "The rapid spread of misinformation online has made it increasingly difficult to distinguish between reliable sources and fake news.",
+        "(1) Misinformation is no longer an issue, as online sources are all trustworthy.",
+        "(2) The increase in misinformation on the internet has created challenges in identifying trustworthy information.",
+        "(3) Reliable news sources have become easier to find due to the growth of the internet.",
+        "(4) The spread of misinformation is not a significant concern in today’s media landscape."
+    ],
+    
+    "4":[
+        "While the initial reports suggested that the new drug was highly effective, further studies have raised questions about its long-term safety.",
+        "(1) The drug was found to be completely safe and highly effective after further studies.",
+        "(2) Initial findings showed the drug was effective, but later studies raised concerns about its long-term safety.",
+        "(3) The drug was immediately proven to be safe, and no further studies were necessary.",
+        "(4) Early reports suggested the drug was ineffective, and it was later discontinued."],
+    
+    "1-4":[1,2,2,2],
+    "time":0,
+    "timeSec":0
+}

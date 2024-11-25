@@ -1,0 +1,36 @@
+{
+    "1":[
+        "The team celebrated their victory after months of hard work and dedication.",
+        "(1) The team celebrated their win after a long season of hard work.",
+        "(2) The team enjoyed their success after a period of intense effort.",
+        "(3) After months of dedication, the team celebrated their victory.",
+        "(4) The team marked their victory after months of focused effort."
+    ],
+    
+    "2":[
+        "Researchers have found that regular exercise significantly improves mental health and reduces stress.",
+        "(1) Regular exercise is proven to boost mental health and relieve stress.",
+        "(2) Mental health improves significantly with regular exercise and reduced stress.",
+        "(3) Regular exercise helps enhance mental health and lower stress levels.",
+        "(4) Studies confirm that mental health and stress benefit from regular exercise."
+    ],
+    
+    "3":[
+        "The company’s decision to invest in new technology has greatly improved production efficiency.",
+        "(1) By investing in new technology, the company increased its production efficiency.",
+        "(2) New technology investments helped the company improve production efficiency.",
+        "(3) The company improved production efficiency through investments in technology.",
+        "(4) Investments in new technology have significantly boosted production efficiency."
+    ],
+    
+    "4":[
+        "The recent legislation aims to reduce carbon emissions by promoting renewable energy sources.",
+        "(1) The goal of the new legislation is to lower carbon emissions by using renewable energy.",
+        "(2) The recent law targets reducing carbon emissions through renewable energy initiatives.",
+        "(3) New legislation seeks to cut carbon emissions and boost renewable energy use.",
+        "(4) Renewable energy sources will help lower carbon emissions, according to the new law."],
+    
+    "1-4":[3,3,1,3],
+    "time":0,
+    "timeSec":0
+}
