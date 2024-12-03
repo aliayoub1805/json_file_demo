@@ -32,5 +32,9 @@
     
     "1-4":[],
     "time":0,
-    "timeSec":0
+    "timeSec":0,
+
+
+    "sen_time":[],
+    "senTimeSec":0
 }

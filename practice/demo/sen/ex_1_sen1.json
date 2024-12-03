@@ -1,0 +1,61 @@
+{
+    "1":[
+        "The project was a success due to the team's ability to _______ obstacles and find creative solutions.",
+        "(1) ignore",
+        "(2) bypass",
+        "(3) create",
+        "(4) disregard"],
+
+    "2":[
+        "The research paper was praised for its _______ analysis, which provided new insights into the topic.",
+        "(1) shallow",
+        "(2) superficial",
+        "(3) detailed",
+        "(4) irrelevant"],
+    
+    "3":[
+        "The author’s use of _______ imagery made the novel both visually captivating and emotionally resonant.",
+        "(1) abstract",
+        "(2) vibrant",
+        "(3) dull",
+        "(4) contradictory"],
+
+    "4":[
+        "The politician’s speech was _______ with promises of reform, but many citizens were skeptical of the actual impact.",
+        "(1) devoid",
+        "(2) full",
+        "(3) empty",
+        "(4) critical"],
+
+    "5":[
+        "The company's _______ to change led to its eventual downfall, as it was unable to keep up with evolving market demands.",
+        "(1) resistance",
+        "(2) adaptation",
+        "(3) encouragement",
+        "(4) tendency"],
+    
+    "6":[
+        "His _______ attitude towards the project, though well-intentioned, lacked the necessary focus to lead it to success.",
+        "(1) apathetic",
+        "(2) diligent",
+        "(3) optimistic",
+        "(4) distracted"],
+
+    "7":[
+        "The researcher’s work is _______ for its innovative approach, which challenges traditional views and opens new possibilities in the field.",
+        "(1) condemned",
+        "(2) admired",
+        "(3) criticized",
+        "(4) ignored"],
+
+    "8":[
+        "The economic downturn has _______ many businesses to adopt new technologies, forcing them to evolve in order to stay competitive.",
+        "(1) prevented",
+        "(2) stimulated",
+        "(3) avoided",
+        "(4) discouraged"],
+    
+    "1-8":[2,3,2,2,1,4,2,2],
+    "time":"",
+    "timeSec":0
+}

@@ -1,4 +1,64 @@
 {
+
+    "1":[
+        "The company is trying to _______ its market share by offering new and innovative products.",
+        "(1) decrease",
+        "(2) improve",
+        "(3) ignore",
+        "(4) minimize"],
+
+    "2":[
+        "The team members were eager to _______ their skills through the new training program.",
+        "(1) lose",
+        "(2) showcase",
+        "(3) diminish",
+        "(4) enhance"],
+    
+    "3":[
+        "The manager was _______ to see the progress the team had made on the project.",
+        "(1) astonished",
+        "(2) indifferent",
+        "(3) discouraged",
+        "(4) amused"],
+
+    "4":[
+        "The book is _______ for its rich historical detail and vivid character descriptions.",
+        "(1) criticized",
+        "(2) praised",
+        "(3) ignored",
+        "(4) rejected"],
+
+    "5":[
+        "The company had to _______ its expansion plans due to unforeseen financial difficulties.",
+        "(1) accelerate",
+        "(2) delay",
+        "(3) finalize",
+        "(4) ignore"],
+    
+    "6":[
+        "Despite the challenging circumstances, the team managed to _______ their goal and complete the project on time.",
+        "(1) abandon",
+        "(2) surpass",
+        "(3) neglect",
+        "(4) diminish"],
+
+    "7":[
+        "The new technology promises to _______ the way people communicate, making it faster and more efficient.",
+        "(1) hinder",
+        "(2) revolutionize",
+        "(3) complicate",
+        "(4) slow down"],
+
+    "8":[
+        "The artist’s work was admired for its ability to _______ the delicate balance between form and color.",
+        "(1) obscure",
+        "(2) distort",
+        "(3) maintain",
+        "(4) ignore"],
+    
+    "1-8":[2,4,1,2,2,2,2,3],
+
+
     "9":[
         "It wasn't until the Industrial Revolution took place that the United States managed to increase the productivity through mechanization.",
         "(1) Thanks to mechanization, the United States was able to raise the productivity after the Industrial Revolution.",

@@ -1,4 +1,62 @@
 {
+    "1":[
+        "The students were excited to _______ the new playground after school.",
+        "(1) visit",
+        "(2) ignore",
+        "(3) avoid",
+        "(4) forget"],
+
+    "2":[
+        "The scientist’s new discovery was considered a _______ in the field of medicine.",
+        "(1) failure",
+        "(2) breakthrough",
+        "(3) barrier",
+        "(4) delay"],
+    
+    "3":[
+        "The artist was known for his _______ use of color in his paintings.",
+        "(1) bold",
+        "(2) shy",
+        "(3) weak",
+        "(4) casual"],
+
+    "4":[
+        "The professor’s lecture on quantum physics was so _______ that many students struggled to understand.",
+        "(1) simple",
+        "(2) confusing",
+        "(3) humorous",
+        "(4) clear"],
+
+    "5":[
+        "The government’s decision to raise taxes was _______ by many citizens who felt it would harm the economy.",
+        "(1) welcomed",
+        "(2) supported",
+        "(3) opposed",
+        "(4) ignored"],
+    
+    "6":[
+        "The mountain climber’s _______ helped him to reach the summit despite the harsh weather conditions.",
+        "(1) hesitation",
+        "(2) perseverance",
+        "(3) fear",
+        "(4) excitement"],
+
+    "7":[
+        "The novel’s protagonist was _______ by the death of his loved one, causing him to question the meaning of life.",
+        "(1) comforted",
+        "(2) devastated",
+        "(3) ignored",
+        "(4) energized"],
+
+    "8":[
+        "The environmental activist called for _______ measures to address the growing concerns about climate change.",
+        "(1) short-term",
+        "(2) radical",
+        "(3) unnecessary",
+        "(4) trivial"],
+    
+    "1-8":[1,2,1,2,3,2,2,2],
+
     "9":[
         "While eating a balanced diet is essential for good health, regular physical activity is just as important for maintaining overall well-being.",
         "(1) A healthy diet and regular exercise are equally crucial for good health and overall well-being.",

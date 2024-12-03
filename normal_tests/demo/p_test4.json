@@ -1,4 +1,63 @@
 {
+    "1":[
+        "The chef decided to _______ the recipe by adding a special ingredient to the sauce.",
+        "(1) change",
+        "(2) ignore",
+        "(3) remove",
+        "(4) forget"],
+
+    "2":[
+        "The manager asked the team to _______ the project before the deadline.",
+        "(1) complete",
+        "(2) delay",
+        "(3) abandon",
+        "(4) forget"],
+    
+    "3":[
+        "The rain was so _______ that it flooded the streets within hours.",
+        "(1) light",
+        "(2) gentle",
+        "(3) heavy",
+        "(4) slow"],
+
+    "4":[
+        "After the long hike, the hikers were _______ and needed rest.",
+        "(1) energetic",
+        "(2) exhausted",
+        "(3) confused",
+        "(4) hungry"],
+
+    "5":[
+        "The teacher asked the students to _______ their papers carefully before submitting them.",
+        "(1) skim",
+        "(2) ignore",
+        "(3) review",
+        "(4) discard"],
+    
+    "6":[
+        "The new law was _______ by some people, but others believed it was necessary for progress.",
+        "(1) criticized",
+        "(2) ignored",
+        "(3) accepted",
+        "(4) supported"],
+
+    "7":[
+        "The company decided to _______ the product after receiving negative feedback from customers.",
+        "(1) launch",
+        "(2) improve",
+        "(3) withdraw",
+        "(4) advertise"],
+
+    "8":[
+        "The professor's explanation was so _______ that all the students understood the complex concept.",
+        "(1) vague",
+        "(2) clear",
+        "(3) confusing",
+        "(4) brief"],
+    
+    "1-8":[1,1,3,2,3,1,3,2],
+
+
     "9":[
         "The sun provides energy in the form of light and heat, which is essential for life on Earth.",
         "(1) The energy from the sun, both light and heat, is crucial for the survival of all life on Earth.",

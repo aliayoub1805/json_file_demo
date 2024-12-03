@@ -1,0 +1,61 @@
+{
+    "1":[
+        "The manager was pleased with the team’s performance because they completed the project ahead of schedule and under _______.",
+        "(1) budget",
+        "(2) time",
+        "(3) demand",
+        "(4) pressure"],
+
+    "2":[
+        "The museum has an impressive collection of _______ art from different historical periods, showcasing the evolution of styles and techniques.",
+        "(1) ancient",
+        "(2) contemporary",
+        "(3) functional",
+        "(4) irrelevant"],
+    
+    "3":[
+        "The city’s efforts to _______ pollution have been successful, with air quality improving significantly over the past few years.",
+        "(1) increase",
+        "(2) reduce",
+        "(3) maintain",
+        "(4) ignore"],
+
+    "4":[
+        "After the lengthy discussion, the committee finally reached a _______ decision that all members could agree on.",
+        "(1) unanimous",
+        "(2) divisive",
+        "(3) contradictory",
+        "(4) temporary"],
+
+    "5":[
+        "The teacher gave the students additional materials to _______ their understanding of the subject, as many of them struggled with the topic.",
+        "(1) hinder",
+        "(2) clarify",
+        "(3) complicate",
+        "(4) limit"],
+    
+    "6":[
+        "The doctor recommended a more _______ approach to treating the patient’s illness, including both medication and lifestyle changes.",
+        "(1) aggressive",
+        "(2) holistic",
+        "(3) superficial",
+        "(4) lenient"],
+
+    "7":[
+        "The novel’s use of multiple narratives serves to _______ the theme of duality, contrasting the experiences of different characters in a divided society.",
+        "(1) obscure",
+        "(2) clarify",
+        "(3) enhance",
+        "(4) contradict"],
+
+    "8":[
+        "The philosopher’s argument was so _______ that it left little room for debate, challenging even the most established ideas of ethics and morality.",
+        "(1) flawed",
+        "(2) convincing",
+        "(3) vague",
+        "(4) superficial"],
+    
+    "1-8":[1,2,2,1,2,2,3,2],
+    "time":"",
+    "timeSec":0
+}

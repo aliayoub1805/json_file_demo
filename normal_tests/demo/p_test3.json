@@ -1,4 +1,64 @@
 {
+
+    "1":[
+        "The artist was praised for his _______ work in creating the mural.",
+        "(1) detailed",
+        "(2) quick",
+        "(3) absent",
+        "(4) careless"],
+
+    "2":[
+        "The dog was barking loudly because it wanted to _______ the attention of its owner.",
+        "(1) ignore",
+        "(2) attract",
+        "(3) avoid",
+        "(4) reject"],
+    
+    "3":[
+        "The teacher was _______ when the students handed in their assignments on time.",
+        "(1) disappointed",
+        "(2) pleased",
+        "(3) confused",
+        "(4) worried"],
+
+    "4":[
+        "The company had to _______ its production process to keep up with demand.",
+        "(1) simplify",
+        "(2) delay",
+        "(3) modify",
+        "(4) ignore"],
+
+    "5":[
+        "The mayor’s decision to close the park for maintenance was met with strong _______ from local residents.",
+        "(1) approval",
+        "(2) support",
+        "(3) protest",
+        "(4) indifference"],
+    
+    "6":[
+        "After years of training, the young athlete was finally able to _______ his dream of competing in the Olympics.",
+        "(1) abandon",
+        "(2) fulfill",
+        "(3) forget",
+        "(4) postpone"],
+
+    "7":[
+        "The scientist’s theory was considered _______ until further research could confirm its accuracy.",
+        "(1) unproven",
+        "(2) flawless",
+        "(3) accepted",
+        "(4) predictable"],
+
+    "8":[
+        "The museum’s new exhibit was _______ by art critics for its innovative approach to contemporary art.",
+        "(1) ignored",
+        "(2) praised",
+        "(3) rejected",
+        "(4) misunderstood"],
+    
+    "1-8":[1,2,2,3,3,2,1,2],
+
+
     "9":[
         "The Internet has revolutionized the way we communicate, allowing instant access to information and enabling people to connect across the globe.",
         "(1) The Internet has transformed communication by providing immediate access to information and global connectivity.",

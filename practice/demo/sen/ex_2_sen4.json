@@ -1,0 +1,61 @@
+{
+    "1":[
+        "The athlete’s dedication to training and discipline helped her _______ many of the challenges she faced during the competition.",
+        "(1) create",
+        "(2) overcome",
+        "(3) avoid",
+        "(4) neglect"],
+
+    "2":[
+        "The manager praised the team for their _______ work, as they completed the task well before the deadline.",
+        "(1) careless",
+        "(2) inconsistent",
+        "(3) diligent",
+        "(4) hasty"],
+    
+    "3":[
+        "The scientist carefully _______ all the data before drawing conclusions about the experiment’s outcome.",
+        "(1) ignored",
+        "(2) misinterpreted",
+        "(3) analyzed",
+        "(4) accepted"],
+
+    "4":[
+        "The documentary was praised for its _______ portrayal of life in the remote village, capturing both the beauty and the hardships of the community.",
+        "(1) exaggerated",
+        "(2) biased",
+        "(3) honest",
+        "(4) superficial"],
+
+    "5":[
+        "The manager’s decision to _______ the project was seen as a wise move, as the team was not yet ready to move forward with it.",
+        "(1) initiate",
+        "(2) delay",
+        "(3) finish",
+        "(4) abandon"],
+    
+    "6":[
+        "The company is looking for innovative ways to _______ its operations and improve efficiency in all departments.",
+        "(1) complicate",
+        "(2) streamline",
+        "(3) stagnate",
+        "(4) diversify"],
+
+    "7":[
+        "The philosopher’s lecture was filled with _______ reasoning that challenged long-held beliefs and left the audience contemplating profound questions about existence.",
+        "(1) shallow",
+        "(2) convoluted",
+        "(3) simplistic",
+        "(4) sound"],
+
+    "8":[
+        "The company’s sudden decision to _______ its workforce raised questions about its long-term strategy and future plans.",
+        "(1) increase",
+        "(2) reduce",
+        "(3) diversify",
+        "(4) distribute"],
+    
+    "1-8":[2,3,3,3,2,2,4,2],
+    "time":"",
+    "timeSec":0
+}

@@ -1,4 +1,61 @@
-{
+{"1":[
+        "The children were playing in the park when it suddenly started to _______.",
+        "(1) rain",
+        "(2) sing",
+        "(3) jump",
+        "(4) smile"],
+
+    "2":[
+        "She quickly realized that her keys were missing and began to _______ the house.",
+        "(1) search",
+        "(2) ignore",
+        "(3) decorate",
+        "(4) grow"],
+    
+    "3":[
+        "The old house was so _______ that no one dared to enter it after dark.",
+        "(1) bright",
+        "(2) quiet",
+        "(3) scary",
+        "(4) clean"],
+
+    "4":[
+        "The athlete was praised for his _______ performance in the final match. ",
+        "(1) poor",
+        "(2) outstanding",
+        "(3) average",
+        "(4) dangerous"],
+
+    "5":[
+        "The scientist was careful to _______ his hypothesis before drawing any conclusions. ",
+        "(1) test",
+        "(2) ignore",
+        "(3) change",
+        "(4) reject"],
+    
+    "6":[
+        "The artist’s latest painting was a beautiful mix of _______ and creativity.",
+        "(1) routine",
+        "(2) logic",
+        "(3) technique",
+        "(4) confusion"],
+
+    "7":[
+        "The detective was puzzled by the _______ in the witness’s statement, which seemed to contradict itself.",
+        "(1) clarity",
+        "(2) consistency",
+        "(3) ambiguity",
+        "(4) popularity"],
+
+    "8":[
+        "The researcher argued that the current model is not sufficient to _______ all the variables in the study. ",
+        "(1) ignore",
+        "(2) account for",
+        "(3) delay",
+        "(4) support"],
+    
+    "1-8":[1,1,3,2,1,3,3,2],
+    
     "9":[
         "The Internet has revolutionized communication by providing instant access to information and connecting people globally.",
         "(1) The Internet has connected people worldwide and provided immediate access to vast amounts of information.",

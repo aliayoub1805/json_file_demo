@@ -1,0 +1,61 @@
+{
+    "1":[
+        "The politician’s speech was filled with _______ promises, but many critics doubted their feasibility.",
+        "(1) vague",
+        "(2) clear",
+        "(3) specific",
+        "(4) aggressive"],
+
+    "2":[
+        "The city has recently introduced a new law to _______ the use of plastic bags and promote environmentally-friendly alternatives.",
+        "(1) discourage",
+        "(2) encourage",
+        "(3) limit",
+        "(4) ignore"],
+    
+    "3":[
+        "After weeks of searching, the archaeologists finally _______ the ancient tomb buried beneath the sand.",
+        "(1) built",
+        "(2) constructed",
+        "(3) discovered",
+        "(4) destroyed"],
+
+    "4":[
+        "The professor's research focuses on the _______ effects of climate change on marine biodiversity, especially coral reefs.",
+        "(1) negligible",
+        "(2) adverse",
+        "(3) beneficial",
+        "(4) irrelevant"],
+
+    "5":[
+        "Although the author is well known for writing fiction, she recently _______ her first non-fiction book, which explores the history of the region.",
+        "(1) published",
+        "(2) edited",
+        "(3) revised",
+        "(4) abandoned"],
+    
+    "6":[
+        "The company’s new marketing strategy was designed to _______ its position in the highly competitive tech industry.",
+        "(1) strengthen",
+        "(2) weaken",
+        "(3) abandon",
+        "(4) criticize"],
+
+    "7":[
+        "The researcher’s groundbreaking work was so _______ that it prompted an entire field of study to be re-evaluated.",
+        "(1) superficial",
+        "(2) insignificant",
+        "(3) profound",
+        "(4) trivial"],
+
+    "8":[
+        "The complex relationship between economic development and environmental protection requires careful _______ to ensure sustainable progress.",
+        "(1) neglect",
+        "(2) consideration",
+        "(3) misinterpretation",
+        "(4) condemnation"],
+    
+    "1-8":[1,3,3,2,1,1,3,2],
+    "time":"",
+    "timeSec":0
+}

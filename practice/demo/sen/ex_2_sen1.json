@@ -1,0 +1,61 @@
+{
+    "1":[
+        "The company’s decision to relocate its headquarters was largely due to the _______ of the local market and its need for more space.",
+        "(1) expansion",
+        "(2) contraction",
+        "(3) diversification",
+        "(4) restriction"],
+
+    "2":[
+        "Despite the team’s best efforts, the project was _______ because of unforeseen technical difficulties that delayed the work.",
+        "(1) completed",
+        "(2) cancelled",
+        "(3) postponed",
+        "(4) accelerated"],
+    
+    "3":[
+        "The actor’s performance was praised for its _______ and depth, capturing the complexity of the character's emotions.",
+        "(1) simplicity",
+        "(2) monotony",
+        "(3) authenticity",
+        "(4) detachment"],
+
+    "4":[
+        "The scientist’s breakthrough discovery was considered _______ in the field, as it challenged long-established theories and opened new avenues for research.",
+        "(1) unimportant",
+        "(2) revolutionary",
+        "(3) redundant",
+        "(4) conventional"],
+
+    "5":[
+        "The new law aims to _______ discrimination in the workplace by imposing stricter regulations on hiring practices and employee treatment.",
+        "(1) foster",
+        "(2) prevent",
+        "(3) encourage",
+        "(4) ignore"],
+    
+    "6":[
+        "As the global population grows, the need for sustainable agricultural practices has _______ in importance to ensure food security for future generations.",
+        "(1) diminished",
+        "(2) fluctuated",
+        "(3) decreased",
+        "(4) increased"],
+
+    "7":[
+        "The diplomat’s speech was praised for its _______ analysis of international relations, taking into account both the historical context and the current geopolitical climate.",
+        "(1) superficial",
+        "(2) vague",
+        "(3) comprehensive",
+        "(4) dismissive"],
+
+    "8":[
+        "The author’s intricate use of symbolism throughout the novel _______ the central theme of identity, leaving readers to interpret its true meaning on a deeper level.",
+        "(1) obscured",
+        "(2) simplified",
+        "(3) undermined",
+        "(4) reinforced"],
+    
+    "1-8":[1,3,3,2,2,4,3,4],
+    "time":"",
+    "timeSec":0
+}

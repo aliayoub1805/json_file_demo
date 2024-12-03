@@ -1,0 +1,61 @@
+{
+    "1":[
+        "Many historians argue that the collapse of the Roman Empire was due to a combination of political instability and _______ economic decline.",
+        "(1) gradual",
+        "(2) rapid",
+        "(3) temporary",
+        "(4) severe"],
+
+    "2":[
+        "The team’s coach was especially impressed by the player’s _______ to recover from injury and return to the field faster than expected.",
+        "(1) reluctance",
+        "(2) desire",
+        "(3) ability",
+        "(4) tendency"],
+    
+    "3":[
+        "Although the ancient manuscript was _______ by scholars as important, its true significance was only understood centuries later.",
+        "(1) ignored",
+        "(2) dismissed",
+        "(3) regarded",
+        "(4) confirmed"],
+
+    "4":[
+        "The scientist was frustrated by the lack of progress in the experiment, as the results seemed to _______ every hypothesis she had formed.",
+        "(1) confirm",
+        "(2) support",
+        "(3) refute",
+        "(4) validate"],
+
+    "5":[
+        "The mayor's plan to improve the city's infrastructure was _______ with strong opposition from residents concerned about increased taxes.",
+        "(1) faced",
+        "(2) greeted",
+        "(3) resisted",
+        "(4) supported"],
+    
+    "6":[
+        "The film's _______ portrayal of the consequences of war left a lasting impression on audiences worldwide, making them reconsider the true cost of conflict.",
+        "(1) objective",
+        "(2) dispassionate",
+        "(3) exaggerated",
+        "(4) poignant"],
+
+    "7":[
+        "As the author delved deeper into the philosophical implications of human existence, his writing became more _______ and required careful analysis to fully understand.",
+        "(1) opaque",
+        "(2) clear",
+        "(3) superficial",
+        "(4) straightforward"],
+
+    "8":[
+        "The economic disparity between the two nations was _______ by historical factors, including the legacy of colonial rule and divergent paths of development.",
+        "(1) exacerbated",
+        "(2) mitigated",
+        "(3) neutralized",
+        "(4) ignored"],
+    
+    "1-8":[4,3,3,3,3,4,1,1],
+    "time":"",
+    "timeSec":0
+}

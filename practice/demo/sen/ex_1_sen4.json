@@ -1,0 +1,61 @@
+{
+    "1":[
+        "The teacher encouraged the students to _______ their creativity by experimenting with different art styles.",
+        "(1) stifle",
+        "(2) suppress",
+        "(3) explore",
+        "(4) limit"],
+
+    "2":[
+        "The manager asked the team to _______ the presentation by including more detailed data to support their arguments.",
+        "(1) simplify",
+        "(2) revise",
+        "(3) reduce",
+        "(4) ignore"],
+    
+    "3":[
+        "The hikers were forced to _______ their journey due to the severe weather conditions and poor visibility.",
+        "(1) extend",
+        "(2) abandon",
+        "(3) delay",
+        "(4) continue"],
+
+    "4":[
+        "The documentary focused on the _______ of the ancient city, detailing its rise and fall over several centuries.",
+        "(1) destruction",
+        "(2) reconstruction",
+        "(3) history",
+        "(4) collapse"],
+
+    "5":[
+        "The architect’s design was not only innovative but also highly _______ to the needs of the local community, taking into account their cultural heritage.",
+        "(1) indifferent",
+        "(2) relevant",
+        "(3) out of place",
+        "(4) unnecessary"],
+    
+    "6":[
+        "The recent advancements in artificial intelligence have _______ the potential to revolutionize various industries, from healthcare to finance.",
+        "(1) diminished",
+        "(2) amplified",
+        "(3) neutralized",
+        "(4) obscured"],
+
+    "7":[
+        "The novel’s intricate narrative structure _______ the complexity of the characters’ emotional journeys, making it a challenging yet rewarding read.",
+        "(1) simplifies",
+        "(2) undermines",
+        "(3) mirrors",
+        "(4) enhances"],
+
+    "8":[
+        "The philosopher argued that true freedom is not simply the absence of constraints, but the _______ to make meaningful choices that shape one’s destiny.",
+        "(1) obligation",
+        "(2) limitation",
+        "(3) capacity",
+        "(4) incapacity"],
+    
+    "1-8":[3,2,2,3,2,2,4,3],
+    "time":"",
+    "timeSec":0
+}

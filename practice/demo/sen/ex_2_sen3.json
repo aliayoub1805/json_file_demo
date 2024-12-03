@@ -1,0 +1,61 @@
+{
+    "1":[
+        "The government announced a new policy to _______ the welfare of its citizens, focusing on healthcare and education improvements.",
+        "(1) ignore",
+        "(2) undermine",
+        "(3) promote",
+        "(4) restrict"],
+
+    "2":[
+        "Although the book is a work of fiction, it contains several _______ details that make it feel more realistic.",
+        "(1) fictional",
+        "(2) exaggerated",
+        "(3) accurate",
+        "(4) misleading"],
+    
+    "3":[
+        "The artist’s work is often characterized by _______ forms and vibrant colors, which evoke strong emotions in the viewer.",
+        "(1) abstract",
+        "(2) realistic",
+        "(3) minimalistic",
+        "(4) dull"],
+
+    "4":[
+        "The _______ of the ancient manuscript was a significant event in the field of archaeology, offering new insights into early human civilizations.",
+        "(1) destruction",
+        "(2) preservation",
+        "(3) discovery",
+        "(4) alteration"],
+
+    "5":[
+        "The company’s failure to adapt to changing market trends eventually led to its _______.",
+        "(1) success",
+        "(2) stagnation",
+        "(3) innovation",
+        "(4) demise"],
+    
+    "6":[
+        "The lawyer presented a _______ argument, providing compelling evidence that left the jury with no doubt about the defendant’s guilt.",
+        "(1) weak",
+        "(2) convincing",
+        "(3) unclear",
+        "(4) irrelevant"],
+
+    "7":[
+        "The author’s ability to weave complex themes into a seemingly simple narrative demonstrates a remarkable _______ of storytelling.",
+        "(1) simplicity",
+        "(2) mastery",
+        "(3) inadequacy",
+        "(4) confusion"],
+
+    "8":[
+        "The politician’s proposal was _______ by several experts who argued that the policy would exacerbate existing social inequalities.",
+        "(1) supported",
+        "(2) disregarded",
+        "(3) criticized",
+        "(4) ignored"],
+    
+    "1-8":[3,3,1,3,4,2,2,3],
+    "time":"",
+    "timeSec":0
+}

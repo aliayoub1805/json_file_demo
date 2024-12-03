@@ -1,4 +1,64 @@
 {
+
+    "1":[
+        "The novel was praised for its ability to _______ the complexities of the human condition.",
+        "(1) ignore",
+        "(2) depict",
+        "(3) hide",
+        "(4) mask"],
+
+    "2":[
+        "The mountain climbers’ _______ to the peak was a testament to their determination and teamwork.",
+        "(1) refusal",
+        "(2) resistance",
+        "(3) ascent",
+        "(4) descent"],
+    
+    "3":[
+        "The committee decided to _______ the proposal for further review before making a final decision.",
+        "(1) approve",
+        "(2) reject",
+        "(3) delay",
+        "(4) endorse"],
+
+    "4":[
+        "The company’s new policy was intended to _______ employee productivity and reduce overhead costs.",
+        "(1) hinder",
+        "(2) promote",
+        "(3) suppress",
+        "(4) complicate"],
+
+    "5":[
+        "After the intense debate, the politician’s speech was regarded as _______ and failed to address the concerns raised.",
+        "(1) insightful",
+        "(2) vague",
+        "(3) constructive",
+        "(4) thorough"],
+    
+    "6":[
+        "The scientist’s breakthrough discovery was _______ by the scientific community, which led to further funding and research opportunities.",
+        "(1) dismissed",
+        "(2) ignored",
+        "(3) celebrated",
+        "(4) contested"],
+
+    "7":[
+        "The manager’s decision to _______ the project deadline allowed the team to complete the task with greater attention to detail.",
+        "(1) shorten",
+        "(2) extend",
+        "(3) ignore",
+        "(4) abandon"],
+
+    "8":[
+        "Despite the considerable challenges faced by the company, its ability to _______ in a competitive market remains a testament to its resilience.",
+        "(1) fail",
+        "(2) thrive",
+        "(3) decline",
+        "(4) surrender"],
+    
+    "1-8":[2,3,3,2,2,3,2,2],
+
+
     "9":[
         "A great majority of countries depend on international trade for their food supply due partly to the limitations of their own agricultural products.",
         "(1) Most of the countries rely on international trade for their food supply, and part of the reason for this is that their own agricultural products are limited.",

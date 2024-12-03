@@ -1,4 +1,65 @@
 {
+
+    "1":[
+        "The manager's decision to _______ the presentation was met with approval from the team.",
+        "(1) postpone",
+        "(2) speed up",
+        "(3) shorten",
+        "(4) extend"],
+
+    "2":[
+        "The book’s plot was so _______ that readers were unable to predict what would happen next.",
+        "(1) predictable",
+        "(2) intricate",
+        "(3) transparent",
+        "(4) irrelevant"],
+    
+    "3":[
+        "The doctor’s efforts to _______ the patient’s pain were successful, and the patient began to feel better.",
+        "(1) increase",
+        "(2) alleviate",
+        "(3) prolong",
+        "(4) ignore"],
+
+    "4":[
+        "The new law is designed to _______ environmental pollution and protect natural resources.",
+        "(1) increase",
+        "(2) decrease",
+        "(3) promote",
+        "(4) ignore"],
+
+    "5":[
+        "The students’ enthusiasm for the subject matter was _______ and made the class much more engaging.",
+        "(1) dull",
+        "(2) contagious",
+        "(3) static",
+        "(4) rare"],
+    
+    "6":[
+        "The negotiations were _______ by both sides, which resulted in a successful agreement.",
+        "(1) hindered",
+        "(2) facilitated",
+        "(3) interrupted",
+        "(4) ignored"],
+
+    "7":[
+        "Although the new software had many features, it was _______ by several technical issues that made it difficult to use.",
+        "(1) enhanced",
+        "(2) overshadowed",
+        "(3) simplified",
+        "(4) ignored"],
+
+    "8":[
+        "The architect’s design for the new building was _______ and received widespread acclaim for its innovative use of space.",
+        "(1) conventional",
+        "(2) outdated",
+        "(3) revolutionary",
+        "(4) impractical"],
+    
+    "1-8":[1,2,2,2,2,2,2,3],
+
+
+
     "9":[
         "Facing a lot of challenges while trying to get a visa, especially if they don’t have a permanent job, a lot of people feel discouraged if they want to travel abroad.",
         "(1) The application process for a visa to travel abroad can be very discoursing particularly for people who don’t have permanent jobs, let alone the challenges they face while abroad.",
