@@ -1,61 +1,61 @@
 {
     "1":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The scientist was pleased with the ________ results of the experiment, which confirmed the hypothesis after extensive testing.",
+        "(1) ambiguous",
+        "(2) inconclusive",
+        "(3) definitive",
+        "(4) questionable"],
 
     "2":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The manager was praised for her ________ leadership style, which encouraged open communication and teamwork among employees.",
+        "(1) authoritarian",
+        "(2) indifferent",
+        "(3) egotistical",
+        "(4) collaborative"],
     
     "3":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The artist’s ________ style was reflected in her abstract paintings, which challenged traditional ideas of form and color.",
+        "(1) conventional",
+        "(2) innovative",
+        "(3) conservative",
+        "(4) monotonous"],
 
     "4":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "Despite her ________ achievements in the field of medicine, she remained humble and focused on improving patient care.",
+        "(1) modest",
+        "(2) mediocre",
+        "(3) remarkable",
+        "(4) negligible"],
 
     "5":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The company’s ________ expansion into international markets allowed them to increase their profits significantly within just a few years.",
+        "(1) sluggish",
+        "(2) cautious",
+        "(3) aggressive",
+        "(4) passive"],
     
     "6":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The entrepreneur’s ________ thinking helped him build a successful start-up, as he constantly sought new ways to innovate and improve.",
+        "(1) stagnant",
+        "(2) forward-thinking",
+        "(3) backward-looking",
+        "(4) conventional"],
 
     "7":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The debate between the two politicians became increasingly ________, with each trying to discredit the other’s position without offering solutions.",
+        "(1) constructive",
+        "(2) volatile",
+        "(3) amiable",
+        "(4) supportive"],
 
     "8":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The government’s ________ response to the crisis was widely criticized, as it was slow and ineffective in addressing the urgency of the situation.",
+        "(1) swift",
+        "(2) hasty",
+        "(3) reactive",
+        "(4) delayed"],
     
-    "1-8":[],
+    "1-8":[3,4,2,3,3,2,2,4],
     "time":"",
     "timeSec":0
 }

@@ -1,61 +1,61 @@
 {
     "1":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The artist’s work was deeply influenced by the ________ colors of the Mediterranean landscape, which became a signature element of his paintings.",
+        "(1) dull",
+        "(2) vibrant",
+        "(3) muted",
+        "(4) monotonous"],
 
     "2":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The company decided to ________ its production process to reduce costs and increase efficiency, ensuring higher profit margins.",
+        "(1) simplify",
+        "(2) complicate",
+        "(3) dismantle",
+        "(4) ignore"],
     
     "3":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The student’s ________ approach to solving the problem allowed her to arrive at a solution that no one else had considered.",
+        "(1) conventional",
+        "(2) innovative",
+        "(3) passive",
+        "(4) reactive"],
 
     "4":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The professor’s research paper was so ________ that it was published in several academic journals, attracting attention from scholars around the world.",
+        "(1) groundbreaking",
+        "(2) mediocre",
+        "(3) irrelevant",
+        "(4) outdated"],
 
     "5":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The actor’s ________ performance captivated the audience, earning him rave reviews from critics.",
+        "(1) lackluster",
+        "(2) forgettable",
+        "(3) uninspired",
+        "(4) memorable"],
     
     "6":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The decision to expand the company’s operations internationally was a ________ move, given the rapidly growing global market for technology.",
+        "(1) cautious",
+        "(2) impulsive",
+        "(3) strategic",
+        "(4) reckless"],
 
     "7":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The museum’s exhibition was designed to ________ the beauty and complexity of ancient civilizations, offering a unique insight into their cultures.",
+        "(1) obscure",
+        "(2) celebrate",
+        "(3) criticize",
+        "(4) minimize"],
 
     "8":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The recent political unrest in the country has led to a ________ in the economy, with stock prices plummeting and inflation rising.",
+        "(1) recovery",
+        "(2) surge",
+        "(3) stagnation",
+        "(4) decline"],
     
-    "1-8":[],
+    "1-8":[2,1,2,1,4,3,2,4],
     "time":"",
     "timeSec":0
 }

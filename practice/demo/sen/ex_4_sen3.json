@@ -1,61 +1,61 @@
 {
     "1":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The scientist’s breakthrough discovery ________ the entire field of physics, prompting other researchers to reevaluate existing theories.",
+        "(1) ignored",
+        "(2) altered",
+        "(3) prolonged",
+        "(4) reinforced"],
 
     "2":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The government’s new policy was aimed at ________ unemployment by providing more job opportunities and increasing economic growth.",
+        "(1) decreasing",
+        "(2) perpetuating",
+        "(3) alleviating",
+        "(4) worsening"],
     
     "3":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "Despite her ________ efforts to master the piano, she still struggled with the most basic pieces.",
+        "(1) mediocre",
+        "(2) limited",
+        "(3) half-hearted",
+        "(4) relentless"],
 
     "4":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The historian’s analysis of ancient civilizations provided a ________ perspective, examining the cultural, political, and economic aspects of each society.",
+        "(1) well-rounded",
+        "(2) narrow",
+        "(3) superficial",
+        "(4) biased"],
 
     "5":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "His argument was so ________ that it left little room for counterarguments, compelling even his most skeptical colleagues to agree.",
+        "(1) weak",
+        "(2) persuasive",
+        "(3) inconclusive",
+        "(4) irrelevant"],
     
     "6":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The patient’s condition remained ________ for several weeks, with no significant improvement despite ongoing treatment.",
+        "(1) volatile",
+        "(2) precarious",
+        "(3) stable",
+        "(4) progressive"],
 
     "7":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The company’s new marketing strategy is intended to ________ its brand presence in the global market, establishing itself as a leader in innovation.",
+        "(1) diminish",
+        "(2) amplify",
+        "(3) stagnate",
+        "(4) obstruct"],
 
     "8":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The novelist’s use of ________ language in describing the tragic events gave the story a haunting and memorable quality.",
+        "(1) simplistic",
+        "(2) disjointed",
+        "(3) eloquent",
+        "(4) crude"],
     
-    "1-8":[],
+    "1-8":[2,3,4,1,2,3,2,3],
     "time":"",
     "timeSec":0
 }

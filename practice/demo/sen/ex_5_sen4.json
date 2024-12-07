@@ -1,61 +1,61 @@
 {
     "1":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The novel’s central theme is about the ________ nature of human relationships, where trust and loyalty are constantly tested.",
+        "(1) fragile",
+        "(2) firm",
+        "(3) static",
+        "(4) rigid"],
 
     "2":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The athlete’s ________ in training helped her break records and achieve unprecedented success in her sport.",
+        "(1) diligence",
+        "(2) reluctance",
+        "(3) indifference",
+        "(4) uncertainty"],
     
     "3":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The CEO’s ________ decision to invest in cutting-edge technology transformed the company’s operations and kept it ahead of competitors.",
+        "(1) impulsive",
+        "(2) well-considered",
+        "(3) reckless",
+        "(4) hasty"],
 
     "4":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The professor’s lecture on the history of art was so ________ that even students with little interest in the subject found themselves captivated.",
+        "(1) dull",
+        "(2) irrelevant",
+        "(3) disorganized",
+        "(4) engaging"],
 
     "5":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The team’s ________ efforts led to the successful launch of the product, with each member contributing their expertise and hard work.",
+        "(1) fragmented",
+        "(2) individual",
+        "(3) collective",
+        "(4) divided"],
     
     "6":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The defendant’s ________ defense strategy ultimately failed to convince the jury, leading to a conviction.",
+        "(1) weak",
+        "(2) solid",
+        "(3) elaborate",
+        "(4) confused"],
 
     "7":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "Despite the difficult circumstances, the volunteer group’s ________ efforts to help the community made a significant impact.",
+        "(1) apathetic",
+        "(2) selfish",
+        "(3) altruistic",
+        "(4) reckless"],
 
     "8":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The artist’s work was characterized by a ________ use of light and shadow, which created a sense of depth and emotion in his paintings.",
+        "(1) simplistic",
+        "(2) casual",
+        "(3) absent",
+        "(4) deliberate"],
     
-    "1-8":[],
+    "1-8":[1,1,2,4,3,1,3,4],
     "time":"",
     "timeSec":0
 }

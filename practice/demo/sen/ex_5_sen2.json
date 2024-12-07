@@ -1,61 +1,61 @@
 {
     "1":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The manager’s ________ attitude towards feedback led to improved team performance as everyone felt encouraged to share their ideas.",
+        "(1) dismissive",
+        "(2) receptive",
+        "(3) apathetic",
+        "(4) hostile"],
 
     "2":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The writer’s ________ approach to storytelling keeps the readers engaged, with unexpected twists and an unpredictable plot.",
+        "(1) predictable",
+        "(2) conventional",
+        "(3) formulaic",
+        "(4) unconventional"],
     
     "3":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The environmental activists were pleased with the ________ changes made to the policy, which promised more sustainable practices.",
+        "(1) drastic",
+        "(2) insignificant",
+        "(3) gradual",
+        "(4) temporary"],
 
     "4":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The doctor was confident that the ________ diagnosis would lead to an effective treatment plan for the patient’s rare condition.",
+        "(1) tentative",
+        "(2) premature",
+        "(3) conclusive",
+        "(4) inconclusive"],
 
     "5":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "Despite the general public’s ________ views, the research proved that the new drug was both safe and effective.",
+        "(1) supportive",
+        "(2) skeptical",
+        "(3) indifferent",
+        "(4) enthusiastic"],
     
     "6":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The student’s ________ nature in participating in extracurricular activities made them well-liked among their peers.",
+        "(1) gregarious",
+        "(2) introverted",
+        "(3) indifferent",
+        "(4) timid"],
 
     "7":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The architect’s design was met with ________ from critics, who found the proposed building to be an eyesore rather than a marvel.",
+        "(1) praise",
+        "(2) adulation",
+        "(3) derision",
+        "(4) reverence"],
 
     "8":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The scientist’s ________ research into the effects of climate change helped inform global policy decisions, shaping future environmental strategies.",
+        "(1) superficial",
+        "(2) careless",
+        "(3) perfunctory",
+        "(4) diligent"],
     
-    "1-8":[],
+    "1-8":[2,4,1,3,2,1,3,4],
     "time":"",
     "timeSec":0
 }

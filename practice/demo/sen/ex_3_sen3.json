@@ -1,61 +1,61 @@
 {
     "1":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The professor's ________ explanation made the difficult concept of quantum mechanics much easier to grasp for his students.",
+        "(1) convoluted",
+        "(2) lucid",
+        "(3) ambiguous",
+        "(4) abstract"],
 
     "2":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The ________ of the new software was met with excitement, as it promised to revolutionize the way businesses manage their data.",
+        "(1) failure",
+        "(2) introduction",
+        "(3) abandonment",
+        "(4) rejection"],
     
     "3":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "Despite the team's hard work, their efforts were ultimately ________ by a series of unforeseen complications that delayed the project.",
+        "(1) enhanced",
+        "(2) undermined",
+        "(3) facilitated",
+        "(4) overlooked"],
 
     "4":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The artist’s work is often praised for its ability to ________ a deep emotional response from the viewer, transcending mere aesthetics.",
+        "(1) provoke",
+        "(2) appease",
+        "(3) obscure",
+        "(4) inhibit"],
 
     "5":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The lawyer’s argument was so ________ that even the most skeptical jury members were convinced of the defendant's innocence.",
+        "(1) incoherent",
+        "(2) weak",
+        "(3) persuasive",
+        "(4) irrelevant"],
     
     "6":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The company is facing significant financial difficulties, but they are confident that the situation will ________ once the new product line is launched.",
+        "(1) deteriorate",
+        "(2) stabilize",
+        "(3) worsen",
+        "(4) stagnate"],
 
     "7":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The writer’s ability to ________ complex historical events with emotional depth is what makes his novels so captivating.",
+        "(1) trivialize",
+        "(2) obscure",
+        "(3) chronicle",
+        "(4) dissect"],
 
     "8":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The sudden discovery of an ancient manuscript ________ the established theories about the civilization, causing a major shift in archaeological studies.",
+        "(1) reaffirmed",
+        "(2) contradicted",
+        "(3) ignored",
+        "(4) echoed"],
     
-    "1-8":[],
+    "1-8":[2,2,2,1,3,2,3,2],
     "time":"",
     "timeSec":0
 }

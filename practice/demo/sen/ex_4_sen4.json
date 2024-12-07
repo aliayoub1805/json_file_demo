@@ -1,61 +1,61 @@
 {
     "1":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The CEO’s announcement of the new initiative was met with ________, as the employees were excited about the potential for growth.",
+        "(1) indifference",
+        "(2) frustration",
+        "(3) skepticism",
+        "(4) enthusiasm"],
 
     "2":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The artist’s painting style was known for its ________ use of colors, creating a harmonious balance between vibrancy and subtlety.",
+        "(1) chaotic",
+        "(2) garish",
+        "(3) restrained",
+        "(4) dull"],
     
     "3":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The country’s financial stability was greatly ________ by the recent trade agreement, boosting investor confidence.",
+        "(1) facilitated",
+        "(2) jeopardized",
+        "(3) undermined",
+        "(4) isolated"],
 
     "4":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The novel’s plot was so ________ that readers found it difficult to follow the twists and turns, ultimately losing interest in the story.",
+        "(1) predictable",
+        "(2) convoluted",
+        "(3) straightforward",
+        "(4) coherent"],
 
     "5":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The scientist’s ________ exploration of deep-sea ecosystems led to several new discoveries, advancing the field of marine biology.",
+        "(1) shallow",
+        "(2) cursory",
+        "(3) meticulous",
+        "(4) superficial"],
     
     "6":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The candidate’s speech was carefully ________ to avoid controversy and appeal to the widest possible audience, ensuring a higher chance of winning the election.",
+        "(1) drafted",
+        "(2) ignored",
+        "(3) rejected",
+        "(4) ignored"],
 
     "7":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The hurricane left the town in a state of ________, with buildings destroyed, roads flooded, and many people displaced from their homes.",
+        "(1) tranquility",
+        "(2) devastation",
+        "(3) harmony",
+        "(4) prosperity"],
 
     "8":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The philosopher’s ideas were often ________, as he questioned widely accepted beliefs and provoked thought among his followers.",
+        "(1) accepted",
+        "(2) controversial",
+        "(3) passive",
+        "(4) conventional"],
     
-    "1-8":[],
+    "1-8":[4,3,1,2,3,1,2,2],
     "time":"",
     "timeSec":0
 }

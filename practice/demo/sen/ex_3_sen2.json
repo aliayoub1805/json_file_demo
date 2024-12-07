@@ -1,61 +1,61 @@
 {
     "1":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "Despite the fact that the company had been struggling financially for months, the CEO remained ________ about its future, believing it would soon recover.",
+        "(1) pessimistic",
+        "(2) uncertain",
+        "(3) optimistic",
+        "(4) indifferent"],
 
     "2":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The sudden and ________ changes in weather patterns have made farming in the region increasingly difficult for local agricultural workers.",
+        "(1) erratic",
+        "(2) gradual",
+        "(3) predictable",
+        "(4) harmonious"],
     
     "3":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The historian’s ________ analysis of the ancient texts revealed insights into the civilization’s religious practices that had been overlooked by previous scholars.",
+        "(1) superficial",
+        "(2) detailed",
+        "(3) casual",
+        "(4) biased"],
 
     "4":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "It is said that a good leader should be able to ________ complex situations and make decisions that benefit the greater good of the community.",
+        "(1) complicate",
+        "(2) simplify",
+        "(3) amplify",
+        "(4) distort"],
 
     "5":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The new architectural design is both ________ and sustainable, incorporating eco-friendly materials and innovative technology.",
+        "(1) traditional",
+        "(2) outdated",
+        "(3) revolutionary",
+        "(4) cumbersome"],
     
     "6":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "After years of intensive study, the scientist finally came to the ________ conclusion that the cure for the disease was within reach.",
+        "(1) equivocal",
+        "(2) conclusive",
+        "(3) ambiguous",
+        "(4) tentative"],
 
     "7":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The company faced severe criticism after the unethical practices of its executives were ________ by an investigative journalist.",
+        "(1) concealed",
+        "(2) fabricated",
+        "(3) exposed",
+        "(4) ignored"],
 
     "8":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The book’s complex structure and philosophical themes made it a ________ read, requiring multiple readings for full comprehension.",
+        "(1) tedious",
+        "(2) straightforward",
+        "(3) profound",
+        "(4) superficial"],
     
-    "1-8":[],
+    "1-8":[3,1,2,2,3,2,3,3],
     "time":"",
     "timeSec":0
 }

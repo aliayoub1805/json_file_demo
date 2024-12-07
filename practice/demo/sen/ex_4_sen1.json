@@ -1,61 +1,61 @@
 {
     "1":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The detective carefully examined the evidence, trying to ________ any clues that could lead to the criminal.",
+        "(1) discard",
+        "(2) conceal",
+        "(3) uncover",
+        "(4) ignore"],
 
     "2":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "Despite her ________ in the competition, she was determined to continue practicing and improving for future events.",
+        "(1) success",
+        "(2) failure",
+        "(3) mediocrity",
+        "(4) prominence"],
     
     "3":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The novel's themes of alienation and isolation ________ with many readers, who saw reflections of their own struggles in the protagonist's journey.",
+        "(1) repelled",
+        "(2) resonated",
+        "(3) conflicted",
+        "(4) confused"],
 
     "4":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The professor’s teaching methods were often considered ________, as he used unconventional approaches to engage his students.",
+        "(1) traditional",
+        "(2) innovative",
+        "(3) obsolete",
+        "(4) simplistic"],
 
     "5":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "After the long and ________ journey, the explorers finally reached the summit of the mountain, feeling both exhausted and triumphant.",
+        "(1) mundane",
+        "(2) grueling",
+        "(3) leisurely",
+        "(4) smooth"],
     
     "6":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The political leader's speech was a ________ appeal to the nation, urging unity and action in the face of crisis.",
+        "(1) trivial",
+        "(2) half-hearted",
+        "(3) heartfelt",
+        "(4) lukewarm"],
 
     "7":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The company's decision to invest in renewable energy was a ________ move, considering the growing global demand for sustainable solutions.",
+        "(1) reckless",
+        "(2) foresighted",
+        "(3) shortsighted",
+        "(4) impulsive"],
 
     "8":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The sudden ________ in the stock market left investors in a state of panic, with many struggling to understand the reasons behind the drop.",
+        "(1) growth",
+        "(2) fluctuation",
+        "(3) stability",
+        "(4) harmony"],
     
-    "1-8":[],
+    "1-8":[3,2,2,2,2,3,2,2],
     "time":"",
     "timeSec":0
 }

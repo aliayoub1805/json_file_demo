@@ -1,61 +1,61 @@
 {
     "1":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The professor’s ________ explanation of the scientific theory made it easier for the students to grasp the complex concept.",
+        "(1) ambiguous",
+        "(2) concise",
+        "(3) confusing",
+        "(4) disjointed"],
 
     "2":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The team’s ________ efforts led to the successful launch of the project, with all deadlines met and expectations exceeded.",
+        "(1) coordinated",
+        "(2) sporadic",
+        "(3) disorganized",
+        "(4) indifferent"],
     
     "3":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "After hours of discussion, the negotiators finally reached a ________ agreement that satisfied both parties.",
+        "(1) contentious",
+        "(2) temporary",
+        "(3) tentative",
+        "(4) mutually beneficial"],
 
     "4":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The documentary provided a ________ overview of the environmental challenges facing our planet, highlighting the most urgent issues.",
+        "(1) superficial",
+        "(2) dismissive",
+        "(3) comprehensive",
+        "(4) narrow"],
 
     "5":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "His decision to invest in the startup was ________ by the company’s impressive track record and innovative products.",
+        "(1) deterred",
+        "(2) influenced",
+        "(3) rejected",
+        "(4) contradicted"],
     
     "6":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The writer’s ________ style of prose captivated readers, with its lyrical quality and ability to evoke strong emotions.",
+        "(1) tedious",
+        "(2) dull",
+        "(3) evocative",
+        "(4) clumsy"],
 
     "7":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The political leader’s ________ speech inspired the crowd, instilling a sense of hope and unity in a time of crisis.",
+        "(1) lackluster",
+        "(2) incendiary",
+        "(3) motivational",
+        "(4) passive"],
 
     "8":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The research findings were so ________ that they completely changed the understanding of the issue and led to a paradigm shift in the field.",
+        "(1) groundbreaking",
+        "(2) insignificant",
+        "(3) trivial",
+        "(4) repetitive"],
     
-    "1-8":[],
+    "1-8":[2,1,4,3,2,3,3,1],
     "time":"",
     "timeSec":0
 }

@@ -1,61 +1,61 @@
 {
     "1":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The company decided to ________ its operations abroad in order to tap into emerging markets in Asia and Europe.",
+        "(1) retract",
+        "(2) expand",
+        "(3) diminish",
+        "(4) hinder"],
 
     "2":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The manager was ________ in addressing the issues raised by the team, ensuring that all concerns were considered before making a decision.",
+        "(1) negligent",
+        "(2) hesitant",
+        "(3) decisive",
+        "(4) attentive"],
     
     "3":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The author’s work is often seen as a ________ commentary on the political landscape, offering both criticism and insight into the state of society.",
+        "(1) shallow",
+        "(2) superficial",
+        "(3) profound",
+        "(4) trivial"],
 
     "4":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "After years of peaceful negotiation, the two countries finally reached a ________ agreement that would end the conflict and promote lasting peace.",
+        "(1) temporary",
+        "(2) fragile",
+        "(3) decisive",
+        "(4) tentative"],
 
     "5":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The sudden departure of the lead actor left the production in ________, as the producers scrambled to find a replacement.",
+        "(1) chaos",
+        "(2) tranquility",
+        "(3) harmony",
+        "(4) satisfaction"],
     
     "6":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The doctor advised the patient to ________ from physical activity until further tests could determine the severity of the injury.",
+        "(1) indulge",
+        "(2) refrain",
+        "(3) proceed",
+        "(4) advocate"],
 
     "7":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The renowned scientist’s discovery was so groundbreaking that it ________ previous understandings of physics, challenging the very principles of the field.",
+        "(1) confirmed",
+        "(2) validated",
+        "(3) undermined",
+        "(4) disregarded"],
 
     "8":[
-        "",
-        "(1) ",
-        "(2) ",
-        "(3) ",
-        "(4)"],
+        "The social reformer’s speech was a ________ call to action, urging individuals to unite and fight for justice in the face of widespread inequality.",
+        "(1) passive",
+        "(2) fervent",
+        "(3) detached",
+        "(4) subdued"],
     
-    "1-8":[],
+    "1-8":[2,4,3,4,1,2,3,2],
     "time":"",
     "timeSec":0
 }
